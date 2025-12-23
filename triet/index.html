@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc Nghiệm Ôn Tập</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Trắc Nghiệm Ôn Tập</h1>
+        
+        <div id="chapter-selection">
+            <label for="chapter-select">Chọn chương để ôn tập:</label>
+            <select id="chapter-select">
+                <option value="">-- Chọn chương --</option>
+            </select>
+            <button id="start-btn">Bắt đầu làm bài</button>
+        </div>
+
+        <div id="quiz-area" style="display: none;">
+            <div id="quiz">
+                <!-- Câu hỏi sẽ được hiển thị ở đây -->
+            </div>
+            <div class="controls">
+                <button id="submit">Nộp bài</button>
+                <button id="retry" style="display:none;">Làm lại</button>
+                <button id="back-btn">Chọn chương khác</button>
+            </div>
+            <div id="results" class="results"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

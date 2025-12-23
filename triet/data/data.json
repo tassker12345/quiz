@@ -1,0 +1,4201 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chương 1",
+    "question": "Thuật ngữ 'Triết học' (Philosophia) trong tiếng Hy Lạp cổ đại có nghĩa là gì?",
+    "options": [
+      "A. Sự giải thoát khổ đau",
+      "B. Tình yêu sự thông thái (yêu mến sự khôn ngoan)",
+      "C. Con đường suy ngẫm",
+      "D. Khoa học của mọi khoa học"
+    ],
+    "answer": "B. Tình yêu sự thông thái (yêu mến sự khôn ngoan)"
+  },
+  {
+    "id": 2,
+    "chapter": "Chương 1",
+    "question": "Nguồn gốc ra đời của triết học bao gồm hai yếu tố nào?",
+    "options": [
+      "A. Nguồn gốc tự nhiên và nguồn gốc xã hội",
+      "B. Nguồn gốc nhận thức và nguồn gốc xã hội",
+      "C. Nguồn gốc kinh tế và nguồn gốc chính trị",
+      "D. Nguồn gốc văn hóa và nguồn gốc tôn giáo"
+    ],
+    "answer": "B. Nguồn gốc nhận thức và nguồn gốc xã hội"
+  },
+  {
+    "id": 3,
+    "chapter": "Chương 1",
+    "question": "Về mặt nhận thức, triết học ra đời khi tư duy con người đạt đến trình độ nào?",
+    "options": [
+      "A. Tư duy hình tượng và cảm tính",
+      "B. Tư duy trừu tượng hóa, khái quát hóa cao và rút ra cái chung",
+      "C. Tư duy kinh nghiệm thực tế",
+      "D. Tư duy thần thoại"
+    ],
+    "answer": "B. Tư duy trừu tượng hóa, khái quát hóa cao và rút ra cái chung"
+  },
+  {
+    "id": 4,
+    "chapter": "Chương 1",
+    "question": "Về mặt xã hội, triết học ra đời trong điều kiện nào?",
+    "options": [
+      "A. Xã hội cộng sản nguyên thủy",
+      "B. Xã hội có sự phân công lao động trí óc tách khỏi lao động chân tay và xuất hiện chế độ tư hữu",
+      "C. Xã hội tư bản chủ nghĩa",
+      "D. Xã hội phong kiến tập quyền"
+    ],
+    "answer": "B. Xã hội có sự phân công lao động trí óc tách khỏi lao động chân tay và xuất hiện chế độ tư hữu"
+  },
+  {
+    "id": 5,
+    "chapter": "Chương 1",
+    "question": "Thế giới quan là gì?",
+    "options": [
+      "A. Là toàn bộ những quan niệm của con người về thế giới, về bản thân con người và vị trí của con người trong thế giới đó",
+      "B. Là sự hiểu biết về các hiện tượng tự nhiên",
+      "C. Là niềm tin tôn giáo về đấng tối cao",
+      "D. Là các kiến thức khoa học cụ thể"
+    ],
+    "answer": "A. Là toàn bộ những quan niệm của con người về thế giới, về bản thân con người và vị trí của con người trong thế giới đó"
+  },
+  {
+    "id": 6,
+    "chapter": "Chương 1",
+    "question": "Ba hình thức cơ bản của thế giới quan trong lịch sử là gì?",
+    "options": [
+      "A. Huyền thoại, Tôn giáo, Khoa học",
+      "B. Thần thoại, Tôn giáo, Triết học",
+      "C. Duy tâm, Duy vật, Nhị nguyên",
+      "D. Ngây thơ, Siêu hình, Biện chứng"
+    ],
+    "answer": "B. Thần thoại, Tôn giáo, Triết học"
+  },
+  {
+    "id": 7,
+    "chapter": "Chương 1",
+    "question": "Hạt nhân lý luận của thế giới quan là gì?",
+    "options": [
+      "A. Tôn giáo",
+      "B. Khoa học tự nhiên",
+      "C. Triết học",
+      "D. Nghệ thuật"
+    ],
+    "answer": "C. Triết học"
+  },
+  {
+    "id": 8,
+    "chapter": "Chương 1",
+    "question": "Đối tượng nghiên cứu của triết học Mác - Lênin là gì?",
+    "options": [
+      "A. Các sự vật hiện tượng riêng lẻ",
+      "B. Thế giới tâm linh",
+      "C. Những quy luật chung nhất của tự nhiên, xã hội và tư duy",
+      "D. Cấu trúc của vật chất"
+    ],
+    "answer": "C. Những quy luật chung nhất của tự nhiên, xã hội và tư duy"
+  },
+  {
+    "id": 9,
+    "chapter": "Chương 1",
+    "question": "Theo Ph.Ăngghen, vấn đề cơ bản lớn của mọi triết học, đặc biệt là triết học hiện đại, là vấn đề gì?",
+    "options": [
+      "A. Mối quan hệ giữa con người và tự nhiên",
+      "B. Mối quan hệ giữa tư duy và tồn tại (giữa ý thức và vật chất)",
+      "C. Mối quan hệ giữa lý luận và thực tiễn",
+      "D. Mối quan hệ giữa đạo đức và pháp luật"
+    ],
+    "answer": "B. Mối quan hệ giữa tư duy và tồn tại (giữa ý thức và vật chất)"
+  },
+  {
+    "id": 10,
+    "chapter": "Chương 1",
+    "question": "Vấn đề cơ bản của triết học có mấy mặt?",
+    "options": [
+      "A. Một mặt",
+      "B. Hai mặt",
+      "C. Ba mặt",
+      "D. Bốn mặt"
+    ],
+    "answer": "B. Hai mặt"
+  },
+  {
+    "id": 11,
+    "chapter": "Chương 1",
+    "question": "Mặt thứ nhất của vấn đề cơ bản của triết học (Bản thể luận) trả lời câu hỏi nào?",
+    "options": [
+      "A. Con người có nhận thức được thế giới không?",
+      "B. Giữa ý thức và vật chất, cái nào có trước, cái nào có sau, cái nào quyết định cái nào?",
+      "C. Loài người sinh ra từ đâu?",
+      "D. Mục đích sống là gì?"
+    ],
+    "answer": "B. Giữa ý thức và vật chất, cái nào có trước, cái nào có sau, cái nào quyết định cái nào?"
+  },
+  {
+    "id": 12,
+    "chapter": "Chương 1",
+    "question": "Mặt thứ hai của vấn đề cơ bản của triết học (Nhận thức luận) trả lời câu hỏi nào?",
+    "options": [
+      "A. Vật chất là gì?",
+      "B. Con người có khả năng nhận thức được thế giới hay không?",
+      "C. Ý thức tác động đến vật chất như thế nào?",
+      "D. Thế giới có biến đổi không?"
+    ],
+    "answer": "B. Con người có khả năng nhận thức được thế giới hay không?"
+  },
+  {
+    "id": 13,
+    "chapter": "Chương 1",
+    "question": "Việc giải quyết mặt thứ nhất của vấn đề cơ bản của triết học chia các nhà triết học thành hai trường phái lớn nào?",
+    "options": [
+      "A. Khả tri luận và Bất khả tri luận",
+      "B. Biện chứng và Siêu hình",
+      "C. Chủ nghĩa duy vật và Chủ nghĩa duy tâm",
+      "D. Nhất nguyên luận và Nhị nguyên luận"
+    ],
+    "answer": "C. Chủ nghĩa duy vật và Chủ nghĩa duy tâm"
+  },
+  {
+    "id": 14,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy vật là trường phái triết học cho rằng:",
+    "options": [
+      "A. Ý thức có trước, vật chất có sau, ý thức quyết định vật chất",
+      "B. Vật chất có trước, ý thức có sau, vật chất quyết định ý thức",
+      "C. Vật chất và ý thức cùng tồn tại song song",
+      "D. Thế giới không thể nhận thức được"
+    ],
+    "answer": "B. Vật chất có trước, ý thức có sau, vật chất quyết định ý thức"
+  },
+  {
+    "id": 15,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy tâm là trường phái triết học cho rằng:",
+    "options": [
+      "A. Ý thức, tinh thần có trước và quyết định vật chất",
+      "B. Vật chất có trước ý thức",
+      "C. Con người là trung tâm của vũ trụ",
+      "D. Khoa học là chân lý tối thượng"
+    ],
+    "answer": "A. Ý thức, tinh thần có trước và quyết định vật chất"
+  },
+  {
+    "id": 16,
+    "chapter": "Chương 1",
+    "question": "Có mấy hình thức cơ bản của chủ nghĩa duy vật trong lịch sử?",
+    "options": [
+      "A. 2 hình thức",
+      "B. 3 hình thức",
+      "C. 4 hình thức",
+      "D. 5 hình thức"
+    ],
+    "answer": "B. 3 hình thức"
+  },
+  {
+    "id": 17,
+    "chapter": "Chương 1",
+    "question": "Đâu là ba hình thức cơ bản của chủ nghĩa duy vật?",
+    "options": [
+      "A. CNDV Ngây thơ, CNDV Siêu hình, CNDV Biện chứng",
+      "B. CNDV Cổ đại, CNDV Trung cổ, CNDV Hiện đại",
+      "C. CNDV Khách quan, CNDV Chủ quan, CNDV Biện chứng",
+      "D. CNDV Khoa học, CNDV Tôn giáo, CNDV Lịch sử"
+    ],
+    "answer": "A. CNDV Ngây thơ, CNDV Siêu hình, CNDV Biện chứng"
+  },
+  {
+    "id": 18,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy vật chất phác (ngây thơ) thời cổ đại thường đồng nhất vật chất với:",
+    "options": [
+      "A. Những dạng cụ thể, cảm tính của vật chất (nước, lửa, khí...)",
+      "B. Ý niệm tuyệt đối",
+      "C. Nguyên tử và năng lượng",
+      "D. Thượng đế"
+    ],
+    "answer": "A. Những dạng cụ thể, cảm tính của vật chất (nước, lửa, khí...)"
+  },
+  {
+    "id": 19,
+    "chapter": "Chương 1",
+    "question": "Đặc điểm của Chủ nghĩa duy vật siêu hình (thế kỷ XVII - XVIII) là gì?",
+    "options": [
+      "A. Nhìn thế giới trong sự vận động không ngừng",
+      "B. Nhìn thế giới như một cỗ máy khổng lồ, các bộ phận biệt lập, tĩnh tại",
+      "C. Nhìn thế giới phụ thuộc vào ý muốn chủ quan",
+      "D. Đề cao vai trò của thực tiễn cách mạng"
+    ],
+    "answer": "B. Nhìn thế giới như một cỗ máy khổng lồ, các bộ phận biệt lập, tĩnh tại"
+  },
+  {
+    "id": 20,
+    "chapter": "Chương 1",
+    "question": "Hình thức phát triển cao nhất của chủ nghĩa duy vật là gì?",
+    "options": [
+      "A. Chủ nghĩa duy vật chất phác",
+      "B. Chủ nghĩa duy vật siêu hình",
+      "C. Chủ nghĩa duy vật biện chứng",
+      "D. Chủ nghĩa duy vật nhân bản"
+    ],
+    "answer": "C. Chủ nghĩa duy vật biện chứng"
+  },
+  {
+    "id": 21,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy tâm được chia thành những hình thức nào?",
+    "options": [
+      "A. Duy tâm chủ quan và Duy tâm khách quan",
+      "B. Duy tâm ngây thơ và Duy tâm khoa học",
+      "C. Duy tâm cổ điển và Duy tâm hiện đại",
+      "D. Duy tâm tôn giáo và Duy tâm thế tục"
+    ],
+    "answer": "A. Duy tâm chủ quan và Duy tâm khách quan"
+  },
+  {
+    "id": 22,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy tâm chủ quan thừa nhận điều gì?",
+    "options": [
+      "A. Thế giới phụ thuộc vào ý niệm tuyệt đối",
+      "B. Sự vật hiện tượng là phức hợp của những cảm giác của con người",
+      "C. Vật chất quyết định ý thức",
+      "D. Thế giới tồn tại khách quan"
+    ],
+    "answer": "B. Sự vật hiện tượng là phức hợp của những cảm giác của con người"
+  },
+  {
+    "id": 23,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy tâm khách quan thừa nhận điều gì?",
+    "options": [
+      "A. Ý thức con người quyết định thế giới",
+      "B. Thực tại là sản phẩm của một lực lượng tinh thần siêu nhiên (Ý niệm, Thượng đế)",
+      "C. Vật chất là nguồn gốc của ý thức",
+      "D. Không thể nhận thức được thế giới"
+    ],
+    "answer": "B. Thực tại là sản phẩm của một lực lượng tinh thần siêu nhiên (Ý niệm, Thượng đế)"
+  },
+  {
+    "id": 24,
+    "chapter": "Chương 1",
+    "question": "Thuyết Bất khả tri (Agnosticism) quan niệm như thế nào về khả năng nhận thức?",
+    "options": [
+      "A. Con người hoàn toàn nhận thức được thế giới",
+      "B. Con người không thể hiểu biết được bản chất thật sự của sự vật",
+      "C. Nhận thức là sự hồi tưởng của linh hồn",
+      "D. Nhận thức phụ thuộc vào Thượng đế"
+    ],
+    "answer": "B. Con người không thể hiểu biết được bản chất thật sự của sự vật"
+  },
+  {
+    "id": 25,
+    "chapter": "Chương 1",
+    "question": "Triết học Nhị nguyên luận quan niệm thế nào về nguồn gốc thế giới?",
+    "options": [
+      "A. Chỉ có vật chất là nguồn gốc",
+      "B. Chỉ có ý thức là nguồn gốc",
+      "C. Vật chất và ý thức là hai nguyên thể song song tồn tại, không phụ thuộc nhau",
+      "D. Vật chất sinh ra ý thức"
+    ],
+    "answer": "C. Vật chất và ý thức là hai nguyên thể song song tồn tại, không phụ thuộc nhau"
+  },
+  {
+    "id": 26,
+    "chapter": "Chương 1",
+    "question": "Phương pháp biện chứng nhận thức đối tượng ở trạng thái nào?",
+    "options": [
+      "A. Cô lập, tách rời",
+      "B. Tĩnh tại, không vận động",
+      "C. Trong các mối liên hệ phổ biến, vận động và phát triển",
+      "D. Chỉ thấy cây mà không thấy rừng"
+    ],
+    "answer": "C. Trong các mối liên hệ phổ biến, vận động và phát triển"
+  },
+  {
+    "id": 27,
+    "chapter": "Chương 1",
+    "question": "Phương pháp siêu hình nhận thức đối tượng ở trạng thái nào?",
+    "options": [
+      "A. Cô lập, tách rời, tĩnh tại",
+      "B. Liên hệ, ràng buộc lẫn nhau",
+      "C. Vận động, biến đổi không ngừng",
+      "D. Chuyển hóa từ lượng thành chất"
+    ],
+    "answer": "A. Cô lập, tách rời, tĩnh tại"
+  },
+  {
+    "id": 28,
+    "chapter": "Chương 1",
+    "question": "Có mấy hình thức cơ bản của phép biện chứng?",
+    "options": [
+      "A. 2 hình thức",
+      "B. 3 hình thức",
+      "C. 4 hình thức",
+      "D. 5 hình thức"
+    ],
+    "answer": "B. 3 hình thức"
+  },
+  {
+    "id": 29,
+    "chapter": "Chương 1",
+    "question": "Đâu là ba hình thức cơ bản của phép biện chứng?",
+    "options": [
+      "A. PBC Chất phác cổ đại, PBC Duy tâm cổ điển Đức, PBC Duy vật",
+      "B. PBC Ngây thơ, PBC Siêu hình, PBC Khoa học",
+      "C. PBC Chủ quan, PBC Khách quan, PBC Lịch sử",
+      "D. PBC Hy Lạp, PBC Trung Quốc, PBC Mác-xít"
+    ],
+    "answer": "A. PBC Chất phác cổ đại, PBC Duy tâm cổ điển Đức, PBC Duy vật"
+  },
+  {
+    "id": 30,
+    "chapter": "Chương 1",
+    "question": "Đỉnh cao của phép biện chứng duy tâm là triết học của ai?",
+    "options": [
+      "A. Hêraclit",
+      "B. Hêghen (Hegel)",
+      "C. Phơbách (Feuerbach)",
+      "D. Căng (Kant)"
+    ],
+    "answer": "B. Hêghen (Hegel)"
+  },
+  {
+    "id": 31,
+    "chapter": "Chương 1",
+    "question": "Triết học Mác ra đời vào khoảng thời gian nào?",
+    "options": [
+      "A. Những năm 20 của thế kỷ XIX",
+      "B. Những năm 40 của thế kỷ XIX",
+      "C. Những năm 90 của thế kỷ XIX",
+      "D. Đầu thế kỷ XX"
+    ],
+    "answer": "B. Những năm 40 của thế kỷ XIX"
+  },
+  {
+    "id": 32,
+    "chapter": "Chương 1",
+    "question": "Điều kiện kinh tế - xã hội cho sự ra đời của triết học Mác là gì?",
+    "options": [
+      "A. Sự củng cố và phát triển của phương thức sản xuất tư bản chủ nghĩa",
+      "B. Sự xuất hiện của giai cấp vô sản như một lực lượng chính trị độc lập",
+      "C. Thực tiễn cách mạng của giai cấp công nhân",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 33,
+    "chapter": "Chương 1",
+    "question": "Ba phong trào đấu tranh của giai cấp công nhân tiêu biểu dẫn đến sự ra đời triết học Mác?",
+    "options": [
+      "A. Khởi nghĩa thợ dệt Lyông (Pháp), thợ dệt Xilêdi (Đức), phong trào Hiến chương (Anh)",
+      "B. Công xã Paris, Cách mạng tháng 10 Nga, Cách mạng tháng 8",
+      "C. Phong trào Cần Vương, Phong trào Đông Du, Duy Tân",
+      "D. Khởi nghĩa nô lệ Spartacus, Khởi nghĩa nông dân Đức"
+    ],
+    "answer": "A. Khởi nghĩa thợ dệt Lyông (Pháp), thợ dệt Xilêdi (Đức), phong trào Hiến chương (Anh)"
+  },
+  {
+    "id": 34,
+    "chapter": "Chương 1",
+    "question": "Ba tiền đề khoa học tự nhiên cho sự ra đời của triết học Mác là gì?",
+    "options": [
+      "A. Thuyết Nhật tâm, Định luật vạn vật hấp dẫn, Thuyết tương đối",
+      "B. Định luật bảo toàn và chuyển hóa năng lượng, Thuyết tế bào, Thuyết tiến hóa",
+      "C. Cơ học lượng tử, Thuyết Big Bang, Di truyền học",
+      "D. Hình học Ơclit, Số học, Giải phẫu học"
+    ],
+    "answer": "B. Định luật bảo toàn và chuyển hóa năng lượng, Thuyết tế bào, Thuyết tiến hóa"
+  },
+  {
+    "id": 35,
+    "chapter": "Chương 1",
+    "question": "Nguồn gốc lý luận trực tiếp của triết học Mác là gì?",
+    "options": [
+      "A. Triết học Hy Lạp cổ đại",
+      "B. Triết học cổ điển Đức",
+      "C. Kinh tế chính trị học cổ điển Anh",
+      "D. Chủ nghĩa xã hội không tưởng Pháp"
+    ],
+    "answer": "B. Triết học cổ điển Đức"
+  },
+  {
+    "id": 36,
+    "chapter": "Chương 1",
+    "question": "Hai nhà triết học cổ điển Đức có ảnh hưởng lớn nhất đến sự hình thành triết học Mác là ai?",
+    "options": [
+      "A. Kant và Hegel",
+      "B. Hegel và Feuerbach",
+      "C. Feuerbach và Schelling",
+      "D. Fichte và Hegel"
+    ],
+    "answer": "B. Hegel và Feuerbach"
+  },
+  {
+    "id": 37,
+    "chapter": "Chương 1",
+    "question": "C.Mác và Ph.Ăngghen đã kế thừa 'hạt nhân hợp lý' nào trong triết học của Hêghen?",
+    "options": [
+      "A. Chủ nghĩa duy tâm",
+      "B. Phép biện chứng",
+      "C. Chủ nghĩa duy vật",
+      "D. Tư tưởng về nhà nước"
+    ],
+    "answer": "B. Phép biện chứng"
+  },
+  {
+    "id": 38,
+    "chapter": "Chương 1",
+    "question": "C.Mác và Ph.Ăngghen đã kế thừa 'hạt nhân hợp lý' nào trong triết học của Phơbách?",
+    "options": [
+      "A. Phép biện chứng",
+      "B. Chủ nghĩa duy vật",
+      "C. Quan điểm siêu hình",
+      "D. Tư tưởng tôn giáo"
+    ],
+    "answer": "B. Chủ nghĩa duy vật"
+  },
+  {
+    "id": 39,
+    "chapter": "Chương 1",
+    "question": "Bước ngoặt cách mạng trong triết học do Mác và Ăngghen thực hiện là gì?",
+    "options": [
+      "A. Thống nhất giữa CNDV và Phép biện chứng",
+      "B. Sáng tạo ra Chủ nghĩa duy vật lịch sử",
+      "C. Thống nhất lý luận và thực tiễn",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 40,
+    "chapter": "Chương 1",
+    "question": "Tác phẩm nào đánh dấu sự ra đời của Chủ nghĩa Mác?",
+    "options": [
+      "A. Bản thảo kinh tế - triết học năm 1844",
+      "B. Tuyên ngôn của Đảng Cộng sản (1848)",
+      "C. Hệ tư tưởng Đức",
+      "D. Bộ Tư bản"
+    ],
+    "answer": "B. Tuyên ngôn của Đảng Cộng sản (1848)"
+  },
+  {
+    "id": 41,
+    "chapter": "Chương 1",
+    "question": "Ai là người đã bảo vệ và phát triển chủ nghĩa Mác trong giai đoạn cuối thế kỷ XIX - đầu thế kỷ XX?",
+    "options": [
+      "A. Stalin",
+      "B. V.I.Lênin",
+      "C. Hồ Chí Minh",
+      "D. Mao Trạch Đông"
+    ],
+    "answer": "B. V.I.Lênin"
+  },
+  {
+    "id": 42,
+    "chapter": "Chương 1",
+    "question": "Tác phẩm 'Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán' là của ai?",
+    "options": [
+      "A. C.Mác",
+      "B. Ph.Ăngghen",
+      "C. V.I.Lênin",
+      "D. Hêghen"
+    ],
+    "answer": "C. V.I.Lênin"
+  },
+  {
+    "id": 43,
+    "chapter": "Chương 1",
+    "question": "Đối tượng của triết học Mác - Lênin phân biệt với các khoa học cụ thể ở chỗ nào?",
+    "options": [
+      "A. Nghiên cứu những quy luật riêng biệt",
+      "B. Nghiên cứu những quy luật chung nhất, phổ biến nhất",
+      "C. Nghiên cứu cấu tạo vật chất",
+      "D. Nghiên cứu hành vi con người"
+    ],
+    "answer": "B. Nghiên cứu những quy luật chung nhất, phổ biến nhất"
+  },
+  {
+    "id": 44,
+    "chapter": "Chương 1",
+    "question": "Chức năng thế giới quan của triết học Mác - Lênin có đặc điểm gì?",
+    "options": [
+      "A. Là thế giới quan duy tâm",
+      "B. Là thế giới quan duy vật biện chứng",
+      "C. Là thế giới quan tôn giáo",
+      "D. Là thế giới quan kinh nghiệm"
+    ],
+    "answer": "B. Là thế giới quan duy vật biện chứng"
+  },
+  {
+    "id": 45,
+    "chapter": "Chương 1",
+    "question": "Chức năng phương pháp luận của triết học Mác - Lênin là gì?",
+    "options": [
+      "A. Cung cấp những nguyên tắc chung nhất để định hướng nhận thức và hoạt động thực tiễn",
+      "B. Cung cấp cách giải quyết các bài toán cụ thể",
+      "C. Thay thế cho các phương pháp nghiên cứu chuyên ngành",
+      "D. Cung cấp các công cụ kỹ thuật"
+    ],
+    "answer": "A. Cung cấp những nguyên tắc chung nhất để định hướng nhận thức và hoạt động thực tiễn"
+  },
+  {
+    "id": 46,
+    "chapter": "Chương 1",
+    "question": "Vai trò của triết học Mác - Lênin đối với sự nghiệp đổi mới ở Việt Nam là gì?",
+    "options": [
+      "A. Là cơ sở lý luận, kim chỉ nam cho hành động",
+      "B. Là công cụ để quản lý kinh tế",
+      "C. Là giáo điều không được thay đổi",
+      "D. Không có vai trò gì đáng kể"
+    ],
+    "answer": "A. Là cơ sở lý luận, kim chỉ nam cho hành động"
+  },
+  {
+    "id": 47,
+    "chapter": "Chương 1",
+    "question": "Trong lịch sử triết học, nhà triết học nào đã đưa ra câu định nghĩa 'Triết học là khoa học của mọi khoa học'?",
+    "options": [
+      "A. Arixtốt (Aristotle)",
+      "B. C.Mác",
+      "C. Hêghen",
+      "D. Đây là quan niệm sai lầm của triết học tự nhiên cũ, không phải của một người cụ thể"
+    ],
+    "answer": "D. Đây là quan niệm sai lầm của triết học tự nhiên cũ, không phải của một người cụ thể"
+  },
+  {
+    "id": 48,
+    "chapter": "Chương 1",
+    "question": "Thực chất của bước ngoặt cách mạng trong triết học do Mác và Ăngghen thực hiện là việc chấm dứt quan niệm xem triết học là:",
+    "options": [
+      "A. Tình yêu sự thông thái",
+      "B. Khoa học của mọi khoa học",
+      "C. Thế giới quan",
+      "D. Phương pháp luận"
+    ],
+    "answer": "B. Khoa học của mọi khoa học"
+  },
+  {
+    "id": 49,
+    "chapter": "Chương 1",
+    "question": "Luận điểm: 'Các nhà triết học đã chỉ giải thích thế giới bằng nhiều cách khác nhau, song vấn đề là cải tạo thế giới' là của ai?",
+    "options": [
+      "A. V.I.Lênin",
+      "B. C.Mác",
+      "C. Ph.Ăngghen",
+      "D. Hêghen"
+    ],
+    "answer": "B. C.Mác"
+  },
+  {
+    "id": 50,
+    "chapter": "Chương 1",
+    "question": "Hệ thống triết học nào được coi là 'thời đại hoàng kim' của triết học duy vật biện chứng?",
+    "options": [
+      "A. Triết học Mác - Lênin",
+      "B. Triết học Cổ điển Đức",
+      "C. Triết học Khai sáng Pháp",
+      "D. Triết học Hy Lạp cổ đại"
+    ],
+    "answer": "A. Triết học Mác - Lênin"
+  },
+  {
+    "id": 51,
+    "chapter": "Chương 1",
+    "question": "Trong ba phát minh lớn của khoa học tự nhiên thế kỷ XIX, Thuyết tế bào đã chứng minh điều gì?",
+    "options": [
+      "A. Sự thống nhất về mặt nguồn gốc và hình thái của thế giới động, thực vật",
+      "B. Sự bảo toàn năng lượng",
+      "C. Nguồn gốc của loài người",
+      "D. Cấu trúc nguyên tử"
+    ],
+    "answer": "A. Sự thống nhất về mặt nguồn gốc và hình thái của thế giới động, thực vật"
+  },
+  {
+    "id": 52,
+    "chapter": "Chương 1",
+    "question": "Định luật bảo toàn và chuyển hóa năng lượng đã chứng minh tư tưởng biện chứng nào?",
+    "options": [
+      "A. Sự đứng im của vật chất",
+      "B. Sự thống nhất vật chất của thế giới và mối liên hệ chuyển hóa lẫn nhau giữa các dạng vận động",
+      "C. Sự đấu tranh sinh tồn",
+      "D. Sự tồn tại độc lập của các dạng năng lượng"
+    ],
+    "answer": "B. Sự thống nhất vật chất của thế giới và mối liên hệ chuyển hóa lẫn nhau giữa các dạng vận động"
+  },
+  {
+    "id": 53,
+    "chapter": "Chương 1",
+    "question": "Thuyết tiến hóa của Đác-uyn (Darwin) đã đập tan quan niệm nào?",
+    "options": [
+      "A. Quan niệm duy tâm, thần học về nguồn gốc muôn loài (Chúa sáng tạo)",
+      "B. Quan niệm duy vật về tự nhiên",
+      "C. Quan niệm về tính di truyền",
+      "D. Quan niệm về chọn lọc tự nhiên"
+    ],
+    "answer": "A. Quan niệm duy tâm, thần học về nguồn gốc muôn loài (Chúa sáng tạo)"
+  },
+  {
+    "id": 54,
+    "chapter": "Chương 1",
+    "question": "Kinh tế chính trị học cổ điển Anh (với đại diện là A.Smith và D.Ricardo) đã cung cấp tiền đề gì cho triết học Mác?",
+    "options": [
+      "A. Học thuyết giá trị thặng dư",
+      "B. Học thuyết về giá trị lao động",
+      "C. Học thuyết về chủ nghĩa đế quốc",
+      "D. Học thuyết về tiền tệ"
+    ],
+    "answer": "B. Học thuyết về giá trị lao động"
+  },
+  {
+    "id": 55,
+    "chapter": "Chương 1",
+    "question": "Hạn chế lớn nhất của Chủ nghĩa xã hội không tưởng Pháp là gì?",
+    "options": [
+      "A. Không thấy được sứ mệnh lịch sử của giai cấp công nhân và con đường cách mạng thực tiễn",
+      "B. Không phê phán chủ nghĩa tư bản",
+      "C. Không mong muốn xây dựng xã hội tốt đẹp",
+      "D. Không có tư tưởng nhân văn"
+    ],
+    "answer": "A. Không thấy được sứ mệnh lịch sử của giai cấp công nhân và con đường cách mạng thực tiễn"
+  },
+  {
+    "id": 56,
+    "chapter": "Chương 1",
+    "question": "C.Mác đã nhận xét: 'Các triết gia không mọc lên như nấm từ mặt đất...', điều này nhấn mạnh nguồn gốc nào của triết học?",
+    "options": [
+      "A. Nguồn gốc thần linh",
+      "B. Sự kế thừa những tinh hoa văn hóa, lý luận của nhân loại trước đó",
+      "C. Sự ngẫu nhiên",
+      "D. Sự áp đặt của giai cấp thống trị"
+    ],
+    "answer": "B. Sự kế thừa những tinh hoa văn hóa, lý luận của nhân loại trước đó"
+  },
+  {
+    "id": 57,
+    "chapter": "Chương 1",
+    "question": "Hạn chế lớn nhất trong triết học của Hêghen là gì?",
+    "options": [
+      "A. Tính chất duy vật",
+      "B. Tính chất duy tâm thần bí (lộn ngược đầu xuống đất)",
+      "C. Phép biện chứng",
+      "D. Tư tưởng phát triển"
+    ],
+    "answer": "B. Tính chất duy tâm thần bí (lộn ngược đầu xuống đất)"
+  },
+  {
+    "id": 58,
+    "chapter": "Chương 1",
+    "question": "Hạn chế lớn nhất trong triết học của Phơbách là gì?",
+    "options": [
+      "A. Duy tâm về tự nhiên",
+      "B. Duy vật siêu hình và duy tâm về lịch sử xã hội",
+      "C. Phủ nhận vai trò của vật chất",
+      "D. Đề cao quá mức phép biện chứng"
+    ],
+    "answer": "B. Duy vật siêu hình và duy tâm về lịch sử xã hội"
+  },
+  {
+    "id": 59,
+    "chapter": "Chương 1",
+    "question": "Tác phẩm nào thể hiện sự chuyển biến lập trường của C.Mác từ duy tâm sang duy vật, từ dân chủ cách mạng sang cộng sản chủ nghĩa?",
+    "options": [
+      "A. Góp phần phê phán triết học pháp quyền của Hêghen",
+      "B. Tuyên ngôn Đảng Cộng sản",
+      "C. Hệ tư tưởng Đức",
+      "D. Luận cương về Phơbách"
+    ],
+    "answer": "A. Góp phần phê phán triết học pháp quyền của Hêghen"
+  },
+  {
+    "id": 60,
+    "chapter": "Chương 1",
+    "question": "Phát kiến vĩ đại nhất của C.Mác trong lĩnh vực triết học xã hội là gì?",
+    "options": [
+      "A. Học thuyết giá trị thặng dư",
+      "B. Chủ nghĩa duy vật lịch sử",
+      "C. Sứ mệnh lịch sử của giai cấp công nhân",
+      "D. Phép biện chứng duy vật"
+    ],
+    "answer": "B. Chủ nghĩa duy vật lịch sử"
+  },
+  {
+    "id": 61,
+    "chapter": "Chương 1",
+    "question": "Ba bộ phận cấu thành của Chủ nghĩa Mác - Lênin là gì?",
+    "options": [
+      "A. Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, CNXH khoa học",
+      "B. Toán học, Vật lý học, Hóa học",
+      "C. Đạo đức học, Thẩm mỹ học, Logic học",
+      "D. Lịch sử Đảng, Tư tưởng Hồ Chí Minh, Triết học"
+    ],
+    "answer": "A. Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, CNXH khoa học"
+  },
+  {
+    "id": 62,
+    "chapter": "Chương 1",
+    "question": "Luận điểm về vai trò của 'Thực tiễn' lần đầu tiên được C.Mác trình bày rõ trong tác phẩm nào?",
+    "options": [
+      "A. Luận cương về Phơbách (1845)",
+      "B. Bộ Tư bản",
+      "C. Gia đình thần thánh",
+      "D. Sự khốn cùng của triết học"
+    ],
+    "answer": "A. Luận cương về Phơbách (1845)"
+  },
+  {
+    "id": 63,
+    "chapter": "Chương 1",
+    "question": "Thực chất cuộc cách mạng trong triết học do Mác và Ăngghen thực hiện là gì?",
+    "options": [
+      "A. Tìm ra nguyên tử",
+      "B. Xây dựng được chủ nghĩa duy vật hoàn bị (duy vật cả trong tự nhiên và xã hội)",
+      "C. Xây dựng hệ thống triết học duy tâm khách quan",
+      "D. Phủ nhận hoàn toàn triết học cũ"
+    ],
+    "answer": "B. Xây dựng được chủ nghĩa duy vật hoàn bị (duy vật cả trong tự nhiên và xã hội)"
+  },
+  {
+    "id": 64,
+    "chapter": "Chương 1",
+    "question": "Giai đoạn Lênin bảo vệ và phát triển triết học Mác diễn ra trong bối cảnh nào?",
+    "options": [
+      "A. Chủ nghĩa tư bản chuyển sang giai đoạn đế quốc chủ nghĩa",
+      "B. Khoa học tự nhiên (vật lý học) có cuộc khủng hoảng về phương pháp luận",
+      "C. Các trào lưu cơ hội tấn công vào chủ nghĩa Mác",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 65,
+    "chapter": "Chương 1",
+    "question": "Cuộc khủng hoảng trong vật lý học cuối thế kỷ XIX đầu thế kỷ XX (khi phát hiện ra tia X, điện tử...) dẫn đến quan niệm sai lầm nào?",
+    "options": [
+      "A. 'Vật chất tiêu tan mất'",
+      "B. Vật chất là vĩnh cửu",
+      "C. Nguyên tử là nhỏ nhất",
+      "D. Năng lượng là vật chất"
+    ],
+    "answer": "A. 'Vật chất tiêu tan mất'"
+  },
+  {
+    "id": 66,
+    "chapter": "Chương 1",
+    "question": "Tác phẩm nào của Lênin đã tổng kết thành tựu KH-TN và phê phán chủ nghĩa duy tâm vật lý học?",
+    "options": [
+      "A. Làm gì?",
+      "B. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "C. Nhà nước và cách mạng",
+      "D. Bút ký triết học"
+    ],
+    "answer": "B. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán"
+  },
+  {
+    "id": 67,
+    "chapter": "Chương 1",
+    "question": "Chính sách kinh tế mới (NEP) của Lênin là sự vận dụng sáng tạo triết học Mác vào?",
+    "options": [
+      "A. Thời kỳ quá độ lên chủ nghĩa xã hội",
+      "B. Thời kỳ cộng sản nguyên thủy",
+      "C. Thời kỳ chiến tranh",
+      "D. Thời kỳ tư bản chủ nghĩa"
+    ],
+    "answer": "A. Thời kỳ quá độ lên chủ nghĩa xã hội"
+  },
+  {
+    "id": 68,
+    "chapter": "Chương 1",
+    "question": "Ở Việt Nam, Chủ tịch Hồ Chí Minh đã vận dụng sáng tạo chủ nghĩa Mác - Lênin thể hiện qua:",
+    "options": [
+      "A. Tư tưởng về con đường cách mạng giải phóng dân tộc gắn liền với CNXH",
+      "B. Tư tưởng nho giáo",
+      "C. Tư tưởng tư sản",
+      "D. Chủ nghĩa dân túy"
+    ],
+    "answer": "A. Tư tưởng về con đường cách mạng giải phóng dân tộc gắn liền với CNXH"
+  },
+  {
+    "id": 69,
+    "chapter": "Chương 1",
+    "question": "Vai trò của triết học Mác - Lênin trong đời sống xã hội được thể hiện chủ yếu qua hai chức năng nào?",
+    "options": [
+      "A. Chức năng giải trí và thẩm mỹ",
+      "B. Chức năng thế giới quan và phương pháp luận",
+      "C. Chức năng quản lý và kinh tế",
+      "D. Chức năng giáo dục và giao tiếp"
+    ],
+    "answer": "B. Chức năng thế giới quan và phương pháp luận"
+  },
+  {
+    "id": 70,
+    "chapter": "Chương 1",
+    "question": "Thế giới quan duy vật biện chứng có vai trò gì đối với con người?",
+    "options": [
+      "A. Giúp con người thoát ly thực tế",
+      "B. Giúp con người nhìn nhận thế giới một cách khoa học, khách quan để cải tạo thế giới",
+      "C. Giúp con người tin vào số phận",
+      "D. Giúp con người thỏa mãn trí tò mò"
+    ],
+    "answer": "B. Giúp con người nhìn nhận thế giới một cách khoa học, khách quan để cải tạo thế giới"
+  },
+  {
+    "id": 71,
+    "chapter": "Chương 1",
+    "question": "Phương pháp luận biện chứng duy vật giúp chúng ta tránh được sai lầm nào trong tư duy?",
+    "options": [
+      "A. Chủ quan duy ý chí, phiến diện, cứng nhắc (giáo điều)",
+      "B. Tư duy linh hoạt",
+      "C. Tư duy sáng tạo",
+      "D. Tư duy phê phán"
+    ],
+    "answer": "A. Chủ quan duy ý chí, phiến diện, cứng nhắc (giáo điều)"
+  },
+  {
+    "id": 72,
+    "chapter": "Chương 1",
+    "question": "Khi giải quyết các vấn đề xã hội, cần tránh bệnh 'chủ quan duy ý chí', đây là yêu cầu của nguyên tắc nào?",
+    "options": [
+      "A. Nguyên tắc khách quan",
+      "B. Nguyên tắc toàn diện",
+      "C. Nguyên tắc lịch sử",
+      "D. Nguyên tắc phát triển"
+    ],
+    "answer": "A. Nguyên tắc khách quan"
+  },
+  {
+    "id": 73,
+    "chapter": "Chương 1",
+    "question": "Triết học Mác - Lênin là hệ tư tưởng của giai cấp nào?",
+    "options": [
+      "A. Giai cấp tư sản",
+      "B. Giai cấp nông dân",
+      "C. Giai cấp công nhân và nhân dân lao động",
+      "D. Tầng lớp trí thức"
+    ],
+    "answer": "C. Giai cấp công nhân và nhân dân lao động"
+  },
+  {
+    "id": 74,
+    "chapter": "Chương 1",
+    "question": "Đặc điểm nổi bật của triết học Mác - Lênin là tính đảng và tính...",
+    "options": [
+      "A. Tính tôn giáo",
+      "B. Tính khoa học",
+      "C. Tính chủ quan",
+      "D. Tính siêu hình"
+    ],
+    "answer": "B. Tính khoa học"
+  },
+  {
+    "id": 75,
+    "chapter": "Chương 1",
+    "question": "Sự thống nhất giữa tính đảng và tính khoa học là đặc trưng của triết học nào?",
+    "options": [
+      "A. Triết học Mác - Lênin",
+      "B. Triết học kinh viện",
+      "C. Triết học hiện sinh",
+      "D. Triết học thực dụng"
+    ],
+    "answer": "A. Triết học Mác - Lênin"
+  },
+  {
+    "id": 76,
+    "chapter": "Chương 1",
+    "question": "Triết học nào cho rằng: 'Thế giới là cái bóng của ý niệm'?",
+    "options": [
+      "A. Triết học Platon (Duy tâm khách quan)",
+      "B. Triết học Mác",
+      "C. Triết học Đêmôcrit",
+      "D. Triết học Lão Tử"
+    ],
+    "answer": "A. Triết học Platon (Duy tâm khách quan)"
+  },
+  {
+    "id": 77,
+    "chapter": "Chương 1",
+    "question": "Câu nói 'Tôi tư duy, nên tôi tồn tại' (Cogito, ergo sum) là của nhà triết học nào?",
+    "options": [
+      "A. Đề-các (Descartes) - Nhị nguyên luận",
+      "B. Hêghen",
+      "C. C.Mác",
+      "D. Bê-cơn (Bacon)"
+    ],
+    "answer": "A. Đề-các (Descartes) - Nhị nguyên luận"
+  },
+  {
+    "id": 78,
+    "chapter": "Chương 1",
+    "question": "Trường phái triết học nào tuyệt đối hóa vai trò của cảm giác, coi 'tồn tại là cái được cảm biết'?",
+    "options": [
+      "A. Duy tâm chủ quan (Béc-cơ-li)",
+      "B. Duy vật biện chứng",
+      "C. Duy vật siêu hình",
+      "D. Duy tâm khách quan"
+    ],
+    "answer": "A. Duy tâm chủ quan (Béc-cơ-li)"
+  },
+  {
+    "id": 79,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy vật biện chứng do ai sáng lập?",
+    "options": [
+      "A. C.Mác và Ph.Ăngghen",
+      "B. V.I.Lênin",
+      "C. Hêghen",
+      "D. Phơbách"
+    ],
+    "answer": "A. C.Mác và Ph.Ăngghen"
+  },
+  {
+    "id": 80,
+    "chapter": "Chương 1",
+    "question": "Chủ nghĩa duy vật biện chứng do ai bảo vệ và phát triển trong thế kỷ XX?",
+    "options": [
+      "A. C.Mác",
+      "B. Ph.Ăngghen",
+      "C. V.I.Lênin",
+      "D. Stalin"
+    ],
+    "answer": "C. V.I.Lênin"
+  },
+  {
+    "id": 81,
+    "chapter": "Chương 1",
+    "question": "Theo triết học Mác - Lênin, động lực chủ yếu của sự phát triển khoa học là gì?",
+    "options": [
+      "A. Sự tò mò của con người",
+      "B. Nhu cầu của thực tiễn sản xuất và đời sống",
+      "C. Sự tài trợ của nhà nước",
+      "D. Sự cạnh tranh giữa các nhà khoa học"
+    ],
+    "answer": "B. Nhu cầu của thực tiễn sản xuất và đời sống"
+  },
+  {
+    "id": 82,
+    "chapter": "Chương 1",
+    "question": "Phát minh ra Lửa của người nguyên thủy có ý nghĩa gì đối với sự ra đời của triết học?",
+    "options": [
+      "A. Không có ý nghĩa gì",
+      "B. Thúc đẩy bộ não phát triển, tạo tiền đề cho tư duy trừu tượng",
+      "C. Làm con người sợ hãi",
+      "D. Tạo ra tôn giáo"
+    ],
+    "answer": "B. Thúc đẩy bộ não phát triển, tạo tiền đề cho tư duy trừu tượng"
+  },
+  {
+    "id": 83,
+    "chapter": "Chương 1",
+    "question": "Tại sao triết học Mác - Lênin là vũ khí tinh thần của giai cấp công nhân?",
+    "options": [
+      "A. Vì nó phản ánh lợi ích và lập trường của giai cấp công nhân",
+      "B. Vì nó khó hiểu",
+      "C. Vì nó do người Đức sáng tạo",
+      "D. Vì nó chỉ dành cho công nhân đọc"
+    ],
+    "answer": "A. Vì nó phản ánh lợi ích và lập trường của giai cấp công nhân"
+  },
+  {
+    "id": 84,
+    "chapter": "Chương 1",
+    "question": "Khái niệm 'Triết học' ở phương Đông (Trung Quốc) thường mang nghĩa là gì?",
+    "options": [
+      "A. Truy tìm bản thể",
+      "B. Trí (sự hiểu biết sâu sắc, đạo lý)",
+      "C. Tình yêu sự thông thái",
+      "D. Kỹ năng tranh luận"
+    ],
+    "answer": "B. Trí (sự hiểu biết sâu sắc, đạo lý)"
+  },
+  {
+    "id": 85,
+    "chapter": "Chương 1",
+    "question": "Khái niệm 'Darshana' (Triết học) ở Ấn Độ cổ đại có nghĩa là gì?",
+    "options": [
+      "A. Chiêm ngưỡng (suy ngẫm về chân lý để giải thoát)",
+      "B. Khoa học tự nhiên",
+      "C. Nghệ thuật sống",
+      "D. Chính trị học"
+    ],
+    "answer": "A. Chiêm ngưỡng (suy ngẫm về chân lý để giải thoát)"
+  },
+  {
+    "id": 86,
+    "chapter": "Chương 1",
+    "question": "Sự khác biệt căn bản giữa triết học và các khoa học cụ thể khác là ở...",
+    "options": [
+      "A. Tính chân thực",
+      "B. Tính trừu tượng và khái quát hóa cao độ",
+      "C. Tính thực tiễn",
+      "D. Tính lịch sử"
+    ],
+    "answer": "B. Tính trừu tượng và khái quát hóa cao độ"
+  },
+  {
+    "id": 87,
+    "chapter": "Chương 1",
+    "question": "Câu hỏi: 'Thế giới quanh ta là thực hay ảo?' thuộc về lĩnh vực nào của triết học?",
+    "options": [
+      "A. Đạo đức học",
+      "B. Bản thể luận",
+      "C. Logic học",
+      "D. Thẩm mỹ học"
+    ],
+    "answer": "B. Bản thể luận"
+  },
+  {
+    "id": 88,
+    "chapter": "Chương 1",
+    "question": "Câu hỏi: 'Làm thế nào để biết điều ta biết là đúng?' thuộc về lĩnh vực nào?",
+    "options": [
+      "A. Bản thể luận",
+      "B. Nhận thức luận",
+      "C. Chính trị học",
+      "D. Xã hội học"
+    ],
+    "answer": "B. Nhận thức luận"
+  },
+  {
+    "id": 89,
+    "chapter": "Chương 1",
+    "question": "Tại sao nói sự ra đời của triết học Mác là một tất yếu lịch sử?",
+    "options": [
+      "A. Vì C.Mác là thiên tài",
+      "B. Vì nó là sản phẩm của sự chín muồi các điều kiện kinh tế - xã hội và khoa học thời đại đó",
+      "C. Vì sự thất bại của các trào lưu triết học khác",
+      "D. Vì giai cấp tư sản muốn có triết học mới"
+    ],
+    "answer": "B. Vì nó là sản phẩm của sự chín muồi các điều kiện kinh tế - xã hội và khoa học thời đại đó"
+  },
+  {
+    "id": 90,
+    "chapter": "Chương 1",
+    "question": "Vai trò định hướng của triết học Mác - Lênin đối với các khoa học cụ thể thể hiện ở chỗ:",
+    "options": [
+      "A. Cung cấp các công thức toán học",
+      "B. Cung cấp cơ sở thế giới quan và phương pháp luận đúng đắn cho nghiên cứu khoa học",
+      "C. Thay thế việc nghiên cứu thực nghiệm",
+      "D. Quyết định kết quả nghiên cứu"
+    ],
+    "answer": "B. Cung cấp cơ sở thế giới quan và phương pháp luận đúng đắn cho nghiên cứu khoa học"
+  },
+  {
+    "id": 91,
+    "chapter": "Chương 1",
+    "question": "Tính sáng tạo của triết học Mác - Lênin thể hiện ở đặc điểm nào?",
+    "options": [
+      "A. Luôn tự đổi mới, bổ sung và phát triển dựa trên thực tiễn",
+      "B. Giữ nguyên các nguyên lý từ thế kỷ XIX",
+      "C. Phủ nhận mọi thành tựu mới",
+      "D. Chỉ dựa vào sách vở cũ"
+    ],
+    "answer": "A. Luôn tự đổi mới, bổ sung và phát triển dựa trên thực tiễn"
+  },
+  {
+    "id": 92,
+    "chapter": "Chương 1",
+    "question": "Trong công cuộc đổi mới ở Việt Nam, việc chuyển từ nền kinh tế tập trung quan liêu bao cấp sang kinh tế thị trường là sự vận dụng quan điểm triết học nào?",
+    "options": [
+      "A. Quan điểm duy tâm chủ quan",
+      "B. Quan điểm duy vật biện chứng (nhìn thẳng vào sự thật, tôn trọng quy luật khách quan)",
+      "C. Quan điểm siêu hình",
+      "D. Quan điểm hoài nghi"
+    ],
+    "answer": "B. Quan điểm duy vật biện chứng (nhìn thẳng vào sự thật, tôn trọng quy luật khách quan)"
+  },
+  {
+    "id": 93,
+    "chapter": "Chương 1",
+    "question": "Sự sụp đổ của mô hình CNXH ở Liên Xô và Đông Âu chứng tỏ điều gì về lý luận Mác - Lênin?",
+    "options": [
+      "A. Lý luận Mác - Lênin đã lỗi thời",
+      "B. Do vận dụng sai lầm, giáo điều, xa rời bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin",
+      "C. Chủ nghĩa tư bản là vĩnh cửu",
+      "D. Không thể xây dựng chủ nghĩa xã hội"
+    ],
+    "answer": "B. Do vận dụng sai lầm, giáo điều, xa rời bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin"
+  },
+  {
+    "id": 94,
+    "chapter": "Chương 1",
+    "question": "Việc học tập triết học Mác - Lênin giúp sinh viên rèn luyện năng lực gì quan trọng nhất?",
+    "options": [
+      "A. Ghi nhớ máy móc",
+      "B. Tư duy lý luận, phương pháp giải quyết vấn đề khoa học",
+      "C. Kỹ năng giao tiếp",
+      "D. Kỹ năng ngoại ngữ"
+    ],
+    "answer": "B. Tư duy lý luận, phương pháp giải quyết vấn đề khoa học"
+  },
+  {
+    "id": 95,
+    "chapter": "Chương 1",
+    "question": "'Triết học đóng vai trò là hạt nhân lý luận của thế giới quan', câu này nghĩa là gì?",
+    "options": [
+      "A. Triết học là phần nhỏ nhất",
+      "B. Triết học cung cấp hệ thống lý luận chung nhất, cốt lõi nhất cho các quan điểm về thế giới",
+      "C. Triết học nằm ở trung tâm trái đất",
+      "D. Triết học là môn học khó nhất"
+    ],
+    "answer": "B. Triết học cung cấp hệ thống lý luận chung nhất, cốt lõi nhất cho các quan điểm về thế giới"
+  },
+  {
+    "id": 96,
+    "chapter": "Chương 1",
+    "question": "Mối quan hệ giữa Triết học và Khoa học tự nhiên là:",
+    "options": [
+      "A. Tách rời nhau",
+      "B. Đối lập nhau",
+      "C. Gắn bó mật thiết, tác động qua lại lẫn nhau",
+      "D. Triết học cản trở khoa học"
+    ],
+    "answer": "C. Gắn bó mật thiết, tác động qua lại lẫn nhau"
+  },
+  {
+    "id": 97,
+    "chapter": "Chương 1",
+    "question": "Luận điểm 'Sự phát triển là cuộc đấu tranh của các mặt đối lập' thuộc về:",
+    "options": [
+      "A. Phép biện chứng",
+      "B. Phép siêu hình",
+      "C. Thuyết bất khả tri",
+      "D. Chủ nghĩa duy tâm chủ quan"
+    ],
+    "answer": "A. Phép biện chứng"
+  },
+  {
+    "id": 98,
+    "chapter": "Chương 1",
+    "question": "Ai là người đầu tiên đặt nền móng cho chủ nghĩa xã hội khoa học?",
+    "options": [
+      "A. Lênin",
+      "B. C.Mác và Ph.Ăngghen",
+      "C. Hêghen",
+      "D. Hồ Chí Minh"
+    ],
+    "answer": "B. C.Mác và Ph.Ăngghen"
+  },
+  {
+    "id": 99,
+    "chapter": "Chương 1",
+    "question": "Tư tưởng cốt lõi của 'Hệ tư tưởng Đức' là gì?",
+    "options": [
+      "A. Phê phán chủ nghĩa duy tâm của các trào lưu triết học Đức đương thời",
+      "B. Khẳng định vai trò của vật chất",
+      "C. Đề cao tôn giáo",
+      "D. Phủ nhận lịch sử"
+    ],
+    "answer": "A. Phê phán chủ nghĩa duy tâm của các trào lưu triết học Đức đương thời"
+  },
+  {
+    "id": 100,
+    "chapter": "Chương 1",
+    "question": "Để vận dụng tốt triết học Mác - Lênin vào thực tiễn, cần phải:",
+    "options": [
+      "A. Học thuộc lòng các nguyên lý",
+      "B. Vận dụng sáng tạo, phù hợp với điều kiện lịch sử cụ thể",
+      "C. Áp dụng y nguyên kinh nghiệm của nước khác",
+      "D. Chỉ cần lý thuyết suông"
+    ],
+    "answer": "B. Vận dụng sáng tạo, phù hợp với điều kiện lịch sử cụ thể"
+  },
+  {
+    "id": 101,
+    "chapter": "Chương 2",
+    "question": "Định nghĩa vật chất của V.I.Lênin được nêu trong tác phẩm nào?",
+    "options": [
+      "A. Biện chứng của tự nhiên",
+      "B. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "C. Bút ký triết học",
+      "D. Nhà nước và cách mạng"
+    ],
+    "answer": "B. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán"
+  },
+  {
+    "id": 102,
+    "chapter": "Chương 2",
+    "question": "Thuộc tính cơ bản nhất để phân biệt vật chất với ý thức trong định nghĩa của Lênin là gì?",
+    "options": [
+      "A. Tính có khối lượng",
+      "B. Tính vận động",
+      "C. Thực tại khách quan (tồn tại độc lập với ý thức)",
+      "D. Tính quảng tính"
+    ],
+    "answer": "C. Thực tại khách quan (tồn tại độc lập với ý thức)"
+  },
+  {
+    "id": 103,
+    "chapter": "Chương 2",
+    "question": "Theo quan điểm duy vật biện chứng, phương thức tồn tại của vật chất là gì?",
+    "options": [
+      "A. Đứng im",
+      "B. Vận động",
+      "C. Không gian",
+      "D. Thời gian"
+    ],
+    "answer": "B. Vận động"
+  },
+  {
+    "id": 104,
+    "chapter": "Chương 2",
+    "question": "Hình thức tồn tại của vật chất là gì?",
+    "options": [
+      "A. Vận động và đứng im",
+      "B. Không gian và thời gian",
+      "C. Cảm giác và tri giác",
+      "D. Năng lượng và khối lượng"
+    ],
+    "answer": "B. Không gian và thời gian"
+  },
+  {
+    "id": 105,
+    "chapter": "Chương 2",
+    "question": "Có mấy hình thức vận động cơ bản của vật chất theo cách phân chia của Ph.Ăngghen?",
+    "options": [
+      "A. 3 hình thức",
+      "B. 4 hình thức",
+      "C. 5 hình thức",
+      "D. 6 hình thức"
+    ],
+    "answer": "C. 5 hình thức"
+  },
+  {
+    "id": 106,
+    "chapter": "Chương 2",
+    "question": "Hình thức vận động nào là thấp nhất trong các hình thức vận động của vật chất?",
+    "options": [
+      "A. Vận động lý học",
+      "B. Vận động cơ học",
+      "C. Vận động hóa học",
+      "D. Vận động sinh học"
+    ],
+    "answer": "B. Vận động cơ học"
+  },
+  {
+    "id": 107,
+    "chapter": "Chương 2",
+    "question": "Hình thức vận động nào là cao nhất, phức tạp nhất?",
+    "options": [
+      "A. Vận động sinh học",
+      "B. Vận động xã hội",
+      "C. Vận động tư duy",
+      "D. Vận động hóa học"
+    ],
+    "answer": "B. Vận động xã hội"
+  },
+  {
+    "id": 108,
+    "chapter": "Chương 2",
+    "question": "Trạng thái 'đứng im' của vật chất được hiểu như thế nào?",
+    "options": [
+      "A. Là tuyệt đối, vĩnh viễn",
+      "B. Là tương đối, tạm thời và chỉ xảy ra trong một quan hệ nhất định",
+      "C. Vật chất không vận động",
+      "D. Không tồn tại trạng thái đứng im"
+    ],
+    "answer": "B. Là tương đối, tạm thời và chỉ xảy ra trong một quan hệ nhất định"
+  },
+  {
+    "id": 109,
+    "chapter": "Chương 2",
+    "question": "Tính chất của Không gian và Thời gian là gì?",
+    "options": [
+      "A. Tính khách quan, tính vĩnh cửu, tính vô tận",
+      "B. Tính chủ quan, tính hữu hạn",
+      "C. Tính ảo tưởng",
+      "D. Tính lệ thuộc vào ý thức"
+    ],
+    "answer": "A. Tính khách quan, tính vĩnh cửu, tính vô tận"
+  },
+  {
+    "id": 110,
+    "chapter": "Chương 2",
+    "question": "Thế giới thống nhất ở tính gì?",
+    "options": [
+      "A. Tính hiện thực",
+      "B. Tính vật chất",
+      "C. Tính ý niệm",
+      "D. Tính tồn tại"
+    ],
+    "answer": "B. Tính vật chất"
+  },
+  {
+    "id": 111,
+    "chapter": "Chương 2",
+    "question": "Nguồn gốc tự nhiên của ý thức gồm:",
+    "options": [
+      "A. Bộ óc người và thế giới khách quan",
+      "B. Lao động và ngôn ngữ",
+      "C. Phản ánh vật lý và phản ánh hóa học",
+      "D. Tâm lý động vật"
+    ],
+    "answer": "A. Bộ óc người và thế giới khách quan"
+  },
+  {
+    "id": 112,
+    "chapter": "Chương 2",
+    "question": "Thuộc tính phổ biến của mọi dạng vật chất, là cơ sở tự nhiên cho sự hình thành ý thức là gì?",
+    "options": [
+      "A. Tính khối lượng",
+      "B. Tính phản ánh",
+      "C. Tính năng lượng",
+      "D. Tính vận động"
+    ],
+    "answer": "B. Tính phản ánh"
+  },
+  {
+    "id": 113,
+    "chapter": "Chương 2",
+    "question": "Hình thức phản ánh cao nhất, đặc trưng cho vật chất có tổ chức cao là bộ não người gọi là gì?",
+    "options": [
+      "A. Phản ánh lý hóa",
+      "B. Phản ánh sinh học",
+      "C. Phản ánh tâm lý",
+      "D. Phản ánh ý thức (năng động, sáng tạo)"
+    ],
+    "answer": "D. Phản ánh ý thức (năng động, sáng tạo)"
+  },
+  {
+    "id": 114,
+    "chapter": "Chương 2",
+    "question": "Yếu tố nào đóng vai trò trực tiếp và quyết định nhất đối với sự ra đời của ý thức?",
+    "options": [
+      "A. Bộ não người",
+      "B. Lao động",
+      "C. Ngôn ngữ",
+      "D. Thế giới khách quan"
+    ],
+    "answer": "B. Lao động"
+  },
+  {
+    "id": 115,
+    "chapter": "Chương 2",
+    "question": "Ngôn ngữ đóng vai trò gì trong sự hình thành ý thức?",
+    "options": [
+      "A. Là 'vỏ vật chất' của tư duy, phương tiện giao tiếp và truyền tải thông tin",
+      "B. Là nội dung của ý thức",
+      "C. Là nguồn gốc duy nhất",
+      "D. Không có vai trò gì quan trọng"
+    ],
+    "answer": "A. Là 'vỏ vật chất' của tư duy, phương tiện giao tiếp và truyền tải thông tin"
+  },
+  {
+    "id": 116,
+    "chapter": "Chương 2",
+    "question": "Bản chất của ý thức là gì?",
+    "options": [
+      "A. Sự hồi tưởng của linh hồn",
+      "B. Hình ảnh chủ quan của thế giới khách quan, là sự phản ánh tích cực, tự giác, sáng tạo",
+      "C. Sự phản ánh thụ động như chiếc gương soi",
+      "D. Một dạng vật chất vô hình"
+    ],
+    "answer": "B. Hình ảnh chủ quan của thế giới khách quan, là sự phản ánh tích cực, tự giác, sáng tạo"
+  },
+  {
+    "id": 117,
+    "chapter": "Chương 2",
+    "question": "Tính sáng tạo của ý thức thể hiện ở chỗ nào?",
+    "options": [
+      "A. Tạo ra vật chất mới từ hư vô",
+      "B. Tạo ra hình ảnh mới, tri thức mới, dự báo tương lai, xây dựng giả thuyết",
+      "C. Phản ánh y nguyên sự vật",
+      "D. Thay đổi quy luật tự nhiên"
+    ],
+    "answer": "B. Tạo ra hình ảnh mới, tri thức mới, dự báo tương lai, xây dựng giả thuyết"
+  },
+  {
+    "id": 118,
+    "chapter": "Chương 2",
+    "question": "Kết cấu của ý thức theo các yếu tố hợp thành bao gồm?",
+    "options": [
+      "A. Tri thức, tình cảm, ý chí",
+      "B. Tiềm thức và vô thức",
+      "C. Tự ý thức và ý thức xã hội",
+      "D. Cảm giác và tư duy"
+    ],
+    "answer": "A. Tri thức, tình cảm, ý chí"
+  },
+  {
+    "id": 119,
+    "chapter": "Chương 2",
+    "question": "Trong kết cấu của ý thức, yếu tố nào quan trọng nhất, là phương thức tồn tại của ý thức?",
+    "options": [
+      "A. Tình cảm",
+      "B. Niềm tin",
+      "C. Tri thức",
+      "D. Ý chí"
+    ],
+    "answer": "C. Tri thức"
+  },
+  {
+    "id": 120,
+    "chapter": "Chương 2",
+    "question": "Mối quan hệ giữa vật chất và ý thức theo quan điểm CNDV biện chứng?",
+    "options": [
+      "A. Vật chất quyết định ý thức hoàn toàn",
+      "B. Ý thức quyết định vật chất",
+      "C. Vật chất quyết định ý thức, ý thức tác động trở lại vật chất qua thực tiễn",
+      "D. Hai yếu tố song song tồn tại"
+    ],
+    "answer": "C. Vật chất quyết định ý thức, ý thức tác động trở lại vật chất qua thực tiễn"
+  },
+  {
+    "id": 121,
+    "chapter": "Chương 2",
+    "question": "Vật chất quyết định ý thức trên những phương diện nào?",
+    "options": [
+      "A. Nguồn gốc, nội dung, hình thức biểu hiện và sự vận động phát triển",
+      "B. Chỉ quyết định nguồn gốc",
+      "C. Chỉ quyết định nội dung",
+      "D. Chỉ quyết định hình thức"
+    ],
+    "answer": "A. Nguồn gốc, nội dung, hình thức biểu hiện và sự vận động phát triển"
+  },
+  {
+    "id": 122,
+    "chapter": "Chương 2",
+    "question": "Sự tác động trở lại của ý thức đối với vật chất diễn ra theo hai hướng nào?",
+    "options": [
+      "A. Tích cực (thúc đẩy) hoặc tiêu cực (kìm hãm)",
+      "B. Luôn luôn tích cực",
+      "C. Luôn luôn tiêu cực",
+      "D. Không tác động gì"
+    ],
+    "answer": "A. Tích cực (thúc đẩy) hoặc tiêu cực (kìm hãm)"
+  },
+  {
+    "id": 123,
+    "chapter": "Chương 2",
+    "question": "Ý thức muốn tác động trở lại vật chất phải thông qua hoạt động nào?",
+    "options": [
+      "A. Hoạt động tư duy",
+      "B. Hoạt động thực tiễn của con người",
+      "C. Hoạt động nghiên cứu lý thuyết",
+      "D. Hoạt động giao tiếp"
+    ],
+    "answer": "B. Hoạt động thực tiễn của con người"
+  },
+  {
+    "id": 124,
+    "chapter": "Chương 2",
+    "question": "Từ mối quan hệ giữa vật chất và ý thức, rút ra nguyên tắc phương pháp luận nào?",
+    "options": [
+      "A. Tôn trọng khách quan, đồng thời phát huy tính năng động chủ quan",
+      "B. Chỉ cần tôn trọng khách quan",
+      "C. Tuyệt đối hóa vai trò của nhân tố chủ quan",
+      "D. Phủ nhận vai trò của lý luận"
+    ],
+    "answer": "A. Tôn trọng khách quan, đồng thời phát huy tính năng động chủ quan"
+  },
+  {
+    "id": 125,
+    "chapter": "Chương 2",
+    "question": "Bệnh 'chủ quan duy ý chí' xuất phát từ việc vi phạm nguyên tắc nào?",
+    "options": [
+      "A. Xem thường vai trò của ý thức",
+      "B. Tuyệt đối hóa vai trò của ý thức, bất chấp quy luật khách quan",
+      "C. Quá coi trọng vật chất",
+      "D. Quá coi trọng thực tiễn"
+    ],
+    "answer": "B. Tuyệt đối hóa vai trò của ý thức, bất chấp quy luật khách quan"
+  },
+  {
+    "id": 126,
+    "chapter": "Chương 2",
+    "question": "Câu nói 'Có thực mới vực được đạo' thể hiện quan điểm nào?",
+    "options": [
+      "A. Ý thức quyết định vật chất",
+      "B. Vật chất quyết định ý thức",
+      "C. Quan điểm duy tâm",
+      "D. Quan điểm tôn giáo"
+    ],
+    "answer": "B. Vật chất quyết định ý thức"
+  },
+  {
+    "id": 127,
+    "chapter": "Chương 2",
+    "question": "Câu nói 'Tư tưởng thông suốt thì nước cũng không sợ' thể hiện vai trò gì?",
+    "options": [
+      "A. Vai trò quyết định của vật chất",
+      "B. Tính năng động, tác động trở lại của ý thức",
+      "C. Sự bất lực của con người",
+      "D. Mê tín dị đoan"
+    ],
+    "answer": "B. Tính năng động, tác động trở lại của ý thức"
+  },
+  {
+    "id": 128,
+    "chapter": "Chương 2",
+    "question": "Lao động khác với hoạt động bản năng của loài vật ở chỗ nào?",
+    "options": [
+      "A. Sử dụng công cụ",
+      "B. Có mục đích, có ý thức, có kế hoạch",
+      "C. Tác động vào tự nhiên",
+      "D. Cả A và B"
+    ],
+    "answer": "D. Cả A và B"
+  },
+  {
+    "id": 129,
+    "chapter": "Chương 2",
+    "question": "Phản ánh là gì?",
+    "options": [
+      "A. Sự tái tạo những đặc điểm của dạng vật chất này ở dạng vật chất khác khi chúng tác động lẫn nhau",
+      "B. Sự sao chép y nguyên",
+      "C. Sự tưởng tượng",
+      "D. Sự di chuyển vị trí"
+    ],
+    "answer": "A. Sự tái tạo những đặc điểm của dạng vật chất này ở dạng vật chất khác khi chúng tác động lẫn nhau"
+  },
+  {
+    "id": 130,
+    "chapter": "Chương 2",
+    "question": "Bộ óc người là gì?",
+    "options": [
+      "A. Một dạng vật chất sống có tổ chức cao nhất",
+      "B. Sản phẩm của thượng đế",
+      "C. Một cỗ máy cơ học",
+      "D. Một tấm gương phản chiếu"
+    ],
+    "answer": "A. Một dạng vật chất sống có tổ chức cao nhất"
+  },
+  {
+    "id": 131,
+    "chapter": "Chương 2",
+    "question": "Vô thức là gì?",
+    "options": [
+      "A. Những hiện tượng tâm lý không được ý thức kiểm soát",
+      "B. Không có ý thức",
+      "C. Trạng thái hôn mê",
+      "D. Hành động sai trái"
+    ],
+    "answer": "A. Những hiện tượng tâm lý không được ý thức kiểm soát"
+  },
+  {
+    "id": 132,
+    "chapter": "Chương 2",
+    "question": "Tiềm thức nằm ở tầng nào của ý thức?",
+    "options": [
+      "A. Tầng sâu",
+      "B. Tầng bề mặt",
+      "C. Ngoài ý thức",
+      "D. Không thuộc về tâm lý"
+    ],
+    "answer": "A. Tầng sâu"
+  },
+  {
+    "id": 133,
+    "chapter": "Chương 2",
+    "question": "Trí tuệ nhân tạo (AI) có thể thay thế hoàn toàn ý thức con người không?",
+    "options": [
+      "A. Có, trong tương lai gần",
+      "B. Không, vì AI chỉ là máy móc, không có cảm xúc và sự sáng tạo xã hội thực sự",
+      "C. Có, vì máy tính tính toán nhanh hơn",
+      "D. Chưa thể kết luận"
+    ],
+    "answer": "B. Không, vì AI chỉ là máy móc, không có cảm xúc và sự sáng tạo xã hội thực sự"
+  },
+  {
+    "id": 134,
+    "chapter": "Chương 2",
+    "question": "Phép biện chứng duy vật nghiên cứu những quy luật nào?",
+    "options": [
+      "A. Quy luật phổ biến nhất của tự nhiên, xã hội và tư duy",
+      "B. Quy luật riêng của tự nhiên",
+      "C. Quy luật riêng của xã hội",
+      "D. Quy luật của tư duy logic"
+    ],
+    "answer": "A. Quy luật phổ biến nhất của tự nhiên, xã hội và tư duy"
+  },
+  {
+    "id": 135,
+    "chapter": "Chương 2",
+    "question": "Hai nguyên lý cơ bản của phép biện chứng duy vật là?",
+    "options": [
+      "A. Nguyên lý về mối liên hệ phổ biến và Nguyên lý về sự phát triển",
+      "B. Nguyên lý vật chất và Nguyên lý ý thức",
+      "C. Nguyên lý nhân quả và Nguyên lý tất định",
+      "D. Nguyên lý bảo toàn và Nguyên lý bất biến"
+    ],
+    "answer": "A. Nguyên lý về mối liên hệ phổ biến và Nguyên lý về sự phát triển"
+  },
+  {
+    "id": 136,
+    "chapter": "Chương 2",
+    "question": "Mối liên hệ là gì?",
+    "options": [
+      "A. Sự tác động qua lại, quy định, chuyển hóa lẫn nhau giữa các sự vật, hiện tượng",
+      "B. Sự đặt cạnh nhau của các sự vật",
+      "C. Sự giống nhau về hình thức",
+      "D. Sự phụ thuộc một chiều"
+    ],
+    "answer": "A. Sự tác động qua lại, quy định, chuyển hóa lẫn nhau giữa các sự vật, hiện tượng"
+  },
+  {
+    "id": 137,
+    "chapter": "Chương 2",
+    "question": "Từ nguyên lý về mối liên hệ phổ biến, rút ra quan điểm (nguyên tắc) phương pháp luận nào?",
+    "options": [
+      "A. Quan điểm toàn diện",
+      "B. Quan điểm phiến diện",
+      "C. Quan điểm chiết trung",
+      "D. Quan điểm ngụy biện"
+    ],
+    "answer": "A. Quan điểm toàn diện"
+  },
+  {
+    "id": 138,
+    "chapter": "Chương 2",
+    "question": "Yêu cầu của quan điểm toàn diện là gì?",
+    "options": [
+      "A. Phải xem xét tất cả các mặt, các mối liên hệ của sự vật, nắm được mối liên hệ chủ yếu",
+      "B. Chỉ cần xem xét mặt tốt",
+      "C. San bằng bình quân các mối liên hệ",
+      "D. Chỉ xem xét mối liên hệ bên ngoài"
+    ],
+    "answer": "A. Phải xem xét tất cả các mặt, các mối liên hệ của sự vật, nắm được mối liên hệ chủ yếu"
+  },
+  {
+    "id": 139,
+    "chapter": "Chương 2",
+    "question": "Phát triển là khuynh hướng vận động như thế nào?",
+    "options": [
+      "A. Đi lên từ thấp đến cao, từ đơn giản đến phức tạp, từ kém hoàn thiện đến hoàn thiện hơn",
+      "B. Theo vòng tròn khép kín",
+      "C. Thụt lùi",
+      "D. Đi ngang"
+    ],
+    "answer": "A. Đi lên từ thấp đến cao, từ đơn giản đến phức tạp, từ kém hoàn thiện đến hoàn thiện hơn"
+  },
+  {
+    "id": 140,
+    "chapter": "Chương 2",
+    "question": "Từ nguyên lý về sự phát triển, rút ra quan điểm phương pháp luận nào?",
+    "options": [
+      "A. Quan điểm phát triển",
+      "B. Quan điểm bảo thủ",
+      "C. Quan điểm trì trệ",
+      "D. Quan điểm định kiến"
+    ],
+    "answer": "A. Quan điểm phát triển"
+  },
+  {
+    "id": 141,
+    "chapter": "Chương 2",
+    "question": "Yêu cầu của quan điểm phát triển là gì?",
+    "options": [
+      "A. Xem xét sự vật trong sự vận động, phát hiện ra xu hướng biến đổi và ủng hộ cái mới",
+      "B. Coi sự vật là bất biến",
+      "C. Chỉ nhìn vào quá khứ",
+      "D. Phủ nhận sạch trơn cái cũ"
+    ],
+    "answer": "A. Xem xét sự vật trong sự vận động, phát hiện ra xu hướng biến đổi và ủng hộ cái mới"
+  },
+  {
+    "id": 142,
+    "chapter": "Chương 2",
+    "question": "Tính chất kế thừa trong sự phát triển nghĩa là gì?",
+    "options": [
+      "A. Cái mới ra đời trên cơ sở chọn lọc, giữ lại hạt nhân hợp lý của cái cũ",
+      "B. Cái mới xóa bỏ hoàn toàn cái cũ",
+      "C. Cái mới lặp lại y nguyên cái cũ",
+      "D. Cái cũ tự biến mất"
+    ],
+    "answer": "A. Cái mới ra đời trên cơ sở chọn lọc, giữ lại hạt nhân hợp lý của cái cũ"
+  },
+  {
+    "id": 143,
+    "chapter": "Chương 2",
+    "question": "Quan điểm lịch sử - cụ thể đòi hỏi điều gì?",
+    "options": [
+      "A. Xem xét sự vật gắn với điều kiện không gian, thời gian và hoàn cảnh cụ thể",
+      "B. Xem xét sự vật một cách chung chung",
+      "C. Áp dụng một công thức cho mọi trường hợp",
+      "D. Tách sự vật ra khỏi hoàn cảnh"
+    ],
+    "answer": "A. Xem xét sự vật gắn với điều kiện không gian, thời gian và hoàn cảnh cụ thể"
+  },
+  {
+    "id": 144,
+    "chapter": "Chương 2",
+    "question": "Phép biện chứng duy vật có mấy cặp phạm trù cơ bản?",
+    "options": [
+      "A. 3 cặp",
+      "B. 4 cặp",
+      "C. 5 cặp",
+      "D. 6 cặp"
+    ],
+    "answer": "D. 6 cặp"
+  },
+  {
+    "id": 145,
+    "chapter": "Chương 2",
+    "question": "Cặp phạm trù 'Cái riêng và Cái chung' chỉ ra mối quan hệ gì?",
+    "options": [
+      "A. Cái riêng chỉ tồn tại trong mối liên hệ với cái chung",
+      "B. Cái chung tồn tại độc lập ngoài cái riêng",
+      "C. Cái riêng bao hàm cái chung",
+      "D. Cái chung là cái đơn nhất"
+    ],
+    "answer": "A. Cái riêng chỉ tồn tại trong mối liên hệ với cái chung"
+  },
+  {
+    "id": 146,
+    "chapter": "Chương 2",
+    "question": "Cái mới xuất hiện đầu tiên dưới dạng nào?",
+    "options": [
+      "A. Cái chung",
+      "B. Cái đơn nhất",
+      "C. Cái phổ biến",
+      "D. Cái tất yếu"
+    ],
+    "answer": "B. Cái đơn nhất"
+  },
+  {
+    "id": 147,
+    "chapter": "Chương 2",
+    "question": "Phạm trù nào dùng để chỉ sự tác động lẫn nhau gây ra sự biến đổi?",
+    "options": [
+      "A. Nguyên nhân",
+      "B. Kết quả",
+      "C. Khả năng",
+      "D. Hiện thực"
+    ],
+    "answer": "A. Nguyên nhân"
+  },
+  {
+    "id": 148,
+    "chapter": "Chương 2",
+    "question": "Mối quan hệ nhân quả có tính chất gì?",
+    "options": [
+      "A. Tính khách quan, tính phổ biến, tính tất yếu",
+      "B. Tính chủ quan, tính ngẫu nhiên",
+      "C. Tính một chiều",
+      "D. Tính không đảo ngược"
+    ],
+    "answer": "A. Tính khách quan, tính phổ biến, tính tất yếu"
+  },
+  {
+    "id": 149,
+    "chapter": "Chương 2",
+    "question": "Muốn nhận thức đúng bản chất của sự vật, ta phải làm gì?",
+    "options": [
+      "A. Dừng lại ở nhận thức hiện tượng",
+      "B. Đi sâu vào nhận thức bản chất thông qua các hiện tượng",
+      "C. Chỉ tin vào cảm giác",
+      "D. Bỏ qua hiện tượng"
+    ],
+    "answer": "B. Đi sâu vào nhận thức bản chất thông qua các hiện tượng"
+  },
+  {
+    "id": 150,
+    "chapter": "Chương 2",
+    "question": "Giữa Nội dung và Hình thức, yếu tố nào giữ vai trò quyết định?",
+    "options": [
+      "A. Hình thức quyết định nội dung",
+      "B. Nội dung quyết định hình thức",
+      "C. Cả hai ngang nhau",
+      "D. Không cái nào quyết định cái nào"
+    ],
+    "answer": "B. Nội dung quyết định hình thức"
+  },{
+    "id": 151,
+    "chapter": "Chương 2",
+    "question": "Khái niệm 'Chất' dùng để chỉ tính chất nào của sự vật?",
+    "options": [
+      "A. Tính quy định khách quan vốn có của sự vật, là sự thống nhất hữu cơ của các thuộc tính",
+      "B. Quy mô và số lượng",
+      "C. Hình dáng bên ngoài",
+      "D. Cấu trúc hóa học"
+    ],
+    "answer": "A. Tính quy định khách quan vốn có của sự vật, là sự thống nhất hữu cơ của các thuộc tính"
+  },
+  {
+    "id": 152,
+    "chapter": "Chương 2",
+    "question": "Khái niệm 'Lượng' dùng để chỉ tính chất nào?",
+    "options": [
+      "A. Tính quy định khách quan vốn có của sự vật về mặt số lượng, quy mô, trình độ, nhịp điệu",
+      "B. Bản chất bên trong",
+      "C. Thuộc tính cơ bản",
+      "D. Chất lượng của sự vật"
+    ],
+    "answer": "A. Tính quy định khách quan vốn có của sự vật về mặt số lượng, quy mô, trình độ, nhịp điệu"
+  },
+  {
+    "id": 153,
+    "chapter": "Chương 2",
+    "question": "Giới hạn mà tại đó sự thay đổi về lượng chưa làm thay đổi căn bản về chất gọi là gì?",
+    "options": [
+      "A. Điểm nút",
+      "B. Độ",
+      "C. Bước nhảy",
+      "D. Điểm giới hạn"
+    ],
+    "answer": "B. Độ"
+  },
+  {
+    "id": 154,
+    "chapter": "Chương 2",
+    "question": "Thời điểm mà tại đó sự thay đổi về lượng đã đủ để dẫn đến sự thay đổi về chất gọi là gì?",
+    "options": [
+      "A. Độ",
+      "B. Điểm nút",
+      "C. Bước nhảy",
+      "D. Điểm gãy"
+    ],
+    "answer": "B. Điểm nút"
+  },
+  {
+    "id": 155,
+    "chapter": "Chương 2",
+    "question": "Quá trình chuyển hóa về chất của sự vật do sự thay đổi về lượng trước đó gây ra gọi là gì?",
+    "options": [
+      "A. Tiến hóa",
+      "B. Bước nhảy",
+      "C. Đột biến",
+      "D. Cách mạng"
+    ],
+    "answer": "B. Bước nhảy"
+  },
+  {
+    "id": 156,
+    "chapter": "Chương 2",
+    "question": "Trong quy luật Lượng - Chất, mối quan hệ diễn ra như thế nào?",
+    "options": [
+      "A. Lượng đổi dẫn đến chất đổi và chất đổi tác động trở lại lượng",
+      "B. Chỉ có lượng đổi dẫn đến chất đổi",
+      "C. Chỉ có chất đổi dẫn đến lượng đổi",
+      "D. Không có mối liên hệ"
+    ],
+    "answer": "A. Lượng đổi dẫn đến chất đổi và chất đổi tác động trở lại lượng"
+  },
+  {
+    "id": 157,
+    "chapter": "Chương 2",
+    "question": "Mâu thuẫn biện chứng là gì?",
+    "options": [
+      "A. Sự xung đột giữa các cá nhân",
+      "B. Sự thống nhất và đấu tranh của các mặt đối lập",
+      "C. Sự phủ định sạch trơn",
+      "D. Sự khác biệt không thể dung hòa"
+    ],
+    "answer": "B. Sự thống nhất và đấu tranh của các mặt đối lập"
+  },
+  {
+    "id": 158,
+    "chapter": "Chương 2",
+    "question": "Sự 'thống nhất' của các mặt đối lập được hiểu là:",
+    "options": [
+      "A. Chúng nương tựa vào nhau, làm tiền đề tồn tại cho nhau",
+      "B. Chúng hòa tan vào nhau",
+      "C. Chúng triệt tiêu nhau",
+      "D. Chúng đứng cạnh nhau"
+    ],
+    "answer": "A. Chúng nương tựa vào nhau, làm tiền đề tồn tại cho nhau"
+  },
+  {
+    "id": 159,
+    "chapter": "Chương 2",
+    "question": "Sự 'đấu tranh' của các mặt đối lập có tính chất gì?",
+    "options": [
+      "A. Tương đối",
+      "B. Tuyệt đối",
+      "C. Tạm thời",
+      "D. Ngẫu nhiên"
+    ],
+    "answer": "B. Tuyệt đối"
+  },
+  {
+    "id": 160,
+    "chapter": "Chương 2",
+    "question": "Mâu thuẫn đối kháng tồn tại ở đâu?",
+    "options": [
+      "A. Trong tư duy",
+      "B. Trong xã hội có giai cấp đối kháng về lợi ích cơ bản",
+      "C. Trong giới tự nhiên",
+      "D. Trong mọi sự vật"
+    ],
+    "answer": "B. Trong xã hội có giai cấp đối kháng về lợi ích cơ bản"
+  },
+  {
+    "id": 161,
+    "chapter": "Chương 2",
+    "question": "Đặc trưng cơ bản của Phủ định biện chứng là gì?",
+    "options": [
+      "A. Tính khách quan và tính kế thừa",
+      "B. Tính chủ quan và tính hủy diệt",
+      "C. Tính toàn diện",
+      "D. Tính ngẫu nhiên"
+    ],
+    "answer": "A. Tính khách quan và tính kế thừa"
+  },
+  {
+    "id": 162,
+    "chapter": "Chương 2",
+    "question": "Hình thức 'Phủ định của phủ định' kết thúc một chu kỳ phát triển thường có dạng:",
+    "options": [
+      "A. Đường thẳng đi lên",
+      "B. Đường tròn khép kín",
+      "C. Đường xoáy ốc",
+      "D. Đường dích dắc"
+    ],
+    "answer": "C. Đường xoáy ốc"
+  },
+  {
+    "id": 163,
+    "chapter": "Chương 2",
+    "question": "Cái mới ra đời sau quy luật phủ định của phủ định có đặc điểm gì?",
+    "options": [
+      "A. Giống hệt cái ban đầu",
+      "B. Dường như lặp lại cái ban đầu nhưng ở trình độ cao hơn",
+      "C. Khác hoàn toàn cái ban đầu",
+      "D. Kém hơn cái ban đầu"
+    ],
+    "answer": "B. Dường như lặp lại cái ban đầu nhưng ở trình độ cao hơn"
+  },
+  {
+    "id": 164,
+    "chapter": "Chương 2",
+    "question": "Chân lý là gì?",
+    "options": [
+      "A. Tri thức phù hợp với hiện thực khách quan và được thực tiễn kiểm nghiệm",
+      "B. Ý kiến của đa số",
+      "C. Lời nói của lãnh tụ",
+      "D. Những gì có lợi cho con người"
+    ],
+    "answer": "A. Tri thức phù hợp với hiện thực khách quan và được thực tiễn kiểm nghiệm"
+  },
+  {
+    "id": 165,
+    "chapter": "Chương 2",
+    "question": "Tính chất của chân lý bao gồm:",
+    "options": [
+      "A. Tính khách quan, tính cụ thể, tính tương đối và tuyệt đối",
+      "B. Tính chủ quan, tính trừu tượng",
+      "C. Tính vĩnh cửu",
+      "D. Tính giai cấp"
+    ],
+    "answer": "A. Tính khách quan, tính cụ thể, tính tương đối và tuyệt đối"
+  },
+  {
+    "id": 166,
+    "chapter": "Chương 2",
+    "question": "Con đường biện chứng của sự nhận thức chân lý theo Lênin là:",
+    "options": [
+      "A. Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn",
+      "B. Từ lý thuyết đến thực hành",
+      "C. Từ thực tiễn đến lý thuyết",
+      "D. Từ cái đơn giản đến cái phức tạp"
+    ],
+    "answer": "A. Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn"
+  },
+  {
+    "id": 167,
+    "chapter": "Chương 2",
+    "question": "Mục đích cuối cùng của nhận thức là gì?",
+    "options": [
+      "A. Thỏa mãn trí tò mò",
+      "B. Phục vụ và chỉ đạo thực tiễn",
+      "C. Đạt được bằng cấp",
+      "D. Chứng minh chân lý"
+    ],
+    "answer": "B. Phục vụ và chỉ đạo thực tiễn"
+  },
+  {
+    "id": 168,
+    "chapter": "Chương 3",
+    "question": "Theo C.Mác, tiền đề đầu tiên của mọi lịch sử loài người là gì?",
+    "options": [
+      "A. Sự tồn tại của các cá nhân con người sống",
+      "B. Tư duy và ý thức",
+      "C. Tôn giáo",
+      "D. Nhà nước"
+    ],
+    "answer": "A. Sự tồn tại của các cá nhân con người sống"
+  },
+  {
+    "id": 169,
+    "chapter": "Chương 3",
+    "question": "Hoạt động đặc trưng nhất của con người và xã hội loài người là gì?",
+    "options": [
+      "A. Chiến tranh",
+      "B. Sản xuất vật chất",
+      "C. Nghiên cứu khoa học",
+      "D. Hoạt động nghệ thuật"
+    ],
+    "answer": "B. Sản xuất vật chất"
+  },
+  {
+    "id": 170,
+    "chapter": "Chương 3",
+    "question": "Phương thức sản xuất là gì?",
+    "options": [
+      "A. Cách thức con người thực hiện quá trình sản xuất vật chất ở những giai đoạn lịch sử nhất định",
+      "B. Công nghệ sản xuất",
+      "C. Cách quản lý kinh tế",
+      "D. Quy trình làm việc"
+    ],
+    "answer": "A. Cách thức con người thực hiện quá trình sản xuất vật chất ở những giai đoạn lịch sử nhất định"
+  },
+  {
+    "id": 171,
+    "chapter": "Chương 3",
+    "question": "Phương thức sản xuất là sự thống nhất của hai mặt nào?",
+    "options": [
+      "A. Cơ sở hạ tầng và Kiến trúc thượng tầng",
+      "B. Lực lượng sản xuất và Quan hệ sản xuất",
+      "C. Kỹ thuật và Công nghệ",
+      "D. Người lao động và Tư liệu sản xuất"
+    ],
+    "answer": "B. Lực lượng sản xuất và Quan hệ sản xuất"
+  },
+  {
+    "id": 172,
+    "chapter": "Chương 3",
+    "question": "Trong Lực lượng sản xuất, yếu tố 'Tư liệu sản xuất' bao gồm:",
+    "options": [
+      "A. Đối tượng lao động và Tư liệu lao động",
+      "B. Con người và Công cụ",
+      "C. Nhà xưởng và Đất đai",
+      "D. Nguyên liệu và Nhiên liệu"
+    ],
+    "answer": "A. Đối tượng lao động và Tư liệu lao động"
+  },
+  {
+    "id": 173,
+    "chapter": "Chương 3",
+    "question": "Yếu tố cách mạng nhất trong Lực lượng sản xuất là gì?",
+    "options": [
+      "A. Người lao động",
+      "B. Công cụ lao động",
+      "C. Phương tiện vận tải",
+      "D. Khoa học công nghệ"
+    ],
+    "answer": "B. Công cụ lao động"
+  },
+  {
+    "id": 174,
+    "chapter": "Chương 3",
+    "question": "Ngày nay, yếu tố nào đang trở thành 'lực lượng sản xuất trực tiếp'?",
+    "options": [
+      "A. Khoa học",
+      "B. Nghệ thuật",
+      "C. Thể thao",
+      "D. Tôn giáo"
+    ],
+    "answer": "A. Khoa học"
+  },
+  {
+    "id": 175,
+    "chapter": "Chương 3",
+    "question": "Quan hệ sản xuất gồm 3 mặt, mặt nào đóng vai trò quyết định?",
+    "options": [
+      "A. Quan hệ tổ chức quản lý",
+      "B. Quan hệ sở hữu về tư liệu sản xuất",
+      "C. Quan hệ phân phối sản phẩm",
+      "D. Ba mặt ngang nhau"
+    ],
+    "answer": "B. Quan hệ sở hữu về tư liệu sản xuất"
+  },
+  {
+    "id": 176,
+    "chapter": "Chương 3",
+    "question": "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất có vai trò gì?",
+    "options": [
+      "A. Là quy luật cơ bản nhất của sự vận động và phát triển xã hội",
+      "B. Là quy luật phụ",
+      "C. Chỉ đúng trong chủ nghĩa tư bản",
+      "D. Chỉ đúng trong chủ nghĩa xã hội"
+    ],
+    "answer": "A. Là quy luật cơ bản nhất của sự vận động và phát triển xã hội"
+  },
+  {
+    "id": 177,
+    "chapter": "Chương 3",
+    "question": "Khi Quan hệ sản xuất 'lạc hậu' hơn so với Lực lượng sản xuất, nó sẽ:",
+    "options": [
+      "A. Thúc đẩy LLSX phát triển",
+      "B. Kìm hãm sự phát triển của LLSX",
+      "C. Không ảnh hưởng gì",
+      "D. Tự động biến mất"
+    ],
+    "answer": "B. Kìm hãm sự phát triển của LLSX"
+  },
+  {
+    "id": 178,
+    "chapter": "Chương 3",
+    "question": "Việc xóa bỏ bao cấp, thực hiện khoán sản phẩm trong nông nghiệp ở Việt Nam là ví dụ về:",
+    "options": [
+      "A. Thay đổi Lực lượng sản xuất",
+      "B. Điều chỉnh Quan hệ sản xuất để giải phóng Lực lượng sản xuất",
+      "C. Thay đổi Kiến trúc thượng tầng",
+      "D. Thay đổi ý thức xã hội"
+    ],
+    "answer": "B. Điều chỉnh Quan hệ sản xuất để giải phóng Lực lượng sản xuất"
+  },
+  {
+    "id": 179,
+    "chapter": "Chương 3",
+    "question": "Cơ sở hạ tầng của xã hội được tạo nên bởi:",
+    "options": [
+      "A. Hệ thống giao thông, điện, nước",
+      "B. Tổng hợp các quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội",
+      "C. Các cơ quan nhà nước",
+      "D. Các tổ chức chính trị"
+    ],
+    "answer": "B. Tổng hợp các quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội"
+  },
+  {
+    "id": 180,
+    "chapter": "Chương 3",
+    "question": "Cấu trúc của Cơ sở hạ tầng bao gồm:",
+    "options": [
+      "A. QHSX tàn dư, QHSX thống trị, QHSX mầm mống",
+      "B. Kinh tế nhà nước, kinh tế tư nhân, kinh tế tập thể",
+      "C. Nông nghiệp, công nghiệp, dịch vụ",
+      "D. Giai cấp thống trị và bị trị"
+    ],
+    "answer": "A. QHSX tàn dư, QHSX thống trị, QHSX mầm mống"
+  },
+  {
+    "id": 181,
+    "chapter": "Chương 3",
+    "question": "Trong Cơ sở hạ tầng, yếu tố nào giữ vai trò chủ đạo, chi phối?",
+    "options": [
+      "A. QHSX tàn dư",
+      "B. QHSX mầm mống",
+      "C. QHSX thống trị",
+      "D. Tất cả như nhau"
+    ],
+    "answer": "C. QHSX thống trị"
+  },
+  {
+    "id": 182,
+    "chapter": "Chương 3",
+    "question": "Kiến trúc thượng tầng là gì?",
+    "options": [
+      "A. Toàn bộ hệ thống kết cấu kỹ thuật của xã hội",
+      "B. Toàn bộ những quan điểm tư tưởng (chính trị, pháp quyền...) và các thiết chế tương ứng (nhà nước, đảng phái...) được hình thành trên một cơ sở hạ tầng nhất định",
+      "C. Tầng trên của ngôi nhà",
+      "D. Bộ máy chính phủ"
+    ],
+    "answer": "B. Toàn bộ những quan điểm tư tưởng (chính trị, pháp quyền...) và các thiết chế tương ứng (nhà nước, đảng phái...) được hình thành trên một cơ sở hạ tầng nhất định"
+  },
+  {
+    "id": 183,
+    "chapter": "Chương 3",
+    "question": "Yếu tố nào trong Kiến trúc thượng tầng có quyền lực mạnh nhất?",
+    "options": [
+      "A. Tôn giáo",
+      "B. Nhà nước",
+      "C. Đạo đức",
+      "D. Nghệ thuật"
+    ],
+    "answer": "B. Nhà nước"
+  },
+  {
+    "id": 184,
+    "chapter": "Chương 3",
+    "question": "Mối quan hệ giữa Cơ sở hạ tầng (CSHT) và Kiến trúc thượng tầng (KTTT) là:",
+    "options": [
+      "A. KTTT quyết định CSHT",
+      "B. CSHT quyết định KTTT; KTTT tác động trở lại CSHT",
+      "C. Hai yếu tố độc lập",
+      "D. CSHT thụ động"
+    ],
+    "answer": "B. CSHT quyết định KTTT; KTTT tác động trở lại CSHT"
+  },
+  {
+    "id": 185,
+    "chapter": "Chương 3",
+    "question": "Sự tác động của Kiến trúc thượng tầng đối với Cơ sở hạ tầng diễn ra theo xu hướng nào?",
+    "options": [
+      "A. Luôn thúc đẩy",
+      "B. Luôn kìm hãm",
+      "C. Cùng chiều (thúc đẩy) hoặc ngược chiều (kìm hãm)",
+      "D. Không tác động"
+    ],
+    "answer": "C. Cùng chiều (thúc đẩy) hoặc ngược chiều (kìm hãm)"
+  },
+  {
+    "id": 186,
+    "chapter": "Chương 3",
+    "question": "Hình thái kinh tế - xã hội là phạm trù dùng để chỉ:",
+    "options": [
+      "A. Xã hội ở từng giai đoạn lịch sử nhất định",
+      "B. Nền kinh tế của một quốc gia",
+      "C. Chế độ chính trị",
+      "D. Nền văn hóa"
+    ],
+    "answer": "A. Xã hội ở từng giai đoạn lịch sử nhất định"
+  },
+  {
+    "id": 187,
+    "chapter": "Chương 3",
+    "question": "Cấu trúc của Hình thái kinh tế - xã hội gồm:",
+    "options": [
+      "A. Lực lượng sản xuất, Quan hệ sản xuất (Cơ sở hạ tầng), Kiến trúc thượng tầng",
+      "B. Kinh tế, Chính trị, Văn hóa",
+      "C. Tự nhiên, Xã hội, Tư duy",
+      "D. Giai cấp, Dân tộc, Nhân loại"
+    ],
+    "answer": "A. Lực lượng sản xuất, Quan hệ sản xuất (Cơ sở hạ tầng), Kiến trúc thượng tầng"
+  },
+  {
+    "id": 188,
+    "chapter": "Chương 3",
+    "question": "Sự phát triển của các hình thái kinh tế - xã hội là một quá trình:",
+    "options": [
+      "A. Ngẫu nhiên",
+      "B. Lịch sử - tự nhiên",
+      "C. Do ý muốn của Thượng đế",
+      "D. Do ý muốn của vĩ nhân"
+    ],
+    "answer": "B. Lịch sử - tự nhiên"
+  },
+  {
+    "id": 189,
+    "chapter": "Chương 3",
+    "question": "Lịch sử loài người đã và đang trải qua mấy hình thái kinh tế - xã hội?",
+    "options": [
+      "A. 3 hình thái",
+      "B. 4 hình thái",
+      "C. 5 hình thái",
+      "D. 6 hình thái"
+    ],
+    "answer": "C. 5 hình thái"
+  },
+  {
+    "id": 190,
+    "chapter": "Chương 3",
+    "question": "5 hình thái kinh tế - xã hội theo thứ tự là:",
+    "options": [
+      "A. Cộng sản nguyên thủy -> Chiếm hữu nô lệ -> Phong kiến -> Tư bản chủ nghĩa -> Cộng sản chủ nghĩa",
+      "B. Nguyên thủy -> Phong kiến -> Tư bản -> Xã hội chủ nghĩa -> Cộng sản",
+      "C. Săn bắn hái lượm -> Nông nghiệp -> Công nghiệp -> Hậu công nghiệp",
+      "D. Đồ đá -> Đồ đồng -> Đồ sắt -> Máy hơi nước -> Điện tử"
+    ],
+    "answer": "A. Cộng sản nguyên thủy -> Chiếm hữu nô lệ -> Phong kiến -> Tư bản chủ nghĩa -> Cộng sản chủ nghĩa"
+  },
+  {
+    "id": 191,
+    "chapter": "Chương 3",
+    "question": "Giai cấp là những tập đoàn người khác nhau về:",
+    "options": [
+      "A. Màu da, sắc tộc",
+      "B. Địa vị trong hệ thống sản xuất xã hội (sở hữu, quản lý, phân phối)",
+      "C. Trình độ học vấn",
+      "D. Tôn giáo tín ngưỡng"
+    ],
+    "answer": "B. Địa vị trong hệ thống sản xuất xã hội (sở hữu, quản lý, phân phối)"
+  },
+  {
+    "id": 192,
+    "chapter": "Chương 3",
+    "question": "Nguồn gốc sâu xa của sự ra đời giai cấp là gì?",
+    "options": [
+      "A. Sự phát triển của lực lượng sản xuất làm xuất hiện sản phẩm thặng dư",
+      "B. Chiến tranh và bạo lực",
+      "C. Sự tham lam của con người",
+      "D. Sự gia tăng dân số"
+    ],
+    "answer": "A. Sự phát triển của lực lượng sản xuất làm xuất hiện sản phẩm thặng dư"
+  },
+  {
+    "id": 193,
+    "chapter": "Chương 3",
+    "question": "Nguồn gốc trực tiếp của sự ra đời giai cấp là gì?",
+    "options": [
+      "A. Chế độ tư hữu về tư liệu sản xuất",
+      "B. Chế độ công hữu",
+      "C. Sự phân công lao động",
+      "D. Sự xuất hiện nhà nước"
+    ],
+    "answer": "A. Chế độ tư hữu về tư liệu sản xuất"
+  },
+  {
+    "id": 194,
+    "chapter": "Chương 3",
+    "question": "Đấu tranh giai cấp là gì?",
+    "options": [
+      "A. Cuộc đấu tranh giữa các cá nhân",
+      "B. Cuộc đấu tranh giữa các tập đoàn người có lợi ích cơ bản đối lập nhau",
+      "C. Chiến tranh giữa các quốc gia",
+      "D. Xung đột tôn giáo"
+    ],
+    "answer": "B. Cuộc đấu tranh giữa các tập đoàn người có lợi ích cơ bản đối lập nhau"
+  },
+  {
+    "id": 195,
+    "chapter": "Chương 3",
+    "question": "Vai trò của đấu tranh giai cấp trong xã hội có giai cấp?",
+    "options": [
+      "A. Là động lực phát triển của xã hội",
+      "B. Kìm hãm xã hội",
+      "C. Làm xã hội rối loạn",
+      "D. Không có vai trò gì"
+    ],
+    "answer": "A. Là động lực phát triển của xã hội"
+  },
+  {
+    "id": 196,
+    "chapter": "Chương 3",
+    "question": "Đỉnh cao của đấu tranh giai cấp là gì?",
+    "options": [
+      "A. Đấu tranh kinh tế",
+      "B. Đấu tranh tư tưởng",
+      "C. Cách mạng xã hội",
+      "D. Đình công"
+    ],
+    "answer": "C. Cách mạng xã hội"
+  },
+  {
+    "id": 197,
+    "chapter": "Chương 3",
+    "question": "Cách mạng xã hội là gì?",
+    "options": [
+      "A. Sự thay đổi chính quyền",
+      "B. Sự thay đổi căn bản về chất toàn bộ các lĩnh vực của đời sống xã hội (thay thế hình thái KT-XH cũ bằng cái mới)",
+      "C. Đảo chính",
+      "D. Cải cách kinh tế"
+    ],
+    "answer": "B. Sự thay đổi căn bản về chất toàn bộ các lĩnh vực của đời sống xã hội (thay thế hình thái KT-XH cũ bằng cái mới)"
+  },
+  {
+    "id": 198,
+    "chapter": "Chương 3",
+    "question": "Nguyên nhân sâu xa của cách mạng xã hội là gì?",
+    "options": [
+      "A. Mâu thuẫn giữa Lực lượng sản xuất và Quan hệ sản xuất",
+      "B. Mâu thuẫn giữa các đảng phái",
+      "C. Sự nghèo đói",
+      "D. Thiên tai dịch bệnh"
+    ],
+    "answer": "A. Mâu thuẫn giữa Lực lượng sản xuất và Quan hệ sản xuất"
+  },
+  {
+    "id": 199,
+    "chapter": "Chương 3",
+    "question": "Phương pháp cách mạng là gì?",
+    "options": [
+      "A. Phương pháp bạo lực cách mạng và phương pháp hòa bình",
+      "B. Chỉ dùng bạo lực",
+      "C. Chỉ dùng thương lượng",
+      "D. Biểu tình"
+    ],
+    "answer": "A. Phương pháp bạo lực cách mạng và phương pháp hòa bình"
+  },
+  {
+    "id": 200,
+    "chapter": "Chương 3",
+    "question": "Theo V.I.Lênin, vấn đề cơ bản của mọi cuộc cách mạng là vấn đề gì?",
+    "options": [
+      "A. Vấn đề kinh tế",
+      "B. Vấn đề chính quyền nhà nước",
+      "C. Vấn đề quân đội",
+      "D. Vấn đề ngoại giao"
+    ],
+    "answer": "B. Vấn đề chính quyền nhà nước"
+  },
+  {
+    "id": 201,
+    "chapter": "Chương 3",
+    "question": "Nguồn gốc ra đời của Nhà nước là gì?",
+    "options": [
+      "A. Do Thượng đế sinh ra",
+      "B. Do khế ước xã hội (thỏa thuận)",
+      "C. Do mâu thuẫn giai cấp gay gắt không thể điều hòa được",
+      "D. Do nhu cầu quản lý thủy lợi"
+    ],
+    "answer": "C. Do mâu thuẫn giai cấp gay gắt không thể điều hòa được"
+  },
+  {
+    "id": 202,
+    "chapter": "Chương 3",
+    "question": "Bản chất của Nhà nước theo quan điểm Mác - Lênin là gì?",
+    "options": [
+      "A. Cơ quan hòa giải các giai cấp",
+      "B. Công cụ thống trị của giai cấp này đối với giai cấp khác (bộ máy bạo lực)",
+      "C. Cơ quan quản lý vì lợi ích chung của toàn xã hội",
+      "D. Tổ chức từ thiện"
+    ],
+    "answer": "B. Công cụ thống trị của giai cấp này đối với giai cấp khác (bộ máy bạo lực)"
+  },
+  {
+    "id": 203,
+    "chapter": "Chương 3",
+    "question": "Nhà nước có những đặc trưng cơ bản nào?",
+    "options": [
+      "A. Quản lý dân cư theo lãnh thổ, có bộ máy quyền lực chuyên nghiệp, có hệ thống thuế khóa",
+      "B. Có quân đội, có cảnh sát, có nhà tù",
+      "C. Có vua, có quan lại",
+      "D. Có hiến pháp và pháp luật"
+    ],
+    "answer": "A. Quản lý dân cư theo lãnh thổ, có bộ máy quyền lực chuyên nghiệp, có hệ thống thuế khóa"
+  },
+  {
+    "id": 204,
+    "chapter": "Chương 3",
+    "question": "Chức năng của Nhà nước bao gồm:",
+    "options": [
+      "A. Chức năng thống trị chính trị và chức năng xã hội",
+      "B. Chức năng đối nội và đối ngoại",
+      "C. Cả A và B",
+      "D. Chức năng kinh tế và văn hóa"
+    ],
+    "answer": "C. Cả A và B"
+  },
+  {
+    "id": 205,
+    "chapter": "Chương 3",
+    "question": "Nhà nước kiểu mới, 'nhà nước nửa nhà nước', là nhà nước nào?",
+    "options": [
+      "A. Nhà nước chủ nô",
+      "B. Nhà nước phong kiến",
+      "C. Nhà nước tư sản",
+      "D. Nhà nước vô sản (Chuyên chính vô sản)"
+    ],
+    "answer": "D. Nhà nước vô sản (Chuyên chính vô sản)"
+  },
+  {
+    "id": 206,
+    "chapter": "Chương 3",
+    "question": "Tồn tại xã hội là gì?",
+    "options": [
+      "A. Toàn bộ sinh hoạt vật chất và những điều kiện sinh hoạt vật chất của xã hội",
+      "B. Toàn bộ đời sống tinh thần",
+      "C. Các quan hệ chính trị",
+      "D. Pháp luật và đạo đức"
+    ],
+    "answer": "A. Toàn bộ sinh hoạt vật chất và những điều kiện sinh hoạt vật chất của xã hội"
+  },
+  {
+    "id": 207,
+    "chapter": "Chương 3",
+    "question": "Yếu tố cơ bản nhất của Tồn tại xã hội là gì?",
+    "options": [
+      "A. Điều kiện tự nhiên (hoàn cảnh địa lý)",
+      "B. Dân số",
+      "C. Phương thức sản xuất vật chất",
+      "D. Môi trường sinh thái"
+    ],
+    "answer": "C. Phương thức sản xuất vật chất"
+  },
+  {
+    "id": 208,
+    "chapter": "Chương 3",
+    "question": "Ý thức xã hội là gì?",
+    "options": [
+      "A. Mặt tinh thần của đời sống xã hội",
+      "B. Ý thức của từng cá nhân",
+      "C. Dư luận xã hội",
+      "D. Hệ tư tưởng"
+    ],
+    "answer": "A. Mặt tinh thần của đời sống xã hội"
+  },
+  {
+    "id": 209,
+    "chapter": "Chương 3",
+    "question": "Mối quan hệ giữa Tồn tại xã hội (TTXH) và Ý thức xã hội (YTXH)?",
+    "options": [
+      "A. YTXH quyết định TTXH",
+      "B. TTXH quyết định YTXH; YTXH có tính độc lập tương đối và tác động trở lại TTXH",
+      "C. Hai yếu tố song song",
+      "D. Không liên quan nhau"
+    ],
+    "answer": "B. TTXH quyết định YTXH; YTXH có tính độc lập tương đối và tác động trở lại TTXH"
+  },
+  {
+    "id": 210,
+    "chapter": "Chương 3",
+    "question": "Tính độc lập tương đối của Ý thức xã hội thể hiện rõ nhất ở điểm nào?",
+    "options": [
+      "A. YTXH thường lạc hậu hơn TTXH",
+      "B. YTXH có thể vượt trước TTXH",
+      "C. Tính kế thừa trong sự phát triển của YTXH",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 211,
+    "chapter": "Chương 3",
+    "question": "Tâm lý xã hội là gì?",
+    "options": [
+      "A. Những quan điểm lý luận hệ thống",
+      "B. Toàn bộ tình cảm, ước muốn, thói quen... hình thành trực tiếp từ đời sống hàng ngày",
+      "C. Hệ tư tưởng khoa học",
+      "D. Triết học"
+    ],
+    "answer": "B. Toàn bộ tình cảm, ước muốn, thói quen... hình thành trực tiếp từ đời sống hàng ngày"
+  },
+  {
+    "id": 212,
+    "chapter": "Chương 3",
+    "question": "Hệ tư tưởng là gì?",
+    "options": [
+      "A. Những cảm nhận thông thường",
+      "B. Trình độ nhận thức lý luận về tồn tại xã hội (được hệ thống hóa)",
+      "C. Kinh nghiệm sống",
+      "D. Phong tục tập quán"
+    ],
+    "answer": "B. Trình độ nhận thức lý luận về tồn tại xã hội (được hệ thống hóa)"
+  },
+  {
+    "id": 213,
+    "chapter": "Chương 3",
+    "question": "Trong xã hội có giai cấp, ý thức xã hội có tính chất gì?",
+    "options": [
+      "A. Tính nhân loại",
+      "B. Tính giai cấp",
+      "C. Tính cá nhân",
+      "D. Tính cộng đồng"
+    ],
+    "answer": "B. Tính giai cấp"
+  },
+  {
+    "id": 214,
+    "chapter": "Chương 3",
+    "question": "Con người là gì theo quan điểm Mác - Lênin?",
+    "options": [
+      "A. Thực thể tự nhiên thuần túy",
+      "B. Thực thể xã hội thuần túy",
+      "C. Thực thể thống nhất giữa mặt sinh học và mặt xã hội",
+      "D. Sản phẩm của thần linh"
+    ],
+    "answer": "C. Thực thể thống nhất giữa mặt sinh học và mặt xã hội"
+  },
+  {
+    "id": 215,
+    "chapter": "Chương 3",
+    "question": "Luận đề nổi tiếng của C.Mác về bản chất con người:",
+    "options": [
+      "A. Con người là động vật biết cười",
+      "B. Con người là cây sậy biết suy nghĩ",
+      "C. Trong tính hiện thực của nó, bản chất con người là tổng hòa những quan hệ xã hội",
+      "D. Nhân chi sơ tính bản thiện"
+    ],
+    "answer": "C. Trong tính hiện thực của nó, bản chất con người là tổng hòa những quan hệ xã hội"
+  },
+  {
+    "id": 216,
+    "chapter": "Chương 3",
+    "question": "Yếu tố nào phân biệt con người với động vật ngay từ khi con người mới hình thành?",
+    "options": [
+      "A. Tư duy",
+      "B. Ngôn ngữ",
+      "C. Lao động sản xuất",
+      "D. Đứng thẳng"
+    ],
+    "answer": "C. Lao động sản xuất"
+  },
+  {
+    "id": 217,
+    "chapter": "Chương 3",
+    "question": "Quần chúng nhân dân bao gồm những ai?",
+    "options": [
+      "A. Chỉ gồm giai cấp công nhân",
+      "B. Những người lao động sản xuất và các tầng lớp nhân dân tiến bộ đang thúc đẩy sự phát triển xã hội",
+      "C. Toàn bộ dân số",
+      "D. Chỉ gồm nông dân"
+    ],
+    "answer": "B. Những người lao động sản xuất và các tầng lớp nhân dân tiến bộ đang thúc đẩy sự phát triển xã hội"
+  },
+  {
+    "id": 218,
+    "chapter": "Chương 3",
+    "question": "Vai trò của quần chúng nhân dân trong lịch sử?",
+    "options": [
+      "A. Là lực lượng tiêu cực",
+      "B. Là đám đông thụ động",
+      "C. Là chủ thể chân chính sáng tạo ra lịch sử",
+      "D. Chỉ làm nền cho vĩ nhân"
+    ],
+    "answer": "C. Là chủ thể chân chính sáng tạo ra lịch sử"
+  },
+  {
+    "id": 219,
+    "chapter": "Chương 3",
+    "question": "Quần chúng nhân dân sáng tạo ra lịch sử trên những phương diện nào?",
+    "options": [
+      "A. Sáng tạo ra của cải vật chất",
+      "B. Sáng tạo ra giá trị tinh thần",
+      "C. Là lực lượng cơ bản của các cuộc cách mạng xã hội",
+      "D. Cả A, B và C"
+    ],
+    "answer": "D. Cả A, B và C"
+  },
+  {
+    "id": 220,
+    "chapter": "Chương 3",
+    "question": "Vai trò của Lãnh tụ (Vĩ nhân) trong lịch sử?",
+    "options": [
+      "A. Quyết định sự thành bại của lịch sử",
+      "B. Định hướng, dẫn dắt và thúc đẩy phong trào quần chúng",
+      "C. Tạo ra lịch sử tùy ý muốn",
+      "D. Không quan trọng"
+    ],
+    "answer": "B. Định hướng, dẫn dắt và thúc đẩy phong trào quần chúng"
+  },
+  {
+    "id": 221,
+    "chapter": "Chương 3",
+    "question": "Vấn đề 'tha hóa con người' được C.Mác nghiên cứu sâu sắc trong xã hội nào?",
+    "options": [
+      "A. Xã hội chiếm hữu nô lệ",
+      "B. Xã hội phong kiến",
+      "C. Xã hội tư bản chủ nghĩa",
+      "D. Xã hội cộng sản nguyên thủy"
+    ],
+    "answer": "C. Xã hội tư bản chủ nghĩa"
+  },
+  {
+    "id": 222,
+    "chapter": "Chương 3",
+    "question": "Giải phóng con người trong triết học Mác là giải phóng khỏi điều gì?",
+    "options": [
+      "A. Khỏi áp bức, bóc lột và sự tha hóa",
+      "B. Khỏi lao động",
+      "C. Khỏi gia đình",
+      "D. Khỏi pháp luật"
+    ],
+    "answer": "A. Khỏi áp bức, bóc lột và sự tha hóa"
+  },
+  {
+    "id": 223,
+    "chapter": "Chương 3",
+    "question": "Mục tiêu cuối cùng của sự nghiệp giải phóng con người của chủ nghĩa Mác là gì?",
+    "options": [
+      "A. Xây dựng con người giàu có",
+      "B. Sự phát triển tự do và toàn diện của con người",
+      "C. Con người thống trị tự nhiên",
+      "D. Con người bất tử"
+    ],
+    "answer": "B. Sự phát triển tự do và toàn diện của con người"
+  },
+  {
+    "id": 224,
+    "chapter": "Chương 3",
+    "question": "'Tất yếu' là gì?",
+    "options": [
+      "A. Cái xảy ra do nguyên nhân bên trong, trong những điều kiện nhất định thì chắc chắn xảy ra như thế",
+      "B. Cái xảy ra ngẫu nhiên",
+      "C. Cái do trời định",
+      "D. Cái không thể nhận biết"
+    ],
+    "answer": "A. Cái xảy ra do nguyên nhân bên trong, trong những điều kiện nhất định thì chắc chắn xảy ra như thế"
+  },
+  {
+    "id": 225,
+    "chapter": "Chương 3",
+    "question": "Quan niệm về 'Tự do' trong triết học Mác - Lênin là gì?",
+    "options": [
+      "A. Muốn làm gì thì làm",
+      "B. Thoát khỏi mọi ràng buộc",
+      "C. Là sự nhận thức và hành động dựa trên sự hiểu biết về tính tất yếu (Tự do là tất yếu được nhận thức)",
+      "D. Sự tuân thủ mệnh lệnh"
+    ],
+    "answer": "C. Là sự nhận thức và hành động dựa trên sự hiểu biết về tính tất yếu (Tự do là tất yếu được nhận thức)"
+  },
+  {
+    "id": 226,
+    "chapter": "Chương 3",
+    "question": "Đặc điểm của dân tộc là gì?",
+    "options": [
+      "A. Cộng đồng người ổn định, bền vững hợp thành nhân dân một nước",
+      "B. Có chung lãnh thổ, kinh tế, ngôn ngữ, văn hóa và tâm lý",
+      "C. Có nhà nước và pháp luật chung",
+      "D. Tất cả các yếu tố trên"
+    ],
+    "answer": "D. Tất cả các yếu tố trên"
+  },
+  {
+    "id": 227,
+    "chapter": "Chương 3",
+    "question": "Quan hệ giai cấp và quan hệ dân tộc, quan hệ nào rộng hơn?",
+    "options": [
+      "A. Quan hệ giai cấp",
+      "B. Quan hệ dân tộc",
+      "C. Ngang nhau",
+      "D. Không so sánh được"
+    ],
+    "answer": "A. Quan hệ giai cấp (vì giai cấp mang tính quốc tế)"
+  },
+  {
+    "id": 228,
+    "chapter": "Chương 3",
+    "question": "Trong cách mạng Việt Nam, Hồ Chí Minh đã giải quyết mối quan hệ giữa dân tộc và giai cấp như thế nào?",
+    "options": [
+      "A. Giai cấp trên hết",
+      "B. Dân tộc trên hết",
+      "C. Giải phóng giai cấp là tiền đề giải phóng dân tộc",
+      "D. Giải phóng dân tộc là tiền đề để giải phóng giai cấp (Độc lập dân tộc gắn liền với CNXH)"
+    ],
+    "answer": "D. Giải phóng dân tộc là tiền đề để giải phóng giai cấp (Độc lập dân tộc gắn liền với CNXH)"
+  },
+  {
+    "id": 229,
+    "chapter": "Chương 3",
+    "question": "Nhân tố quyết định sự thắng lợi của một trật tự xã hội mới là gì (theo Lênin)?",
+    "options": [
+      "A. Sức mạnh quân sự",
+      "B. Năng suất lao động cao hơn",
+      "C. Số lượng dân số",
+      "D. Tài nguyên thiên nhiên"
+    ],
+    "answer": "B. Năng suất lao động cao hơn"
+  },
+  {
+    "id": 230,
+    "chapter": "Chương 3",
+    "question": "Đặc điểm lớn nhất của thời kỳ quá độ lên CNXH ở Việt Nam là gì?",
+    "options": [
+      "A. Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH, bỏ qua chế độ TBCN",
+      "B. Có nền công nghiệp phát triển",
+      "C. Qua giai đoạn phát triển TBCN",
+      "D. Dân trí cao"
+    ],
+    "answer": "A. Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH, bỏ qua chế độ TBCN"
+  },
+  {
+    "id": 231,
+    "chapter": "Chương 3",
+    "question": "Thuật ngữ 'Bỏ qua chế độ tư bản chủ nghĩa' ở Việt Nam được hiểu là:",
+    "options": [
+      "A. Bỏ qua tất cả những gì thuộc về chủ nghĩa tư bản",
+      "B. Bỏ qua việc xác lập vị trí thống trị của QHSX và KTTT tư bản chủ nghĩa",
+      "C. Bỏ qua sự phát triển của lực lượng sản xuất",
+      "D. Bỏ qua kinh tế thị trường"
+    ],
+    "answer": "B. Bỏ qua việc xác lập vị trí thống trị của QHSX và KTTT tư bản chủ nghĩa"
+  },
+  {
+    "id": 232,
+    "chapter": "Chương 3",
+    "question": "Động lực chủ yếu của sự phát triển đất nước Việt Nam hiện nay là?",
+    "options": [
+      "A. Đấu tranh giai cấp gay gắt",
+      "B. Đại đoàn kết toàn dân tộc",
+      "C. Viện trợ nước ngoài",
+      "D. Xuất khẩu lao động"
+    ],
+    "answer": "B. Đại đoàn kết toàn dân tộc"
+  },
+  {
+    "id": 233,
+    "chapter": "Chương 3",
+    "question": "Mục tiêu 'Dân giàu, nước mạnh, dân chủ, công bằng, văn minh' thể hiện điều gì?",
+    "options": [
+      "A. Bản chất ưu việt của chế độ xã hội chủ nghĩa ở Việt Nam",
+      "B. Mong muốn chủ quan",
+      "C. Khẩu hiệu suông",
+      "D. Sao chép của nước ngoài"
+    ],
+    "answer": "A. Bản chất ưu việt của chế độ xã hội chủ nghĩa ở Việt Nam"
+  },
+  {
+    "id": 234,
+    "chapter": "Chương 3",
+    "question": "Văn hóa được xem là:",
+    "options": [
+      "A. Nền tảng tinh thần của xã hội",
+      "B. Động lực phát triển kinh tế",
+      "C. Mục tiêu của sự phát triển",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 235,
+    "chapter": "Chương 3",
+    "question": "Con người Việt Nam hiện nay cần xây dựng những đức tính gì?",
+    "options": [
+      "A. Yêu nước, nhân ái, nghĩa tình, trung thực, đoàn kết, cần cù, sáng tạo",
+      "B. Chỉ cần giỏi kiếm tiền",
+      "C. Chỉ cần tuân thủ pháp luật",
+      "D. Sống khép kín"
+    ],
+    "answer": "A. Yêu nước, nhân ái, nghĩa tình, trung thực, đoàn kết, cần cù, sáng tạo"
+  },
+  {
+    "id": 236,
+    "chapter": "Chương 3",
+    "question": "Thực chất của công cuộc đổi mới ở Việt Nam là gì?",
+    "options": [
+      "A. Thay đổi màu cờ sắc áo",
+      "B. Quá trình giải phóng mọi tiềm năng của xã hội (lực lượng sản xuất)",
+      "C. Thay đổi phe đồng minh",
+      "D. Từ bỏ chủ nghĩa Mác"
+    ],
+    "answer": "B. Quá trình giải phóng mọi tiềm năng của xã hội (lực lượng sản xuất)"
+  },
+  {
+    "id": 237,
+    "chapter": "Chương 3",
+    "question": "Trong nền kinh tế thị trường định hướng XHCN, thành phần kinh tế nào giữ vai trò chủ đạo?",
+    "options": [
+      "A. Kinh tế tư nhân",
+      "B. Kinh tế nhà nước",
+      "C. Kinh tế có vốn đầu tư nước ngoài",
+      "D. Kinh tế tập thể"
+    ],
+    "answer": "B. Kinh tế nhà nước"
+  },
+  {
+    "id": 238,
+    "chapter": "Chương 3",
+    "question": "Sự khác biệt căn bản giữa nền dân chủ XHCN và dân chủ tư sản là gì?",
+    "options": [
+      "A. Dân chủ XHCN là nền dân chủ rộng rãi cho đại đa số nhân dân lao động",
+      "B. Dân chủ tư sản là dân chủ cho thiểu số",
+      "C. Dân chủ XHCN gắn liền với pháp luật và kỷ cương",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": 239,
+    "chapter": "Chương 3",
+    "question": "Một trong những đặc trưng của Nhà nước pháp quyền XHCN Việt Nam là:",
+    "options": [
+      "A. Tam quyền phân lập",
+      "B. Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan",
+      "C. Quyền lực tập trung vào một người",
+      "D. Không có hiến pháp"
+    ],
+    "answer": "B. Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan"
+  },
+  {
+    "id": 240,
+    "chapter": "Chương 3",
+    "question": "Yếu tố nào quyết định đến sự hình thành nhân cách con người?",
+    "options": [
+      "A. Di truyền",
+      "B. Môi trường xã hội và hoạt động cá nhân",
+      "C. Giáo dục nhà trường",
+      "D. Bẩm sinh"
+    ],
+    "answer": "B. Môi trường xã hội và hoạt động cá nhân"
+  },
+  {
+    "id": 241,
+    "chapter": "Chương 3",
+    "question": "Toàn cầu hóa là một xu thế:",
+    "options": [
+      "A. Chủ quan do các nước lớn áp đặt",
+      "B. Khách quan của sự phát triển lực lượng sản xuất",
+      "C. Ngẫu nhiên",
+      "D. Có hại hoàn toàn"
+    ],
+    "answer": "B. Khách quan của sự phát triển lực lượng sản xuất"
+  },
+  {
+    "id": 242,
+    "chapter": "Chương 3",
+    "question": "Cuộc cách mạng công nghiệp lần thứ 4 (4.0) dựa trên nền tảng nào?",
+    "options": [
+      "A. Động cơ hơi nước",
+      "B. Điện năng",
+      "C. Công nghệ số, kết nối vạn vật (IoT), trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data)",
+      "D. Năng lượng hạt nhân"
+    ],
+    "answer": "C. Công nghệ số, kết nối vạn vật (IoT), trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data)"
+  },
+  {
+    "id": 243,
+    "chapter": "Chương 3",
+    "question": "Nội dung cốt lõi của việc xây dựng con người mới hiện nay là:",
+    "options": [
+      "A. Nâng cao thể lực",
+      "B. Nâng cao trí tuệ, đạo đức, năng lực sáng tạo",
+      "C. Làm giàu nhanh chóng",
+      "D. Học ngoại ngữ"
+    ],
+    "answer": "B. Nâng cao trí tuệ, đạo đức, năng lực sáng tạo"
+  },
+  {
+    "id": 244,
+    "chapter": "Chương 3",
+    "question": "Vấn đề sinh tử của sự tồn tại nhân loại hiện nay là:",
+    "options": [
+      "A. Vấn đề môi trường và biến đổi khí hậu",
+      "B. Vấn đề dân số",
+      "C. Vấn đề hòa bình và chiến tranh hạt nhân",
+      "D. Tất cả các vấn đề toàn cầu trên"
+    ],
+    "answer": "D. Tất cả các vấn đề toàn cầu trên"
+  },
+  {
+    "id": 245,
+    "chapter": "Chương 3",
+    "question": "Thái độ của chúng ta đối với văn hóa truyền thống là:",
+    "options": [
+      "A. Giữ gìn nguyên vẹn",
+      "B. Phủ nhận sạch trơn",
+      "C. Kế thừa có phê phán và chọn lọc (gạt bỏ hủ tục, phát huy giá trị tốt đẹp)",
+      "D. Lai căng văn hóa nước ngoài"
+    ],
+    "answer": "C. Kế thừa có phê phán và chọn lọc (gạt bỏ hủ tục, phát huy giá trị tốt đẹp)"
+  },
+  {
+    "id": 246,
+    "chapter": "Chương 3",
+    "question": "Tiêu chuẩn khách quan để phân định các chế độ xã hội (hình thái KT-XH) là:",
+    "options": [
+      "A. Chính trị",
+      "B. Quan hệ sản xuất đặc trưng",
+      "C. Văn hóa",
+      "D. Tôn giáo"
+    ],
+    "answer": "B. Quan hệ sản xuất đặc trưng"
+  },
+  {
+    "id": 247,
+    "chapter": "Chương 3",
+    "question": "Nội dung nào không thuộc về 'Ý thức xã hội'?",
+    "options": [
+      "A. Khoa học",
+      "B. Nghệ thuật",
+      "C. Nhà nước",
+      "D. Tôn giáo"
+    ],
+    "answer": "C. Nhà nước (Nhà nước thuộc Kiến trúc thượng tầng - thiết chế chính trị, không phải hình thái ý thức)"
+  },
+  {
+    "id": 248,
+    "chapter": "Chương 3",
+    "question": "Cơ sở để xác định sự khác nhau giữa các giai cấp là:",
+    "options": [
+      "A. Quan hệ đối với tư liệu sản xuất",
+      "B. Uy tín cá nhân",
+      "C. Tài năng",
+      "D. Dòng dõi"
+    ],
+    "answer": "A. Quan hệ đối với tư liệu sản xuất"
+  },
+  {
+    "id": 249,
+    "chapter": "Chương 3",
+    "question": "Trong xã hội có giai cấp, đạo đức có tính chất gì?",
+    "options": [
+      "A. Tính nhân loại vĩnh cửu",
+      "B. Tính giai cấp",
+      "C. Tính vô tư",
+      "D. Tính áp đặt"
+    ],
+    "answer": "B. Tính giai cấp"
+  },
+  {
+    "id": 250,
+    "chapter": "Chương 3",
+    "question": "Quan điểm 'Lấy dân làm gốc' tương đồng với quan điểm nào của triết học Mác - Lênin?",
+    "options": [
+      "A. Quần chúng nhân dân là người sáng tạo ra lịch sử",
+      "B. Vật chất quyết định ý thức",
+      "C. Biện chứng giữa cái chung và cái riêng",
+      "D. Phủ định của phủ định"
+    ],
+    "answer": "A. Quần chúng nhân dân là người sáng tạo ra lịch sử"
+  },
+  {
+    "id": 251,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Bệnh 'giáo điều' là do vi phạm nguyên tắc nào của triết học Mác - Lênin?",
+    "options": [
+      "A. Nguyên tắc thống nhất giữa lý luận và thực tiễn",
+      "B. Nguyên tắc khách quan",
+      "C. Nguyên tắc phát triển",
+      "D. Nguyên tắc toàn diện"
+    ],
+    "answer": "A. Nguyên tắc thống nhất giữa lý luận và thực tiễn"
+  },
+  {
+    "id": 252,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Bệnh 'kinh nghiệm chủ nghĩa' (chỉ dựa vào kinh nghiệm cũ, coi thường lý luận) là do vi phạm điều gì?",
+    "options": [
+      "A. Tuyệt đối hóa thực tiễn, coi thường lý luận",
+      "B. Tuyệt đối hóa lý luận",
+      "C. Coi thường vật chất",
+      "D. Coi thường lịch sử"
+    ],
+    "answer": "A. Tuyệt đối hóa thực tiễn, coi thường lý luận"
+  },
+  {
+    "id": 253,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Quan điểm: 'Muốn biết cái gì đúng hay sai thì phải đem ra áp dụng vào thực tế cuộc sống', thể hiện vai trò nào của thực tiễn?",
+    "options": [
+      "A. Thực tiễn là cơ sở của nhận thức",
+      "B. Thực tiễn là động lực của nhận thức",
+      "C. Thực tiễn là mục đích của nhận thức",
+      "D. Thực tiễn là tiêu chuẩn của chân lý"
+    ],
+    "answer": "D. Thực tiễn là tiêu chuẩn của chân lý"
+  },
+  {
+    "id": 254,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong hoạt động nhận thức và thực tiễn, nếu chỉ nhìn thấy cây mà không thấy rừng, đó là biểu hiện của phương pháp nào?",
+    "options": [
+      "A. Phương pháp biện chứng",
+      "B. Phương pháp siêu hình (phiến diện)",
+      "C. Phương pháp lịch sử",
+      "D. Phương pháp logic"
+    ],
+    "answer": "B. Phương pháp siêu hình (phiến diện)"
+  },
+  {
+    "id": 255,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Câu tục ngữ 'Tre già măng mọc' thể hiện tính chất nào của quy luật phủ định của phủ định?",
+    "options": [
+      "A. Tính kế thừa",
+      "B. Tính chu kỳ",
+      "C. Tính ngẫu nhiên",
+      "D. Tính lặp lại y nguyên"
+    ],
+    "answer": "A. Tính kế thừa"
+  },
+  {
+    "id": 256,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Để khắc phục tư tưởng 'trọng nam khinh nữ' (một ý thức xã hội lạc hậu), biện pháp căn cơ nhất là gì?",
+    "options": [
+      "A. Chỉ cần tuyên truyền giáo dục",
+      "B. Thay đổi tồn tại xã hội (phát triển kinh tế, nâng cao vai trò của phụ nữ trong sản xuất)",
+      "C. Ra lệnh cấm",
+      "D. Chờ đợi tự nhiên thay đổi"
+    ],
+    "answer": "B. Thay đổi tồn tại xã hội (phát triển kinh tế, nâng cao vai trò của phụ nữ trong sản xuất)"
+  },
+  {
+    "id": 257,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Sự nghiệp Công nghiệp hóa - Hiện đại hóa ở Việt Nam thực chất là quá trình xây dựng yếu tố nào?",
+    "options": [
+      "A. Xây dựng Quan hệ sản xuất",
+      "B. Phát triển Lực lượng sản xuất",
+      "C. Xây dựng Kiến trúc thượng tầng",
+      "D. Xây dựng văn hóa"
+    ],
+    "answer": "B. Phát triển Lực lượng sản xuất"
+  },
+  {
+    "id": 258,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Tại sao Việt Nam chủ trương phát triển nền kinh tế nhiều thành phần?",
+    "options": [
+      "A. Vì muốn giống các nước tư bản",
+      "B. Vì Lực lượng sản xuất của nước ta còn ở nhiều trình độ khác nhau, nên cần Quan hệ sản xuất đa dạng phù hợp",
+      "C. Vì nhà nước không quản lý nổi",
+      "D. Vì áp lực quốc tế"
+    ],
+    "answer": "B. Vì Lực lượng sản xuất của nước ta còn ở nhiều trình độ khác nhau, nên cần Quan hệ sản xuất đa dạng phù hợp"
+  },
+  {
+    "id": 259,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Vấn đề bảo vệ môi trường hiện nay là việc giải quyết mâu thuẫn giữa:",
+    "options": [
+      "A. Con người và xã hội",
+      "B. Xã hội và Tự nhiên (Sự phát triển kinh tế và sự bền vững của môi trường)",
+      "C. Các quốc gia với nhau",
+      "D. Các thế hệ con người"
+    ],
+    "answer": "B. Xã hội và Tự nhiên (Sự phát triển kinh tế và sự bền vững của môi trường)"
+  },
+  {
+    "id": 260,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trí tuệ nhân tạo (AI) ngày càng thông minh, liệu nó có 'ý thức' như con người không?",
+    "options": [
+      "A. Có, vì nó tính toán nhanh hơn người",
+      "B. Có, nếu lập trình tốt",
+      "C. Không, vì nó không có nguồn gốc xã hội (lao động) và không có cảm xúc, sự sáng tạo xã hội",
+      "D. Tùy quan điểm"
+    ],
+    "answer": "C. Không, vì nó không có nguồn gốc xã hội (lao động) và không có cảm xúc, sự sáng tạo xã hội"
+  },
+  {
+    "id": 261,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Khi xem xét một sự vật, nếu ta tuyệt đối hóa cái riêng, phủ nhận cái chung thì sẽ dẫn đến sai lầm nào?",
+    "options": [
+      "A. Giáo điều",
+      "B. Cục bộ, địa phương chủ nghĩa",
+      "C. Quan liêu",
+      "D. Chủ quan"
+    ],
+    "answer": "B. Cục bộ, địa phương chủ nghĩa"
+  },
+  {
+    "id": 262,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Khi xem xét lịch sử, nếu chỉ thấy vai trò của vĩ nhân mà phủ nhận vai trò của quần chúng nhân dân thì rơi vào quan điểm nào?",
+    "options": [
+      "A. Duy vật lịch sử",
+      "B. Duy tâm lịch sử",
+      "C. Định mệnh luận",
+      "D. Vô chính phủ"
+    ],
+    "answer": "B. Duy tâm lịch sử"
+  },
+  {
+    "id": 263,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Khẩu hiệu 'Đảng CSVN quang vinh muôn năm' khẳng định vai trò gì của Đảng đối với quần chúng?",
+    "options": [
+      "A. Đảng là lực lượng lãnh đạo, dẫn dắt quần chúng nhân dân",
+      "B. Đảng làm thay quần chúng",
+      "C. Đảng đứng trên pháp luật",
+      "D. Đảng là công cụ của quần chúng"
+    ],
+    "answer": "A. Đảng là lực lượng lãnh đạo, dẫn dắt quần chúng nhân dân"
+  },
+  {
+    "id": 264,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Mối quan hệ giữa 'Tăng trưởng kinh tế' và 'Tiến bộ, công bằng xã hội' ở Việt Nam là biểu hiện của quy luật nào?",
+    "options": [
+      "A. Quy luật mâu thuẫn (vừa thống nhất vừa đấu tranh)",
+      "B. Quy luật phủ định",
+      "C. Quy luật lượng chất",
+      "D. Quy luật đào thải"
+    ],
+    "answer": "A. Quy luật mâu thuẫn (vừa thống nhất vừa đấu tranh)"
+  },
+  {
+    "id": 265,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong công tác cán bộ, việc luân chuyển cán bộ qua nhiều vị trí thực tế là vận dụng quan điểm nào?",
+    "options": [
+      "A. Quan điểm thực tiễn (Cán bộ phải trưởng thành từ thực tiễn)",
+      "B. Quan điểm lý thuyết",
+      "C. Quan điểm tình cảm",
+      "D. Quan điểm bè phái"
+    ],
+    "answer": "A. Quan điểm thực tiễn (Cán bộ phải trưởng thành từ thực tiễn)"
+  },
+  {
+    "id": 266,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Luận điểm 'Không ai tắm hai lần trên một dòng sông' của Hêraclit thể hiện tư tưởng gì?",
+    "options": [
+      "A. Tư tưởng siêu hình",
+      "B. Tư tưởng biện chứng (về sự vận động không ngừng)",
+      "C. Tư tưởng duy tâm",
+      "D. Tư tưởng hoài nghi"
+    ],
+    "answer": "B. Tư tưởng biện chứng (về sự vận động không ngừng)"
+  },
+  {
+    "id": 267,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Việc Đảng ta thừa nhận 'Đảng viên làm kinh tế tư nhân' là sự vận dụng linh hoạt của quy luật nào?",
+    "options": [
+      "A. QHSX phù hợp với trình độ phát triển của LLSX",
+      "B. Quy luật đấu tranh giai cấp",
+      "C. Quy luật chính trị",
+      "D. Quy luật đạo đức"
+    ],
+    "answer": "A. QHSX phù hợp với trình độ phát triển của LLSX"
+  },
+  {
+    "id": 268,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Câu nói 'Nhiệt tình + Ngu dốt = Phá hoại' phản ánh mối quan hệ nào trong triết học?",
+    "options": [
+      "A. Mối quan hệ giữa Vật chất và Ý thức",
+      "B. Mối quan hệ biện chứng giữa Đức và Tài (Phẩm chất và Năng lực)",
+      "C. Mối quan hệ giữa Lượng và Chất",
+      "D. Mối quan hệ giữa Cái chung và Cái riêng"
+    ],
+    "answer": "B. Mối quan hệ biện chứng giữa Đức và Tài (Phẩm chất và Năng lực)"
+  },
+  {
+    "id": 269,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Toàn cầu hóa kinh tế là xu thế khách quan, nhưng việc giữ gìn bản sắc văn hóa dân tộc là yêu cầu chủ quan. Đây là việc giải quyết mối quan hệ giữa:",
+    "options": [
+      "A. Cái chung (toàn cầu) và Cái riêng (dân tộc)",
+      "B. Nguyên nhân và Kết quả",
+      "C. Nội dung và Hình thức",
+      "D. Khả năng và Hiện thực"
+    ],
+    "answer": "A. Cái chung (toàn cầu) và Cái riêng (dân tộc)"
+  },
+  {
+    "id": 270,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Sự sụp đổ của Liên Xô là do nguyên nhân nào xét từ góc độ triết học?",
+    "options": [
+      "A. Do sai lầm chủ quan, duy ý chí trong nhận thức và vận dụng quy luật xã hội",
+      "B. Do chủ nghĩa Mác sai lầm",
+      "C. Do lực lượng sản xuất quá kém",
+      "D. Do thiên tai"
+    ],
+    "answer": "A. Do sai lầm chủ quan, duy ý chí trong nhận thức và vận dụng quy luật xã hội"
+  },
+  {
+    "id": 271,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong nền kinh tế thị trường, quy luật giá trị hoạt động như một:",
+    "options": [
+      "A. Quy luật tự nhiên",
+      "B. Quy luật kinh tế khách quan (bàn tay vô hình)",
+      "C. Mệnh lệnh hành chính",
+      "D. Quy định đạo đức"
+    ],
+    "answer": "B. Quy luật kinh tế khách quan (bàn tay vô hình)"
+  },
+  {
+    "id": 272,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Chống tham nhũng hiện nay ở Việt Nam được coi là:",
+    "options": [
+      "A. Một cuộc đấu tranh giai cấp trong nội bộ nhân dân (chống lại cái ác, cái xấu)",
+      "B. Một hoạt động kinh tế",
+      "C. Một phong trào tạm thời",
+      "D. Một sự trừng phạt cá nhân"
+    ],
+    "answer": "A. Một cuộc đấu tranh giai cấp trong nội bộ nhân dân (chống lại cái ác, cái xấu)"
+  },
+  {
+    "id": 273,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Thành tựu của Cách mạng tháng Tám năm 1945 là kết quả của sự kết hợp giữa:",
+    "options": [
+      "A. Thời cơ khách quan và nhân tố chủ quan (sự chuẩn bị của Đảng và toàn dân)",
+      "B. Sự may mắn",
+      "C. Sự giúp đỡ của Đồng minh",
+      "D. Sự suy yếu của Nhật"
+    ],
+    "answer": "A. Thời cơ khách quan và nhân tố chủ quan (sự chuẩn bị của Đảng và toàn dân)"
+  },
+  {
+    "id": 274,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Quan điểm 'Lấy dân làm gốc' trong đại dịch COVID-19 (chấp nhận hy sinh kinh tế để bảo vệ sức khỏe nhân dân) thể hiện bản chất gì?",
+    "options": [
+      "A. Bản chất nhân văn của chế độ XHCN",
+      "B. Sự sợ hãi dịch bệnh",
+      "C. Tính toán kinh tế",
+      "D. Áp lực quốc tế"
+    ],
+    "answer": "A. Bản chất nhân văn của chế độ XHCN"
+  },
+  {
+    "id": 275,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Câu 'Dĩ bất biến, ứng vạn biến' của Hồ Chí Minh là sự vận dụng cặp phạm trù nào?",
+    "options": [
+      "A. Bản chất (bất biến) và Hiện tượng (vạn biến)",
+      "B. Nguyên nhân và Kết quả",
+      "C. Tất nhiên và Ngẫu nhiên",
+      "D. Khả năng và Hiện thực"
+    ],
+    "answer": "A. Bản chất (bất biến) và Hiện tượng (vạn biến)"
+  },
+  {
+    "id": 276,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Khoa học công nghệ trở thành lực lượng sản xuất trực tiếp có nghĩa là:",
+    "options": [
+      "A. Khoa học thâm nhập vào mọi yếu tố của quá trình sản xuất",
+      "B. Nhà khoa học trực tiếp làm công nhân",
+      "C. Máy móc tự làm việc không cần người",
+      "D. Sản xuất chỉ cần tri thức"
+    ],
+    "answer": "A. Khoa học thâm nhập vào mọi yếu tố của quá trình sản xuất"
+  },
+  {
+    "id": 277,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Tư duy biện chứng đối lập với tư duy nào?",
+    "options": [
+      "A. Tư duy siêu hình",
+      "B. Tư duy logic",
+      "C. Tư duy khoa học",
+      "D. Tư duy trừu tượng"
+    ],
+    "answer": "A. Tư duy siêu hình"
+  },
+  {
+    "id": 278,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Việc học tập suốt đời (Learning for life) phù hợp với nguyên lý nào?",
+    "options": [
+      "A. Nguyên lý về sự phát triển không ngừng",
+      "B. Nguyên lý về sự đứng im",
+      "C. Nguyên lý bảo toàn",
+      "D. Nguyên lý bất khả tri"
+    ],
+    "answer": "A. Nguyên lý về sự phát triển không ngừng"
+  },
+  {
+    "id": 279,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Lỗi 'ngụy biện' trong tranh luận là gì?",
+    "options": [
+      "A. Sử dụng các mối liên hệ ngẫu nhiên, cái vẻ bề ngoài để thay thế cho bản chất nhằm che lấp sự thật",
+      "B. Nói sai sự thật",
+      "C. Không có bằng chứng",
+      "D. Nói quá nhiều"
+    ],
+    "answer": "A. Sử dụng các mối liên hệ ngẫu nhiên, cái vẻ bề ngoài để thay thế cho bản chất nhằm che lấp sự thật"
+  },
+  {
+    "id": 280,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Lỗi 'chiết trung' trong giải quyết vấn đề là gì?",
+    "options": [
+      "A. Lắp ghép vô nguyên tắc các mặt đối lập, không phân biệt được cái chính yếu và cái thứ yếu",
+      "B. Chỉ chọn phương án trung bình",
+      "C. Không đưa ra quyết định",
+      "D. Thiên vị một bên"
+    ],
+    "answer": "A. Lắp ghép vô nguyên tắc các mặt đối lập, không phân biệt được cái chính yếu và cái thứ yếu"
+  },
+  {
+    "id": 281,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Tiêu chí nào để đánh giá sự tiến bộ của xã hội?",
+    "options": [
+      "A. Trình độ giải phóng con người",
+      "B. Số lượng vũ khí",
+      "C. Số lượng nhà tù",
+      "D. Diện tích lãnh thổ"
+    ],
+    "answer": "A. Trình độ giải phóng con người"
+  },
+  {
+    "id": 282,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Phủ định biện chứng là tiền đề, điều kiện cho sự:",
+    "options": [
+      "A. Phát triển",
+      "B. Hủy diệt",
+      "C. Thụt lùi",
+      "D. Đứng im"
+    ],
+    "answer": "A. Phát triển"
+  },
+  {
+    "id": 283,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Quy luật nào giải thích tại sao lịch sử diễn ra theo đường xoáy ốc?",
+    "options": [
+      "A. Quy luật Phủ định của phủ định",
+      "B. Quy luật Mâu thuẫn",
+      "C. Quy luật Lượng chất",
+      "D. Quy luật Giá trị"
+    ],
+    "answer": "A. Quy luật Phủ định của phủ định"
+  },
+  {
+    "id": 284,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Cái 'Tất nhiên' dọn đường cho mình đi thông qua vô số cái gì?",
+    "options": [
+      "A. Cái Ngẫu nhiên",
+      "B. Cái Tất yếu",
+      "C. Cái Đơn nhất",
+      "D. Cái Chung"
+    ],
+    "answer": "A. Cái Ngẫu nhiên"
+  },
+  {
+    "id": 285,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Muốn thay đổi chất của sự vật, ta phải làm gì?",
+    "options": [
+      "A. Tích lũy về lượng đến điểm nút",
+      "B. Thay đổi hình dáng",
+      "C. Giữ nguyên lượng",
+      "D. Thay đổi tên gọi"
+    ],
+    "answer": "A. Tích lũy về lượng đến điểm nút"
+  },
+  {
+    "id": 286,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong nhận thức, 'Thực tiễn' có ưu điểm gì so với 'Lý luận'?",
+    "options": [
+      "A. Tính trực tiếp phổ biến (có sức mạnh vật chất biến đổi thế giới)",
+      "B. Tính khái quát cao",
+      "C. Tính logic",
+      "D. Tính hệ thống"
+    ],
+    "answer": "A. Tính trực tiếp phổ biến (có sức mạnh vật chất biến đổi thế giới)"
+  },
+  {
+    "id": 287,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Lý luận có ưu điểm gì so với kinh nghiệm?",
+    "options": [
+      "A. Tính khái quát, tính hệ thống, tính khoa học",
+      "B. Tính cụ thể",
+      "C. Tính sinh động",
+      "D. Tính cảm tính"
+    ],
+    "answer": "A. Tính khái quát, tính hệ thống, tính khoa học"
+  },
+  {
+    "id": 288,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Hạnh phúc của con người theo quan điểm Mác - Lênin gắn liền với:",
+    "options": [
+      "A. Lao động, cống hiến và hưởng thụ chân chính",
+      "B. Sự lười biếng",
+      "C. Sự chiếm đoạt của người khác",
+      "D. Sự tu hành khổ hạnh"
+    ],
+    "answer": "A. Lao động, cống hiến và hưởng thụ chân chính"
+  },
+  {
+    "id": 289,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Câu nói 'Học, học nữa, học mãi' của Lênin khuyên chúng ta điều gì?",
+    "options": [
+      "A. Nhận thức là một quá trình không có điểm dừng",
+      "B. Học để lấy bằng cấp",
+      "C. Học nhiều mệt mỏi",
+      "D. Chỉ cần học ở trường"
+    ],
+    "answer": "A. Nhận thức là một quá trình không có điểm dừng"
+  },
+  {
+    "id": 290,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Toàn bộ những tri thức đã được kiểm nghiệm qua thực tiễn và được chứng minh là đúng đắn được gọi là:",
+    "options": [
+      "A. Chân lý",
+      "B. Giả thuyết",
+      "C. Niềm tin",
+      "D. Dư luận"
+    ],
+    "answer": "A. Chân lý"
+  },
+  {
+    "id": 291,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Đặc trưng của tư duy con người trong thời đại 4.0 là:",
+    "options": [
+      "A. Tư duy sáng tạo và tư duy phản biện",
+      "B. Tư duy kinh nghiệm",
+      "C. Tư duy giáo điều",
+      "D. Tư duy phục tùng"
+    ],
+    "answer": "A. Tư duy sáng tạo và tư duy phản biện"
+  },
+  {
+    "id": 292,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Nền tảng tư tưởng của Đảng Cộng sản Việt Nam là:",
+    "options": [
+      "A. Chủ nghĩa Mác - Lênin và Tư tưởng Hồ Chí Minh",
+      "B. Nho giáo",
+      "C. Tinh hoa văn hóa nhân loại",
+      "D. Triết học phương Tây"
+    ],
+    "answer": "A. Chủ nghĩa Mác - Lênin và Tư tưởng Hồ Chí Minh"
+  },
+  {
+    "id": 293,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Mục tiêu 'Dân giàu' trong khẩu hiệu của Việt Nam thể hiện:",
+    "options": [
+      "A. Sự phát triển của Lực lượng sản xuất và nâng cao đời sống vật chất",
+      "B. Sự làm giàu bất chấp thủ đoạn",
+      "C. Chỉ dành cho thương nhân",
+      "D. Sự phân hóa giàu nghèo"
+    ],
+    "answer": "A. Sự phát triển của Lực lượng sản xuất và nâng cao đời sống vật chất"
+  },
+  {
+    "id": 294,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Mục tiêu 'Công bằng, văn minh' thể hiện:",
+    "options": [
+      "A. Sự tiến bộ của Quan hệ sản xuất và Kiến trúc thượng tầng",
+      "B. Sự cào bằng trong phân phối",
+      "C. Sự sao chép mô hình phương Tây",
+      "D. Lý tưởng viển vông"
+    ],
+    "answer": "A. Sự tiến bộ của Quan hệ sản xuất và Kiến trúc thượng tầng"
+  },
+  {
+    "id": 295,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Sự phát triển bền vững đòi hỏi phải giải quyết tốt mối quan hệ giữa:",
+    "options": [
+      "A. Kinh tế, Xã hội và Môi trường",
+      "B. Kinh tế và Chính trị",
+      "C. Văn hóa và Giáo dục",
+      "D. Khoa học và Công nghệ"
+    ],
+    "answer": "A. Kinh tế, Xã hội và Môi trường"
+  },
+  {
+    "id": 296,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong bối cảnh hội nhập, 'Hòa nhập nhưng không hòa tan' nghĩa là:",
+    "options": [
+      "A. Tiếp thu cái hay của nhân loại nhưng giữ gìn bản sắc dân tộc",
+      "B. Từ chối mọi cái mới",
+      "C. Chấp nhận bị đồng hóa",
+      "D. Đóng cửa đất nước"
+    ],
+    "answer": "A. Tiếp thu cái hay của nhân loại nhưng giữ gìn bản sắc dân tộc"
+  },
+  {
+    "id": 297,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Gia đình là tế bào của xã hội. Muốn xã hội tốt thì gia đình phải tốt. Đây là mối quan hệ giữa:",
+    "options": [
+      "A. Cái bộ phận và Cái toàn thể",
+      "B. Nguyên nhân và Kết quả",
+      "C. Nội dung và Hình thức",
+      "D. Bản chất và Hiện tượng"
+    ],
+    "answer": "A. Cái bộ phận và Cái toàn thể"
+  },
+  {
+    "id": 298,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Câu 'Sai một ly đi một dặm' nói lên tính chất gì của chân lý?",
+    "options": [
+      "A. Tính cụ thể (Chân lý là cụ thể, nếu thoát ly điều kiện cụ thể sẽ thành sai lầm)",
+      "B. Tính trừu tượng",
+      "C. Tính vĩnh cửu",
+      "D. Tính chủ quan"
+    ],
+    "answer": "A. Tính cụ thể (Chân lý là cụ thể, nếu thoát ly điều kiện cụ thể sẽ thành sai lầm)"
+  },
+  {
+    "id": 299,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Trong thời đại ngày nay, sức mạnh của một dân tộc chủ yếu dựa vào:",
+    "options": [
+      "A. Nguồn lực con người và tri thức",
+      "B. Tài nguyên khoáng sản",
+      "C. Diện tích đất đai",
+      "D. Số lượng dân số đông"
+    ],
+    "answer": "A. Nguồn lực con người và tri thức"
+  },
+  {
+    "id": 300,
+    "chapter": "Tổng hợp & Vận dụng",
+    "question": "Học triết học Mác - Lênin để làm gì?",
+    "options": [
+      "A. Để có thế giới quan khoa học và nhân sinh quan cách mạng",
+      "B. Để trang bị phương pháp luận giải quyết vấn đề",
+      "C. Để vận dụng vào thực tiễn cuộc sống và nghề nghiệp",
+      "D. Tất cả các mục đích trên"
+    ],
+    "answer": "D. Tất cả các mục đích trên"
+  },{
+    "id": 1,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Theo C.Mác, tiền đề đầu tiên của mọi lịch sử loài người là gì?",
+    "options": [
+      "A. Sự tồn tại của các cá nhân con người sống và hoạt động sản xuất vật chất",
+      "B. Sự xuất hiện của ngôn ngữ",
+      "C. Sự hình thành nhà nước",
+      "D. Sự phát triển của tư duy"
+    ],
+    "answer": "A. Sự tồn tại của các cá nhân con người sống và hoạt động sản xuất vật chất"
+  },
+  {
+    "id": 2,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong các yếu tố của Lực lượng sản xuất, yếu tố nào giữ vai trò quyết định nhất?",
+    "options": [
+      "A. Tư liệu sản xuất",
+      "B. Người lao động",
+      "C. Đối tượng lao động",
+      "D. Khoa học công nghệ"
+    ],
+    "answer": "B. Người lao động"
+  },
+  {
+    "id": 3,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Yếu tố nào trong Lực lượng sản xuất là yếu tố 'động' nhất, 'cách mạng' nhất?",
+    "options": [
+      "A. Người lao động",
+      "B. Công cụ lao động",
+      "C. Phương tiện vận tải",
+      "D. Nhà xưởng"
+    ],
+    "answer": "B. Công cụ lao động"
+  },
+  {
+    "id": 4,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Quan hệ sản xuất (QHSX) bao gồm những mặt nào?",
+    "options": [
+      "A. Sở hữu tư liệu sản xuất, tổ chức quản lý, phân phối sản phẩm",
+      "B. Sản xuất, lưu thông, tiêu dùng",
+      "C. Chủ nô, địa chủ, tư sản",
+      "D. Hợp tác, phân công, trao đổi"
+    ],
+    "answer": "A. Sở hữu tư liệu sản xuất, tổ chức quản lý, phân phối sản phẩm"
+  },
+  {
+    "id": 5,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong kết cấu của Quan hệ sản xuất, quan hệ nào giữ vai trò quyết định các quan hệ khác?",
+    "options": [
+      "A. Quan hệ tổ chức quản lý",
+      "B. Quan hệ phân phối sản phẩm",
+      "C. Quan hệ sở hữu về tư liệu sản xuất",
+      "D. Quan hệ tiêu dùng"
+    ],
+    "answer": "C. Quan hệ sở hữu về tư liệu sản xuất"
+  },
+  {
+    "id": 6,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Quy luật cơ bản nhất chi phối sự vận động và phát triển của lịch sử xã hội là gì?",
+    "options": [
+      "A. Quy luật đấu tranh giai cấp",
+      "B. Quy luật Quan hệ sản xuất phù hợp với trình độ phát triển của Lực lượng sản xuất",
+      "C. Quy luật Tồn tại xã hội quyết định Ý thức xã hội",
+      "D. Quy luật Cơ sở hạ tầng quyết định Kiến trúc thượng tầng"
+    ],
+    "answer": "B. Quy luật Quan hệ sản xuất phù hợp với trình độ phát triển của Lực lượng sản xuất"
+  },
+  {
+    "id": 7,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Cơ sở hạ tầng của xã hội được hiểu là:",
+    "options": [
+      "A. Hệ thống đường sá, cầu cống, điện nước",
+      "B. Toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội",
+      "C. Nền tảng văn hóa tinh thần",
+      "D. Hệ thống chính trị"
+    ],
+    "answer": "B. Toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội"
+  },
+  {
+    "id": 8,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Kiến trúc thượng tầng là gì?",
+    "options": [
+      "A. Toàn bộ hệ thống quan điểm tư tưởng (chính trị, pháp quyền, đạo đức...) và các thiết chế tương ứng (nhà nước, đảng phái...)",
+      "B. Bộ máy nhà nước",
+      "C. Các công trình kiến trúc cao tầng",
+      "D. Tầng lớp trí thức tinh hoa"
+    ],
+    "answer": "A. Toàn bộ hệ thống quan điểm tư tưởng (chính trị, pháp quyền, đạo đức...) và các thiết chế tương ứng (nhà nước, đảng phái...)"
+  },
+  {
+    "id": 9,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong Kiến trúc thượng tầng, yếu tố nào có quyền lực mạnh nhất?",
+    "options": [
+      "A. Các tổ chức tôn giáo",
+      "B. Nhà nước (Thiết chế chính trị - xã hội)",
+      "C. Các đảng phái chính trị",
+      "D. Các đoàn thể quần chúng"
+    ],
+    "answer": "B. Nhà nước (Thiết chế chính trị - xã hội)"
+  },
+  {
+    "id": 10,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Mối quan hệ biện chứng giữa Cơ sở hạ tầng (CSHT) và Kiến trúc thượng tầng (KTTT)?",
+    "options": [
+      "A. KTTT quyết định CSHT",
+      "B. CSHT quyết định KTTT, KTTT tác động trở lại CSHT",
+      "C. Hai yếu tố này độc lập tuyệt đối",
+      "D. KTTT luôn kìm hãm CSHT"
+    ],
+    "answer": "B. CSHT quyết định KTTT, KTTT tác động trở lại CSHT"
+  },
+  {
+    "id": 11,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Hình thái kinh tế - xã hội bao gồm những yếu tố cơ bản nào?",
+    "options": [
+      "A. Lực lượng sản xuất, Quan hệ sản xuất (Cơ sở hạ tầng), Kiến trúc thượng tầng",
+      "B. Tự nhiên, Con người, Xã hội",
+      "C. Kinh tế, Chính trị, Văn hóa",
+      "D. Vật chất, Tinh thần, Ý thức"
+    ],
+    "answer": "A. Lực lượng sản xuất, Quan hệ sản xuất (Cơ sở hạ tầng), Kiến trúc thượng tầng"
+  },
+  {
+    "id": 12,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "C.Mác khẳng định: 'Sự phát triển của các hình thái kinh tế - xã hội là một quá trình...'",
+    "options": [
+      "A. Ngẫu nhiên",
+      "B. Lịch sử - tự nhiên",
+      "C. Do ý muốn chủ quan",
+      "D. Thần định"
+    ],
+    "answer": "B. Lịch sử - tự nhiên"
+  },
+  {
+    "id": 13,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Nguồn gốc sâu xa của sự xuất hiện giai cấp là gì?",
+    "options": [
+      "A. Sự phát triển của lực lượng sản xuất làm xuất hiện sản phẩm thặng dư",
+      "B. Chế độ tư hữu về tư liệu sản xuất",
+      "C. Chiến tranh và bạo lực",
+      "D. Sự tham lam của con người"
+    ],
+    "answer": "A. Sự phát triển của lực lượng sản xuất làm xuất hiện sản phẩm thặng dư"
+  },
+  {
+    "id": 14,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Nguồn gốc trực tiếp dẫn đến sự ra đời của giai cấp là gì?",
+    "options": [
+      "A. Sự phân công lao động",
+      "B. Chế độ tư hữu về tư liệu sản xuất",
+      "C. Sự gia tăng dân số",
+      "D. Sự hình thành nhà nước"
+    ],
+    "answer": "B. Chế độ tư hữu về tư liệu sản xuất"
+  },
+  {
+    "id": 15,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Thực chất của đấu tranh giai cấp là gì?",
+    "options": [
+      "A. Xung đột cá nhân",
+      "B. Cuộc đấu tranh giữa các tập đoàn người có lợi ích kinh tế cơ bản đối lập nhau",
+      "C. Sự tranh giành quyền lực chính trị",
+      "D. Xung đột tôn giáo"
+    ],
+    "answer": "B. Cuộc đấu tranh giữa các tập đoàn người có lợi ích kinh tế cơ bản đối lập nhau"
+  },
+  {
+    "id": 16,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Đỉnh cao của đấu tranh giai cấp tất yếu dẫn đến điều gì?",
+    "options": [
+      "A. Cải cách kinh tế",
+      "B. Cách mạng xã hội",
+      "C. Thỏa hiệp giai cấp",
+      "D. Chiến tranh thế giới"
+    ],
+    "answer": "B. Cách mạng xã hội"
+  },
+  {
+    "id": 17,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Theo V.I.Lênin, vấn đề cơ bản của mọi cuộc cách mạng là gì?",
+    "options": [
+      "A. Vấn đề kinh tế",
+      "B. Vấn đề chính quyền nhà nước",
+      "C. Vấn đề văn hóa",
+      "D. Vấn đề quân đội"
+    ],
+    "answer": "B. Vấn đề chính quyền nhà nước"
+  },
+  {
+    "id": 18,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Nguồn gốc ra đời của Nhà nước là gì?",
+    "options": [
+      "A. Do Thượng đế ban tặng",
+      "B. Do khế ước xã hội",
+      "C. Do mâu thuẫn giai cấp gay gắt không thể điều hòa được",
+      "D. Do nhu cầu quản lý công cộng thuần túy"
+    ],
+    "answer": "C. Do mâu thuẫn giai cấp gay gắt không thể điều hòa được"
+  },
+  {
+    "id": 19,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Bản chất của Nhà nước là gì?",
+    "options": [
+      "A. Cơ quan trọng tài đứng giữa các giai cấp",
+      "B. Công cụ thống trị của giai cấp này đối với giai cấp khác",
+      "C. Tổ chức quản lý mọi mặt đời sống",
+      "D. Đại diện cho ý chí của toàn dân"
+    ],
+    "answer": "B. Công cụ thống trị của giai cấp này đối với giai cấp khác"
+  },
+  {
+    "id": 20,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Đặc trưng cơ bản nào phân biệt Nhà nước với các tổ chức xã hội khác?",
+    "options": [
+      "A. Quản lý dân cư theo lãnh thổ và có bộ máy quyền lực chuyên nghiệp (cảnh sát, nhà tù...)",
+      "B. Có người đứng đầu",
+      "C. Có điều lệ hoạt động",
+      "D. Có trụ sở làm việc"
+    ],
+    "answer": "A. Quản lý dân cư theo lãnh thổ và có bộ máy quyền lực chuyên nghiệp (cảnh sát, nhà tù...)"
+  },
+  {
+    "id": 21,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Tồn tại xã hội quyết định ý thức xã hội như thế nào?",
+    "options": [
+      "A. Tồn tại xã hội như thế nào thì ý thức xã hội như thế ấy; Tồn tại xã hội biến đổi thì ý thức xã hội biến đổi theo",
+      "B. Ý thức xã hội quyết định ngược lại tồn tại xã hội",
+      "C. Ý thức xã hội luôn đi trước tồn tại xã hội",
+      "D. Cả hai biến đổi độc lập"
+    ],
+    "answer": "A. Tồn tại xã hội như thế nào thì ý thức xã hội như thế ấy; Tồn tại xã hội biến đổi thì ý thức xã hội biến đổi theo"
+  },
+  {
+    "id": 22,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Tính độc lập tương đối của ý thức xã hội thể hiện rõ nhất ở đặc điểm nào?",
+    "options": [
+      "A. Thường lạc hậu hơn tồn tại xã hội",
+      "B. Có thể vượt trước tồn tại xã hội",
+      "C. Có tính kế thừa",
+      "D. Tác động trở lại tồn tại xã hội"
+    ],
+    "answer": "D. Tác động trở lại tồn tại xã hội (Đây là điểm quan trọng nhất thể hiện vai trò của nó)"
+  },
+  {
+    "id": 23,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong các hình thái ý thức xã hội, hình thái nào tác động trực tiếp và mạnh mẽ nhất đến kinh tế?",
+    "options": [
+      "A. Ý thức chính trị",
+      "B. Ý thức tôn giáo",
+      "C. Ý thức thẩm mỹ",
+      "D. Ý thức triết học"
+    ],
+    "answer": "A. Ý thức chính trị"
+  },
+  {
+    "id": 24,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Con người theo quan điểm của triết học Mác - Lênin là gì?",
+    "options": [
+      "A. Thực thể sinh học thuần túy",
+      "B. Thực thể xã hội thuần túy",
+      "C. Thực thể thống nhất giữa mặt sinh học và mặt xã hội",
+      "D. Sản phẩm của thần linh"
+    ],
+    "answer": "C. Thực thể thống nhất giữa mặt sinh học và mặt xã hội"
+  },
+  {
+    "id": 25,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Bản chất con người được C.Mác định nghĩa trong luận cương về Phơbách là:",
+    "options": [
+      "A. Tổng hòa những quan hệ xã hội",
+      "B. Động vật biết chế tạo công cụ",
+      "C. Động vật chính trị",
+      "D. Một tiểu vũ trụ"
+    ],
+    "answer": "A. Tổng hòa những quan hệ xã hội"
+  },
+  {
+    "id": 26,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Lực lượng nào là người sáng tạo chân chính ra lịch sử?",
+    "options": [
+      "A. Các vĩ nhân, lãnh tụ",
+      "B. Quần chúng nhân dân",
+      "C. Thần linh",
+      "D. Giai cấp thống trị"
+    ],
+    "answer": "B. Quần chúng nhân dân"
+  },
+  {
+    "id": 27,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Vai trò của Lãnh tụ trong lịch sử là gì?",
+    "options": [
+      "A. Quyết định sự thay đổi lịch sử thay cho quần chúng",
+      "B. Định hướng, tổ chức và thúc đẩy phong trào quần chúng",
+      "C. Không quan trọng",
+      "D. Cản trở lịch sử"
+    ],
+    "answer": "B. Định hướng, tổ chức và thúc đẩy phong trào quần chúng"
+  },
+  {
+    "id": 28,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Đặc điểm lớn nhất của thời kỳ quá độ lên CNXH ở Việt Nam là gì?",
+    "options": [
+      "A. Đi lên từ một nước công nghiệp phát triển",
+      "B. Đi lên từ một nước nông nghiệp lạc hậu, bỏ qua chế độ tư bản chủ nghĩa",
+      "C. Đi lên từ chế độ phong kiến",
+      "D. Có sự giúp đỡ của các nước lớn"
+    ],
+    "answer": "B. Đi lên từ một nước nông nghiệp lạc hậu, bỏ qua chế độ tư bản chủ nghĩa"
+  },
+  {
+    "id": 29,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Việc 'bỏ qua' chế độ tư bản chủ nghĩa ở Việt Nam được hiểu là:",
+    "options": [
+      "A. Bỏ qua tất cả thành tựu của CNTB",
+      "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng TBCN",
+      "C. Bỏ qua kinh tế thị trường",
+      "D. Đốt cháy giai đoạn"
+    ],
+    "answer": "B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng TBCN"
+  },
+  {
+    "id": 30,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Động lực chủ yếu của sự phát triển đất nước Việt Nam hiện nay là gì?",
+    "options": [
+      "A. Đấu tranh giai cấp",
+      "B. Đại đoàn kết toàn dân tộc",
+      "C. Viện trợ quốc tế",
+      "D. Xuất khẩu tài nguyên"
+    ],
+    "answer": "B. Đại đoàn kết toàn dân tộc"
+  },
+  {
+    "id": 31,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Yếu tố cơ bản nhất của Tồn tại xã hội là gì?",
+    "options": [
+      "A. Điều kiện tự nhiên",
+      "B. Dân số",
+      "C. Phương thức sản xuất",
+      "D. Môi trường"
+    ],
+    "answer": "C. Phương thức sản xuất"
+  },
+  {
+    "id": 32,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong xã hội có giai cấp, ý thức xã hội mang tính chất gì?",
+    "options": [
+      "A. Tính giai cấp",
+      "B. Tính nhân loại thuần túy",
+      "C. Tính siêu hình",
+      "D. Tính cá nhân"
+    ],
+    "answer": "A. Tính giai cấp"
+  },
+  {
+    "id": 33,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Sự tha hóa con người diễn ra gay gắt nhất trong hình thái kinh tế - xã hội nào?",
+    "options": [
+      "A. Phong kiến",
+      "B. Tư bản chủ nghĩa",
+      "C. Chiếm hữu nô lệ",
+      "D. Xã hội chủ nghĩa"
+    ],
+    "answer": "B. Tư bản chủ nghĩa"
+  },
+  {
+    "id": 34,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Để giải phóng con người, cần phải xóa bỏ điều gì?",
+    "options": [
+      "A. Xóa bỏ chế độ tư hữu về tư liệu sản xuất",
+      "B. Xóa bỏ tôn giáo",
+      "C. Xóa bỏ nhà nước ngay lập tức",
+      "D. Xóa bỏ gia đình"
+    ],
+    "answer": "A. Xóa bỏ chế độ tư hữu về tư liệu sản xuất"
+  },
+  {
+    "id": 35,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Quy luật nào vạch ra nguồn gốc, động lực của sự vận động, phát triển xã hội?",
+    "options": [
+      "A. Quy luật mâu thuẫn trong phương thức sản xuất (LLSX và QHSX)",
+      "B. Quy luật dân số",
+      "C. Quy luật đạo đức",
+      "D. Quy luật di truyền"
+    ],
+    "answer": "A. Quy luật mâu thuẫn trong phương thức sản xuất (LLSX và QHSX)"
+  },
+  {
+    "id": 36,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Chức năng xã hội của Nhà nước là gì?",
+    "options": [
+      "A. Trấn áp giai cấp đối lập",
+      "B. Quản lý, điều hành các công việc chung của xã hội (giáo dục, y tế, môi trường...)",
+      "C. Bảo vệ lãnh thổ",
+      "D. Thu thuế"
+    ],
+    "answer": "B. Quản lý, điều hành các công việc chung của xã hội (giáo dục, y tế, môi trường...)"
+  },
+  {
+    "id": 37,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Nhà nước vô sản (Nhà nước XHCN) khác với các nhà nước trước đó ở điểm nào?",
+    "options": [
+      "A. Là nhà nước của đa số thống trị thiểu số",
+      "B. Là công cụ bóc lột",
+      "C. Bảo vệ quyền lợi cho giai cấp tư sản",
+      "D. Không có quân đội"
+    ],
+    "answer": "A. Là nhà nước của đa số thống trị thiểu số"
+  },
+  {
+    "id": 38,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Tâm lý xã hội và Hệ tư tưởng khác nhau cơ bản ở điểm nào?",
+    "options": [
+      "A. Tâm lý xã hội là cảm tính, tự phát; Hệ tư tưởng là lý tính, tự giác (hệ thống hóa)",
+      "B. Tâm lý xã hội sai, Hệ tư tưởng đúng",
+      "C. Tâm lý xã hội của cá nhân, Hệ tư tưởng của xã hội",
+      "D. Không khác nhau"
+    ],
+    "answer": "A. Tâm lý xã hội là cảm tính, tự phát; Hệ tư tưởng là lý tính, tự giác (hệ thống hóa)"
+  },
+  {
+    "id": 39,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Tiêu chuẩn khách quan để phân biệt các chế độ xã hội (Hình thái KT-XH) là?",
+    "options": [
+      "A. Trình độ dân trí",
+      "B. Quan hệ sản xuất đặc trưng",
+      "C. Mức sống người dân",
+      "D. Hệ thống pháp luật"
+    ],
+    "answer": "B. Quan hệ sản xuất đặc trưng"
+  },
+  {
+    "id": 40,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Trong thời đại ngày nay, khoa học công nghệ đóng vai trò gì?",
+    "options": [
+      "A. Lực lượng sản xuất trực tiếp",
+      "B. Yếu tố phụ trợ",
+      "C. Chỉ thuộc về kiến trúc thượng tầng",
+      "D. Không ảnh hưởng đến sản xuất"
+    ],
+    "answer": "A. Lực lượng sản xuất trực tiếp"
+  },
+  {
+    "id": 41,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Việt Nam xây dựng nền kinh tế thị trường định hướng XHCN là vận dụng quy luật nào?",
+    "options": [
+      "A. QHSX phù hợp với trình độ phát triển của LLSX (LLSX đa dạng thì QHSX cũng đa dạng)",
+      "B. Quy luật phủ định sạch trơn",
+      "C. Quy luật đấu tranh giai cấp",
+      "D. Quy luật tự nhiên"
+    ],
+    "answer": "A. QHSX phù hợp với trình độ phát triển của LLSX (LLSX đa dạng thì QHSX cũng đa dạng)"
+  },
+  {
+    "id": 42,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Dân tộc (Nation) hình thành rõ nét nhất trong chế độ nào?",
+    "options": [
+      "A. Chiếm hữu nô lệ",
+      "B. Phong kiến",
+      "C. Tư bản chủ nghĩa",
+      "D. Công xã nguyên thủy"
+    ],
+    "answer": "C. Tư bản chủ nghĩa"
+  },
+  {
+    "id": 43,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Mối quan hệ giữa Giai cấp và Dân tộc?",
+    "options": [
+      "A. Giai cấp quyết định dân tộc",
+      "B. Dân tộc quyết định giai cấp",
+      "C. Vấn đề giai cấp quy định xu hướng phát triển và tính chất của dân tộc",
+      "D. Không liên quan"
+    ],
+    "answer": "C. Vấn đề giai cấp quy định xu hướng phát triển và tính chất của dân tộc"
+  },
+  {
+    "id": 44,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Quan điểm 'Lấy dân làm gốc' thể hiện nguyên lý nào của CNDV lịch sử?",
+    "options": [
+      "A. Quần chúng nhân dân là người sáng tạo ra lịch sử",
+      "B. Cá nhân quyết định lịch sử",
+      "C. Ý thức xã hội quyết định tồn tại xã hội",
+      "D. Nhà nước là trên hết"
+    ],
+    "answer": "A. Quần chúng nhân dân là người sáng tạo ra lịch sử"
+  },
+  {
+    "id": 45,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Sự khác biệt giữa 'Con người' và 'Động vật' về mặt hoạt động sống?",
+    "options": [
+      "A. Con người hoạt động theo bản năng",
+      "B. Con người hoạt động có ý thức, có mục đích (lao động)",
+      "C. Động vật cũng biết lao động",
+      "D. Không có sự khác biệt"
+    ],
+    "answer": "B. Con người hoạt động có ý thức, có mục đích (lao động)"
+  },
+  {
+    "id": 46,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Cá nhân đóng vai trò gì trong lịch sử?",
+    "options": [
+      "A. Không có vai trò gì",
+      "B. Là một bộ phận của quần chúng, góp phần tạo nên lịch sử",
+      "C. Quyết định tất cả",
+      "D. Cản trở lịch sử"
+    ],
+    "answer": "B. Là một bộ phận của quần chúng, góp phần tạo nên lịch sử"
+  },
+  {
+    "id": 47,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Muốn phát triển kinh tế bền vững, cần giải quyết tốt mối quan hệ giữa?",
+    "options": [
+      "A. Kinh tế và Môi trường",
+      "B. Kinh tế và Văn hóa",
+      "C. Kinh tế và Chính trị",
+      "D. Tất cả các yếu tố trên"
+    ],
+    "answer": "D. Tất cả các yếu tố trên"
+  },
+  {
+    "id": 48,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Nhà nước pháp quyền XHCN Việt Nam mang bản chất của giai cấp nào?",
+    "options": [
+      "A. Giai cấp nông dân",
+      "B. Giai cấp công nhân",
+      "C. Tầng lớp trí thức",
+      "D. Giai cấp tư sản"
+    ],
+    "answer": "B. Giai cấp công nhân (tính Đảng)"
+  },
+  {
+    "id": 49,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Khái niệm 'Tự do' trong triết học Mác - Lênin là gì?",
+    "options": [
+      "A. Thoát khỏi mọi sự ràng buộc",
+      "B. Hành động tùy tiện",
+      "C. Là nhận thức được cái tất yếu và hành động theo cái tất yếu",
+      "D. Là sự ban ơn của thần linh"
+    ],
+    "answer": "C. Là nhận thức được cái tất yếu và hành động theo cái tất yếu"
+  },
+  {
+    "id": 50,
+    "chapter": "Chương 3 - Trọng tâm",
+    "question": "Để khắc phục bệnh 'quan liêu, tham nhũng', biện pháp gốc rễ từ góc độ CNDV lịch sử là?",
+    "options": [
+      "A. Giáo dục đạo đức",
+      "B. Hoàn thiện cơ chế quản lý, kiểm soát quyền lực và phát huy dân chủ (tác động vào quan hệ sản xuất và kiến trúc thượng tầng)",
+      "C. Tăng lương",
+      "D. Xử bắn"
+    ],
+    "answer": "B. Hoàn thiện cơ chế quản lý, kiểm soát quyền lực và phát huy dân chủ (tác động vào quan hệ sản xuất và kiến trúc thượng tầng)"
+  }
+
+]
