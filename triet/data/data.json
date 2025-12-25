@@ -2015,6 +2015,1206 @@
     "answer": "A. Sự tồn tại của các cá nhân con người sống"
   },
   {
+    "id": "B1",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Cặp phạm trù nào là cơ sở phương pháp luận để nắm bắt mạch lạc của sự vật, tránh nhìn nhận sự vật một cách hời hợt bên ngoài?",
+    "options": [
+      "A. Nguyên nhân và Kết quả",
+      "B. Bản chất và Hiện tượng",
+      "C. Nội dung và Hình thức",
+      "D. Khả năng và Hiện thực"
+    ],
+    "answer": "B. Bản chất và Hiện tượng"
+  },
+  {
+    "id": "B2",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Cái riêng là phạm trù dùng để chỉ:",
+    "options": [
+      "A. Một nét đặc thù của sự vật",
+      "B. Một sự vật, hiện tượng, quá trình nhất định",
+      "C. Những thuộc tính lặp lại ở nhiều sự vật",
+      "D. Sự tách biệt hoàn toàn"
+    ],
+    "answer": "B. Một sự vật, hiện tượng, quá trình nhất định"
+  },
+  {
+    "id": "B3",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Cái chung là phạm trù dùng để chỉ:",
+    "options": [
+      "A. Những thuộc tính, mặt lặp lại ở nhiều sự vật, hiện tượng",
+      "B. Tổng hợp tất cả các sự vật",
+      "C. Những cái không bao giờ thay đổi",
+      "D. Ý niệm tuyệt đối"
+    ],
+    "answer": "A. Những thuộc tính, mặt lặp lại ở nhiều sự vật, hiện tượng"
+  },
+  {
+    "id": "B4",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Cái đơn nhất và Cái chung có thể chuyển hóa cho nhau trong điều kiện nào?",
+    "options": [
+      "A. Không bao giờ chuyển hóa",
+      "B. Trong quá trình phát triển của sự vật (cái mới ra đời là đơn nhất -> trở thành cái chung; cái cũ lỗi thời từ cái chung -> trở thành đơn nhất)",
+      "C. Chỉ khi có sự tác động của thần linh",
+      "D. Chỉ trong tư duy"
+    ],
+    "answer": "B. Trong quá trình phát triển của sự vật (cái mới ra đời là đơn nhất -> trở thành cái chung; cái cũ lỗi thời từ cái chung -> trở thành đơn nhất)"
+  },
+  {
+    "id": "B5",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Muốn tìm ra 'Cái chung' (quy luật), con người phải xuất phát từ đâu?",
+    "options": [
+      "A. Từ ý muốn chủ quan",
+      "B. Từ khảo sát những 'Cái riêng' cụ thể",
+      "C. Từ sách vở kinh điển",
+      "D. Từ trí tưởng tượng"
+    ],
+    "answer": "B. Từ khảo sát những 'Cái riêng' cụ thể"
+  },
+  {
+    "id": "B6",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Nguyên nhân là gì?",
+    "options": [
+      "A. Sự kế tiếp nhau về thời gian",
+      "B. Sự tác động lẫn nhau giữa các mặt hoặc giữa các sự vật tạo ra sự biến đổi",
+      "C. Cái cớ để sự việc xảy ra",
+      "D. Điểm khởi đầu của sự vật"
+    ],
+    "answer": "B. Sự tác động lẫn nhau giữa các mặt hoặc giữa các sự vật tạo ra sự biến đổi"
+  },
+  {
+    "id": "B7",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Mối quan hệ giữa Nguyên nhân và Kết quả có tính chất nào sau đây?",
+    "options": [
+      "A. Nguyên nhân luôn xuất hiện sau kết quả",
+      "B. Nguyên nhân có trước kết quả và sinh ra kết quả",
+      "C. Chúng xuất hiện đồng thời",
+      "D. Kết quả có trước nguyên nhân"
+    ],
+    "answer": "B. Nguyên nhân có trước kết quả và sinh ra kết quả"
+  },
+  {
+    "id": "B8",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Phân biệt 'Nguyên nhân' và 'Nguyên cớ'?",
+    "options": [
+      "A. Nguyên nhân sinh ra kết quả; Nguyên cớ chỉ là điều kiện bên ngoài, không sinh ra kết quả nhưng tạo vẻ bề ngoài che giấu bản chất",
+      "B. Hai khái niệm này là một",
+      "C. Nguyên cớ quan trọng hơn nguyên nhân",
+      "D. Nguyên cớ là nguyên nhân bên trong"
+    ],
+    "answer": "A. Nguyên nhân sinh ra kết quả; Nguyên cớ chỉ là điều kiện bên ngoài, không sinh ra kết quả nhưng tạo vẻ bề ngoài che giấu bản chất"
+  },
+  {
+    "id": "B9",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Tất nhiên là phạm trù chỉ cái:",
+    "options": [
+      "A. Do nguyên nhân bên ngoài quyết định",
+      "B. Do nguyên nhân bên trong quyết định và chắc chắn xảy ra",
+      "C. Có thể xảy ra hoặc không",
+      "D. Do sự may rủi"
+    ],
+    "answer": "B. Do nguyên nhân bên trong quyết định và chắc chắn xảy ra"
+  },
+  {
+    "id": "B10",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Ngẫu nhiên là phạm trù chỉ cái:",
+    "options": [
+      "A. Nhất định phải xảy ra như thế",
+      "B. Do nguyên nhân bên ngoài, có thể xảy ra hoặc không, có thể xảy ra thế này hoặc thế khác",
+      "C. Không có nguyên nhân",
+      "D. Bản chất của sự vật"
+    ],
+    "answer": "B. Do nguyên nhân bên ngoài, có thể xảy ra hoặc không, có thể xảy ra thế này hoặc thế khác"
+  },
+  {
+    "id": "B11",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Trong hoạt động thực tiễn, ta cần dựa vào đâu?",
+    "options": [
+      "A. Dựa vào cái ngẫu nhiên để cầu may",
+      "B. Dựa vào cái tất nhiên (quy luật), nhưng phải tính đến cái ngẫu nhiên",
+      "C. Chỉ quan tâm cái tất nhiên, bỏ qua ngẫu nhiên",
+      "D. Bỏ qua cả hai"
+    ],
+    "answer": "B. Dựa vào cái tất nhiên (quy luật), nhưng phải tính đến cái ngẫu nhiên"
+  },
+  {
+    "id": "B12",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Nội dung của sự vật là gì?",
+    "options": [
+      "A. Vẻ bề ngoài của sự vật",
+      "B. Tổng hợp tất cả các mặt, yếu tố, quá trình tạo nên sự vật",
+      "C. Cấu trúc của sự vật",
+      "D. Cách sắp xếp các yếu tố"
+    ],
+    "answer": "B. Tổng hợp tất cả các mặt, yếu tố, quá trình tạo nên sự vật"
+  },
+  {
+    "id": "B13",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Hình thức của sự vật là gì?",
+    "options": [
+      "A. Phương thức tồn tại và phát triển của sự vật, là hệ thống các mối liên hệ tương đối bền vững giữa các yếu tố",
+      "B. Cái vỏ bên ngoài không quan trọng",
+      "C. Màu sắc, kích thước",
+      "D. Tổng số các bộ phận"
+    ],
+    "answer": "A. Phương thức tồn tại và phát triển của sự vật, là hệ thống các mối liên hệ tương đối bền vững giữa các yếu tố"
+  },
+  {
+    "id": "B14",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Quan hệ giữa Nội dung và Hình thức:",
+    "options": [
+      "A. Hình thức quyết định nội dung",
+      "B. Nội dung quyết định hình thức; Hình thức có tính độc lập tương đối và tác động trở lại nội dung",
+      "C. Hình thức luôn kìm hãm nội dung",
+      "D. Nội dung luôn thay đổi nhanh hơn hình thức rất nhiều nên chúng không bao giờ phù hợp"
+    ],
+    "answer": "B. Nội dung quyết định hình thức; Hình thức có tính độc lập tương đối và tác động trở lại nội dung"
+  },
+  {
+    "id": "B15",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Hiện tượng là gì?",
+    "options": [
+      "A. Sự thể hiện ra bên ngoài của bản chất",
+      "B. Sự lừa dối của giác quan",
+      "C. Cái không có thực",
+      "D. Cái quan trọng nhất của sự vật"
+    ],
+    "answer": "A. Sự thể hiện ra bên ngoài của bản chất"
+  },
+  {
+    "id": "B16",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Bản chất là gì?",
+    "options": [
+      "A. Tổng hợp các thuộc tính bên ngoài",
+      "B. Tổng hợp tất cả những mặt, những mối liên hệ tất nhiên, tương đối ổn định ở bên trong",
+      "C. Cái ngẫu nhiên",
+      "D. Cái đơn nhất"
+    ],
+    "answer": "B. Tổng hợp tất cả những mặt, những mối liên hệ tất nhiên, tương đối ổn định ở bên trong"
+  },
+  {
+    "id": "B17",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Khả năng là gì?",
+    "options": [
+      "A. Cái đã xảy ra",
+      "B. Cái hiện chưa có, nhưng sẽ có, sẽ tới khi có các điều kiện tương ứng",
+      "C. Cái không bao giờ xảy ra",
+      "D. Cái ảo tưởng"
+    ],
+    "answer": "B. Cái hiện chưa có, nhưng sẽ có, sẽ tới khi có các điều kiện tương ứng"
+  },
+  {
+    "id": "B18",
+    "chapter": "Chương 2 - Bổ sung (Phạm trù)",
+    "question": "Hiện thực là gì?",
+    "options": [
+      "A. Cái đang tồn tại trên thực tế",
+      "B. Cái đã qua",
+      "C. Cái sắp tới",
+      "D. Ý muốn chủ quan"
+    ],
+    "answer": "A. Cái đang tồn tại trên thực tế"
+  },
+  {
+    "id": "B19",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Mâu thuẫn biện chứng được tạo thành từ:",
+    "options": [
+      "A. Hai mặt khác nhau",
+      "B. Hai mặt đối lập vừa thống nhất vừa đấu tranh với nhau",
+      "C. Hai sự vật xung đột nhau",
+      "D. Sự phủ định sạch trơn"
+    ],
+    "answer": "B. Hai mặt đối lập vừa thống nhất vừa đấu tranh với nhau"
+  },
+  {
+    "id": "B20",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Trong mâu thuẫn biện chứng, sự 'Đấu tranh' của các mặt đối lập có tính chất:",
+    "options": [
+      "A. Tương đối",
+      "B. Tuyệt đối (vĩnh viễn)",
+      "C. Tạm thời",
+      "D. Chủ quan"
+    ],
+    "answer": "B. Tuyệt đối (vĩnh viễn)"
+  },
+  {
+    "id": "B21",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Trong mâu thuẫn biện chứng, sự 'Thống nhất' của các mặt đối lập có tính chất:",
+    "options": [
+      "A. Tuyệt đối",
+      "B. Tương đối (tạm thời)",
+      "C. Vĩnh viễn",
+      "D. Không có tính chất gì"
+    ],
+    "answer": "B. Tương đối (tạm thời)"
+  },
+  {
+    "id": "B22",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Mâu thuẫn nổi lên hàng đầu ở một giai đoạn phát triển nhất định và chi phối các mâu thuẫn khác gọi là:",
+    "options": [
+      "A. Mâu thuẫn cơ bản",
+      "B. Mâu thuẫn chủ yếu",
+      "C. Mâu thuẫn thứ yếu",
+      "D. Mâu thuẫn bên ngoài"
+    ],
+    "answer": "B. Mâu thuẫn chủ yếu"
+  },
+  {
+    "id": "B23",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Mâu thuẫn quy định bản chất của sự vật và tồn tại trong suốt quá trình tồn tại của sự vật gọi là:",
+    "options": [
+      "A. Mâu thuẫn chủ yếu",
+      "B. Mâu thuẫn cơ bản",
+      "C. Mâu thuẫn đối kháng",
+      "D. Mâu thuẫn không đối kháng"
+    ],
+    "answer": "B. Mâu thuẫn cơ bản"
+  },
+  {
+    "id": "B24",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Sự khác biệt giữa Mâu thuẫn đối kháng và Mâu thuẫn không đối kháng?",
+    "options": [
+      "A. Đối kháng diễn ra trong tự nhiên, không đối kháng trong xã hội",
+      "B. Đối kháng là giữa các giai cấp có lợi ích cơ bản trái ngược nhau; Không đối kháng là giữa các lực lượng có lợi ích cơ bản thống nhất",
+      "C. Đối kháng là xấu, không đối kháng là tốt",
+      "D. Đối kháng dẫn đến chiến tranh, không đối kháng dẫn đến hòa bình"
+    ],
+    "answer": "B. Đối kháng là giữa các giai cấp có lợi ích cơ bản trái ngược nhau; Không đối kháng là giữa các lực lượng có lợi ích cơ bản thống nhất"
+  },
+  {
+    "id": "B25",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Độ là giới hạn mà tại đó:",
+    "options": [
+      "A. Sự thay đổi về lượng chưa làm thay đổi về chất",
+      "B. Sự thay đổi về lượng đã làm thay đổi về chất",
+      "C. Sự vật bị tiêu diệt",
+      "D. Sự vật đứng im"
+    ],
+    "answer": "A. Sự thay đổi về lượng chưa làm thay đổi về chất"
+  },
+  {
+    "id": "B26",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Điểm nút là thời điểm mà tại đó:",
+    "options": [
+      "A. Lượng tích lũy đã đủ để phá vỡ độ cũ, làm cho chất của sự vật thay đổi",
+      "B. Sự vật bắt đầu tích lũy về lượng",
+      "C. Sự vật kết thúc vận động",
+      "D. Không có gì xảy ra"
+    ],
+    "answer": "A. Lượng tích lũy đã đủ để phá vỡ độ cũ, làm cho chất của sự vật thay đổi"
+  },
+  {
+    "id": "B27",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Quy luật nào chỉ ra CÁCH THỨC của sự vận động và phát triển?",
+    "options": [
+      "A. Quy luật Mâu thuẫn",
+      "B. Quy luật Lượng - Chất",
+      "C. Quy luật Phủ định của phủ định",
+      "D. Quy luật Giá trị"
+    ],
+    "answer": "B. Quy luật Lượng - Chất"
+  },
+  {
+    "id": "B28",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Quy luật nào chỉ ra NGUỒN GỐC, ĐỘNG LỰC của sự vận động và phát triển?",
+    "options": [
+      "A. Quy luật Mâu thuẫn",
+      "B. Quy luật Lượng - Chất",
+      "C. Quy luật Phủ định của phủ định",
+      "D. Quy luật cung cầu"
+    ],
+    "answer": "A. Quy luật Mâu thuẫn"
+  },
+  {
+    "id": "B29",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Quy luật nào chỉ ra KHUYNH HƯỚNG của sự vận động và phát triển?",
+    "options": [
+      "A. Quy luật Mâu thuẫn",
+      "B. Quy luật Lượng - Chất",
+      "C. Quy luật Phủ định của phủ định",
+      "D. Quy luật bảo toàn"
+    ],
+    "answer": "C. Quy luật Phủ định của phủ định"
+  },
+  {
+    "id": "B30",
+    "chapter": "Chương 2 - Bổ sung (Quy luật)",
+    "question": "Đặc điểm của Phủ định biện chứng:",
+    "options": [
+      "A. Khách quan và Kế thừa",
+      "B. Chủ quan và Hủy diệt",
+      "C. Ngẫu nhiên và Gián đoạn",
+      "D. Toàn diện và Tuyệt đối"
+    ],
+    "answer": "A. Khách quan và Kế thừa"
+  },
+  {
+    "id": "B31",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Giai đoạn nhận thức cảm tính bao gồm các hình thức:",
+    "options": [
+      "A. Khái niệm, Phán đoán, Suy luận",
+      "B. Cảm giác, Tri giác, Biểu tượng",
+      "C. Cảm giác, Khái niệm, Suy luận",
+      "D. Tri giác, Phán đoán, Biểu tượng"
+    ],
+    "answer": "B. Cảm giác, Tri giác, Biểu tượng"
+  },
+  {
+    "id": "B32",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Giai đoạn nhận thức lý tính bao gồm các hình thức:",
+    "options": [
+      "A. Cảm giác, Tri giác, Biểu tượng",
+      "B. Khái niệm, Phán đoán, Suy luận",
+      "C. Giả thuyết, Lý thuyết, Thực nghiệm",
+      "D. Cảm tính, Lý tính, Vô thức"
+    ],
+    "answer": "B. Khái niệm, Phán đoán, Suy luận"
+  },
+  {
+    "id": "B33",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Đặc điểm của nhận thức cảm tính (Trực quan sinh động) là:",
+    "options": [
+      "A. Phản ánh trực tiếp, cụ thể, sinh động bề ngoài sự vật",
+      "B. Phản ánh gián tiếp, trừu tượng bản chất sự vật",
+      "C. Phản ánh sâu sắc quy luật",
+      "D. Tách rời thực tiễn"
+    ],
+    "answer": "A. Phản ánh trực tiếp, cụ thể, sinh động bề ngoài sự vật"
+  },
+  {
+    "id": "B34",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Đặc điểm của nhận thức lý tính (Tư duy trừu tượng) là:",
+    "options": [
+      "A. Phản ánh trực tiếp bằng giác quan",
+      "B. Phản ánh gián tiếp, trừu tượng, khái quát được bản chất và quy luật",
+      "C. Chỉ là sự tưởng tượng",
+      "D. Kém tin cậy hơn cảm giác"
+    ],
+    "answer": "B. Phản ánh gián tiếp, trừu tượng, khái quát được bản chất và quy luật"
+  },
+  {
+    "id": "B35",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Có mấy hình thức cơ bản của hoạt động thực tiễn?",
+    "options": [
+      "A. 2 hình thức",
+      "B. 3 hình thức",
+      "C. 4 hình thức",
+      "D. 5 hình thức"
+    ],
+    "answer": "B. 3 hình thức"
+  },
+  {
+    "id": "B36",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Ba hình thức cơ bản của thực tiễn là:",
+    "options": [
+      "A. Sản xuất vật chất; Hoạt động chính trị - xã hội; Thực nghiệm khoa học",
+      "B. Kinh tế, Chính trị, Văn hóa",
+      "C. Lao động, Học tập, Vui chơi",
+      "D. Sản xuất, Tiêu dùng, Phân phối"
+    ],
+    "answer": "A. Sản xuất vật chất; Hoạt động chính trị - xã hội; Thực nghiệm khoa học"
+  },
+  {
+    "id": "B37",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Hình thức thực tiễn nào đóng vai trò quan trọng nhất, quyết định các hình thức khác?",
+    "options": [
+      "A. Thực nghiệm khoa học",
+      "B. Hoạt động chính trị - xã hội",
+      "C. Sản xuất vật chất",
+      "D. Hoạt động nghệ thuật"
+    ],
+    "answer": "C. Sản xuất vật chất"
+  },
+  {
+    "id": "B38",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Chân lý tương đối là gì?",
+    "options": [
+      "A. Tri thức phản ánh sai lệch hiện thực",
+      "B. Tri thức phản ánh đúng nhưng chưa hoàn toàn đầy đủ về hiện thực",
+      "C. Tri thức chỉ đúng trong quá khứ",
+      "D. Ý kiến chủ quan"
+    ],
+    "answer": "B. Tri thức phản ánh đúng nhưng chưa hoàn toàn đầy đủ về hiện thực"
+  },
+  {
+    "id": "B39",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Chân lý tuyệt đối là gì?",
+    "options": [
+      "A. Tri thức phản ánh đúng và hoàn toàn đầy đủ, trọn vẹn về hiện thực",
+      "B. Lời dạy của chúa",
+      "C. Sự tổng hợp của vô số chân lý tương đối",
+      "D. Cả A và C"
+    ],
+    "answer": "D. Cả A và C"
+  },
+  {
+    "id": "B40",
+    "chapter": "Chương 2 - Bổ sung (Nhận thức)",
+    "question": "Tiêu chuẩn duy nhất để kiểm tra chân lý là:",
+    "options": [
+      "A. Thực tiễn",
+      "B. Logic",
+      "C. Số đông",
+      "D. Uy tín chuyên gia"
+    ],
+    "answer": "A. Thực tiễn"
+  },
+  {
+    "id": "B41",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Khi xem xét sự vật, nếu chỉ chú ý đến 'Lượng' mà bỏ qua 'Chất' (chạy theo thành tích, con số) là mắc bệnh gì?",
+    "options": [
+      "A. Bệnh thành tích (tả khuynh)",
+      "B. Bệnh bảo thủ (hữu khuynh)",
+      "C. Bệnh giáo điều",
+      "D. Bệnh kinh nghiệm"
+    ],
+    "answer": "A. Bệnh thành tích (tả khuynh)"
+  },
+  {
+    "id": "B42",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Trong học tập, nếu sinh viên chỉ học vẹt lý thuyết mà không thực hành là vi phạm nguyên tắc nào?",
+    "options": [
+      "A. Thống nhất giữa lý luận và thực tiễn",
+      "B. Nguyên tắc khách quan",
+      "C. Nguyên tắc phát triển",
+      "D. Nguyên tắc toàn diện"
+    ],
+    "answer": "A. Thống nhất giữa lý luận và thực tiễn"
+  },
+  {
+    "id": "B43",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Quan điểm 'Nóng vội, đốt cháy giai đoạn' là vi phạm quy luật nào?",
+    "options": [
+      "A. Quy luật Lượng - Chất (chưa đủ lượng đã muốn đổi chất)",
+      "B. Quy luật Mâu thuẫn",
+      "C. Quy luật Phủ định",
+      "D. Cặp phạm trù Nguyên nhân - Kết quả"
+    ],
+    "answer": "A. Quy luật Lượng - Chất (chưa đủ lượng đã muốn đổi chất)"
+  },
+  {
+    "id": "B44",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Để giải quyết vấn đề tai nạn giao thông (kết quả xấu), cần tìm ra và loại bỏ những yếu tố nào?",
+    "options": [
+      "A. Nguyên nhân (ý thức kém, hạ tầng xấu...)",
+      "B. Hiện tượng",
+      "C. Hình thức",
+      "D. Cái ngẫu nhiên"
+    ],
+    "answer": "A. Nguyên nhân (ý thức kém, hạ tầng xấu...)"
+  },
+  {
+    "id": "B45",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Câu tục ngữ 'Năng nhặt chặt bị' thể hiện nội dung quy luật nào?",
+    "options": [
+      "A. Quy luật Lượng - Chất",
+      "B. Quy luật Mâu thuẫn",
+      "C. Quy luật Phủ định",
+      "D. Quy luật xã hội"
+    ],
+    "answer": "A. Quy luật Lượng - Chất"
+  },
+  {
+    "id": "B46",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Câu 'Không có lửa làm sao có khói' thể hiện mối quan hệ của cặp phạm trù nào?",
+    "options": [
+      "A. Nguyên nhân - Kết quả",
+      "B. Nội dung - Hình thức",
+      "C. Bản chất - Hiện tượng",
+      "D. Khả năng - Hiện thực"
+    ],
+    "answer": "A. Nguyên nhân - Kết quả"
+  },
+  {
+    "id": "B47",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Trong hoạt động kinh doanh, việc dự báo rủi ro là vận dụng cặp phạm trù nào?",
+    "options": [
+      "A. Tất nhiên - Ngẫu nhiên (và Khả năng - Hiện thực)",
+      "B. Riêng - Chung",
+      "C. Nguyên nhân - Kết quả",
+      "D. Nội dung - Hình thức"
+    ],
+    "answer": "A. Tất nhiên - Ngẫu nhiên (và Khả năng - Hiện thực)"
+  },
+  {
+    "id": "B48",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Việc đổi mới phương pháp giảng dạy (online, slide...) để truyền tải kiến thức tốt hơn là vận dụng mối quan hệ nào?",
+    "options": [
+      "A. Nội dung và Hình thức (đổi mới hình thức để phù hợp/thúc đẩy nội dung)",
+      "B. Bản chất và Hiện tượng",
+      "C. Nguyên nhân và Kết quả",
+      "D. Cái riêng và Cái chung"
+    ],
+    "answer": "A. Nội dung và Hình thức (đổi mới hình thức để phù hợp/thúc đẩy nội dung)"
+  },
+  {
+    "id": "B49",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Câu nói 'Tốt gỗ hơn tốt nước sơn' khuyên chúng ta chú trọng vào phạm trù nào?",
+    "options": [
+      "A. Nội dung (Chất lượng bên trong)",
+      "B. Hình thức",
+      "C. Hiện tượng",
+      "D. Cái ngẫu nhiên"
+    ],
+    "answer": "A. Nội dung (Chất lượng bên trong)"
+  },
+  {
+    "id": "B50",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Tại sao không nên đánh giá con người chỉ qua trang phục, ngoại hình?",
+    "options": [
+      "A. Vì Hiện tượng không phải lúc nào cũng phản ánh đúng Bản chất (Hiện tượng có thể xuyên tạc bản chất)",
+      "B. Vì Hình thức quyết định nội dung",
+      "C. Vì cái Chung quan trọng hơn cái Riêng",
+      "D. Vì tất cả là Ngẫu nhiên"
+    ],
+    "answer": "A. Vì Hiện tượng không phải lúc nào cũng phản ánh đúng Bản chất (Hiện tượng có thể xuyên tạc bản chất)"
+  },
+  {
+    "id": "B51",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Để biến ước mơ (Khả năng) thành sự thật (Hiện thực), con người cần:",
+    "options": [
+      "A. Ngồi chờ đợi",
+      "B. Hoạt động thực tiễn (lao động, học tập) để tạo ra các điều kiện cần thiết",
+      "C. Cầu nguyện",
+      "D. Dựa vào may mắn"
+    ],
+    "answer": "B. Hoạt động thực tiễn (lao động, học tập) để tạo ra các điều kiện cần thiết"
+  },
+  {
+    "id": "B52",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Câu 'Thất bại là mẹ thành công' phản ánh tính chất nào của sự phát triển?",
+    "options": [
+      "A. Tính quanh co, phức tạp (theo đường xoáy ốc) của Quy luật Phủ định của phủ định",
+      "B. Tính thẳng tắp",
+      "C. Tính thụt lùi",
+      "D. Tính ngẫu nhiên"
+    ],
+    "answer": "A. Tính quanh co, phức tạp (theo đường xoáy ốc) của Quy luật Phủ định của phủ định"
+  },
+  {
+    "id": "B53",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Trong cuộc tranh luận, nếu chỉ chăm chăm vào lỗi sai nhỏ nhặt mà bỏ qua ưu điểm lớn của đối phương là vi phạm quan điểm nào?",
+    "options": [
+      "A. Quan điểm toàn diện (rơi vào phiến diện)",
+      "B. Quan điểm phát triển",
+      "C. Quan điểm lịch sử",
+      "D. Quan điểm thực tiễn"
+    ],
+    "answer": "A. Quan điểm toàn diện (rơi vào phiến diện)"
+  },
+  {
+    "id": "B54",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Chủ nghĩa Mác - Lênin luôn yêu cầu phải bổ sung, phát triển lý luận dựa trên thực tiễn mới, điều này thể hiện bản chất gì?",
+    "options": [
+      "A. Bản chất cách mạng và khoa học (Chống giáo điều)",
+      "B. Sự thiếu kiên định",
+      "C. Sự thỏa hiệp",
+      "D. Sự lạc hậu"
+    ],
+    "answer": "A. Bản chất cách mạng và khoa học (Chống giáo điều)"
+  },
+  {
+    "id": "B55",
+    "chapter": "Chương 2 - Vận dụng",
+    "question": "Tại sao nói 'Ý thức con người không chỉ phản ánh thế giới mà còn góp phần sáng tạo ra thế giới'?",
+    "options": [
+      "A. Vì ý thức chỉ đạo hành động thực tiễn cải tạo thế giới",
+      "B. Vì ý thức có thể biến ra vật chất trực tiếp",
+      "C. Vì con người là thần thánh",
+      "D. Vì vật chất phụ thuộc ý thức"
+    ],
+    "answer": "A. Vì ý thức chỉ đạo hành động thực tiễn cải tạo thế giới"
+  },
+  {
+    "id": "B56",
+    "chapter": "Chương 2 - Vật chất & Ý thức (Nâng cao)",
+    "question": "Chủ nghĩa duy vật tầm thường (Vulgär) quan niệm về ý thức như thế nào?",
+    "options": [
+      "A. Coi ý thức là một dạng vật chất (gan tiết ra mật, óc tiết ra ý thức)",
+      "B. Coi ý thức là thực thể độc lập",
+      "C. Coi ý thức là hình ảnh chủ quan",
+      "D. Coi ý thức là quà tặng của chúa"
+    ],
+    "answer": "A. Coi ý thức là một dạng vật chất (gan tiết ra mật, óc tiết ra ý thức)"
+  },
+  {
+    "id": "B57",
+    "chapter": "Chương 2 - Vật chất & Ý thức (Nâng cao)",
+    "question": "Điểm khác biệt cơ bản giữa 'Ý thức' của con người và 'Trí tuệ nhân tạo' (AI)?",
+    "options": [
+      "A. AI không có tính xã hội, không có cảm xúc và sự sáng tạo chủ động (chỉ là thuật toán)",
+      "B. AI thông minh hơn",
+      "C. AI tính toán chậm hơn",
+      "D. Không có gì khác biệt"
+    ],
+    "answer": "A. AI không có tính xã hội, không có cảm xúc và sự sáng tạo chủ động (chỉ là thuật toán)"
+  },
+  {
+    "id": "B58",
+    "chapter": "Chương 2 - Vật chất & Ý thức (Nâng cao)",
+    "question": "Trong kết cấu của ý thức, 'Tiềm thức' có vai trò gì?",
+    "options": [
+      "A. Giúp con người thực hiện các hành động tự động hóa, giảm tải cho ý thức",
+      "B. Gây ra ảo giác",
+      "C. Không có vai trò gì",
+      "D. Làm chủ hoàn toàn con người"
+    ],
+    "answer": "A. Giúp con người thực hiện các hành động tự động hóa, giảm tải cho ý thức"
+  },
+  {
+    "id": "B59",
+    "chapter": "Chương 2 - Vật chất & Ý thức (Nâng cao)",
+    "question": "Ngôn ngữ là hệ thống tín hiệu vật chất mang nội dung ý thức, nên còn được gọi là:",
+    "options": [
+      "A. Cái vỏ vật chất của tư duy",
+      "B. Nội dung của tư duy",
+      "C. Hình thức của vật chất",
+      "D. Bản chất của xã hội"
+    ],
+    "answer": "A. Cái vỏ vật chất của tư duy"
+  },
+  {
+    "id": "B60",
+    "chapter": "Chương 2 - Vật chất & Ý thức (Nâng cao)",
+    "question": "Nếu tuyệt đối hóa vai trò của Vật chất, phủ nhận tính độc lập tương đối của Ý thức sẽ rơi vào:",
+    "options": [
+      "A. Chủ nghĩa duy vật máy móc (tầm thường), thụ động",
+      "B. Chủ nghĩa duy tâm chủ quan",
+      "C. Chủ nghĩa duy tâm khách quan",
+      "D. Nhị nguyên luận"
+    ],
+    "answer": "A. Chủ nghĩa duy vật máy móc (tầm thường), thụ động"
+  },
+  {
+    "id": "B61",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Theo quan điểm biện chứng, cái mới ra đời như thế nào?",
+    "options": [
+      "A. Ra đời từ cái cũ, trên nền tảng cái cũ nhưng cao hơn cái cũ",
+      "B. Ra đời từ hư vô",
+      "C. Ra đời do thượng đế tạo ra",
+      "D. Ra đời hoàn toàn tách biệt với cái cũ"
+    ],
+    "answer": "A. Ra đời từ cái cũ, trên nền tảng cái cũ nhưng cao hơn cái cũ"
+  },
+  {
+    "id": "B62",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu nói 'Gieo nhân nào gặt quả ấy' phản ánh cặp phạm trù nào?",
+    "options": [
+      "A. Nguyên nhân - Kết quả",
+      "B. Khả năng - Hiện thực",
+      "C. Bản chất - Hiện tượng",
+      "D. Nội dung - Hình thức"
+    ],
+    "answer": "A. Nguyên nhân - Kết quả"
+  },
+  {
+    "id": "B63",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quy luật nào được coi là 'Hạt nhân' của phép biện chứng?",
+    "options": [
+      "A. Quy luật Mâu thuẫn (Thống nhất và đấu tranh của các mặt đối lập)",
+      "B. Quy luật Lượng - Chất",
+      "C. Quy luật Phủ định của phủ định",
+      "D. Không có quy luật nào"
+    ],
+    "answer": "A. Quy luật Mâu thuẫn (Thống nhất và đấu tranh của các mặt đối lập)"
+  },
+  {
+    "id": "B64",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Điều kiện để Khả năng biến thành Hiện thực là gì?",
+    "options": [
+      "A. Cần có các điều kiện khách quan và nhân tố chủ quan (hoạt động của con người)",
+      "B. Chỉ cần thời gian",
+      "C. Chỉ cần ý muốn",
+      "D. Không cần điều kiện gì"
+    ],
+    "answer": "A. Cần có các điều kiện khách quan và nhân tố chủ quan (hoạt động của con người)"
+  },
+  {
+    "id": "B65",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Chân lý có tính cụ thể, nghĩa là:",
+    "options": [
+      "A. Chân lý gắn liền với điều kiện lịch sử - cụ thể xác định (không gian, thời gian, hoàn cảnh)",
+      "B. Chân lý đúng ở mọi nơi mọi lúc",
+      "C. Chân lý là trừu tượng",
+      "D. Chân lý không thay đổi"
+    ],
+    "answer": "A. Chân lý gắn liền với điều kiện lịch sử - cụ thể xác định (không gian, thời gian, hoàn cảnh)"
+  },
+  {
+    "id": "B66",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quan điểm 'Chiết trung' là sai lầm trong tư duy vì:",
+    "options": [
+      "A. Kết hợp vô nguyên tắc các mặt đối lập, không thấy được mặt bản chất, chủ yếu",
+      "B. Chỉ nhìn thấy một mặt",
+      "C. Quá coi trọng thực tiễn",
+      "D. Quá coi trọng lý thuyết"
+    ],
+    "answer": "A. Kết hợp vô nguyên tắc các mặt đối lập, không thấy được mặt bản chất, chủ yếu"
+  },
+  {
+    "id": "B67",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quan điểm 'Ngụy biện' là gì?",
+    "options": [
+      "A. Dùng lý lẽ lắt léo để đánh tráo khái niệm, làm sai lệch bản chất sự vật",
+      "B. Nói sự thật",
+      "C. Tư duy biện chứng",
+      "D. Tư duy logic"
+    ],
+    "answer": "A. Dùng lý lẽ lắt léo để đánh tráo khái niệm, làm sai lệch bản chất sự vật"
+  },
+  {
+    "id": "B68",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Phủ định của phủ định (Phủ định lần 2) dẫn đến kết quả gì?",
+    "options": [
+      "A. Sự vật dường như quay trở lại cái ban đầu nhưng ở trình độ cao hơn",
+      "B. Sự vật bị hủy diệt hoàn toàn",
+      "C. Sự vật trở thành cái đối lập",
+      "D. Sự vật không thay đổi"
+    ],
+    "answer": "A. Sự vật dường như quay trở lại cái ban đầu nhưng ở trình độ cao hơn"
+  },
+  {
+    "id": "B69",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Cái 'Tất yếu' (Tất nhiên) thường mở đường cho mình thông qua vô số cái gì?",
+    "options": [
+      "A. Cái Ngẫu nhiên",
+      "B. Cái Đơn nhất",
+      "C. Cái Chung",
+      "D. Cái Riêng"
+    ],
+    "answer": "A. Cái Ngẫu nhiên"
+  },
+  {
+    "id": "B70",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Muốn cải tạo sự vật, ta phải tác động vào đâu?",
+    "options": [
+      "A. Tác động vào phần 'Nội dung' và 'Mâu thuẫn bên trong' của sự vật",
+      "B. Chỉ tác động vào Hình thức",
+      "C. Tác động vào cái Ngẫu nhiên",
+      "D. Tác động vào Hiện tượng"
+    ],
+    "answer": "A. Tác động vào phần 'Nội dung' và 'Mâu thuẫn bên trong' của sự vật"
+  },
+  {
+    "id": "B71",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Tri thức kinh nghiệm và Tri thức lý luận, cái nào quan trọng hơn?",
+    "options": [
+      "A. Cả hai đều quan trọng và bổ sung cho nhau (Lý luận soi đường, Kinh nghiệm làm phong phú lý luận)",
+      "B. Kinh nghiệm quan trọng hơn",
+      "C. Lý luận quan trọng hơn",
+      "D. Không cái nào quan trọng"
+    ],
+    "answer": "A. Cả hai đều quan trọng và bổ sung cho nhau (Lý luận soi đường, Kinh nghiệm làm phong phú lý luận)"
+  },
+  {
+    "id": "B72",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Sự thống nhất của thế giới là sự thống nhất ở tính gì?",
+    "options": [
+      "A. Tính vật chất (Tất cả đều là dạng cụ thể của vật chất hoặc có nguồn gốc vật chất)",
+      "B. Tính ý niệm",
+      "C. Tính tồn tại",
+      "D. Tính năng lượng"
+    ],
+    "answer": "A. Tính vật chất (Tất cả đều là dạng cụ thể của vật chất hoặc có nguồn gốc vật chất)"
+  },
+  {
+    "id": "B73",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Không gian và Thời gian có tính chất gì?",
+    "options": [
+      "A. Khách quan, Vĩnh cửu, Vô tận (Không gian 3 chiều, Thời gian 1 chiều)",
+      "B. Chủ quan, Hữu hạn",
+      "C. Do thượng đế quy định",
+      "D. Do cảm giác con người quy định"
+    ],
+    "answer": "A. Khách quan, Vĩnh cửu, Vô tận (Không gian 3 chiều, Thời gian 1 chiều)"
+  },
+  {
+    "id": "B74",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Vận động là phương thức tồn tại của vật chất, nghĩa là:",
+    "options": [
+      "A. Vật chất chỉ tồn tại bằng cách vận động và thông qua vận động mà biểu hiện sự tồn tại",
+      "B. Vật chất có thể không vận động",
+      "C. Vận động do lực lượng bên ngoài tác động",
+      "D. Vận động là tạm thời"
+    ],
+    "answer": "A. Vật chất chỉ tồn tại bằng cách vận động và thông qua vận động mà biểu hiện sự tồn tại"
+  },
+  {
+    "id": "B75",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Nguồn gốc xã hội của ý thức (Lao động và Ngôn ngữ) có vai trò gì so với nguồn gốc tự nhiên?",
+    "options": [
+      "A. Vai trò quyết định trực tiếp sự ra đời của ý thức",
+      "B. Vai trò phụ",
+      "C. Vai trò ngang nhau",
+      "D. Không có vai trò gì"
+    ],
+    "answer": "A. Vai trò quyết định trực tiếp sự ra đời của ý thức"
+  },
+  {
+    "id": "B76",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Phản ánh tâm lý (động vật có hệ thần kinh) khác phản ánh ý thức (con người) ở chỗ nào?",
+    "options": [
+      "A. Tâm lý động vật mang tính bản năng, thụ động; Ý thức con người mang tính năng động, sáng tạo",
+      "B. Động vật không có não",
+      "C. Con người phản ánh chậm hơn",
+      "D. Không khác nhau"
+    ],
+    "answer": "A. Tâm lý động vật mang tính bản năng, thụ động; Ý thức con người mang tính năng động, sáng tạo"
+  },
+  {
+    "id": "B77",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu 'Lấy cái bất biến ứng cái vạn biến' vận dụng cặp phạm trù nào?",
+    "options": [
+      "A. Bản chất (bất biến) và Hiện tượng (vạn biến)",
+      "B. Nguyên nhân và Kết quả",
+      "C. Nội dung và Hình thức",
+      "D. Khả năng và Hiện thực"
+    ],
+    "answer": "A. Bản chất (bất biến) và Hiện tượng (vạn biến)"
+  },
+  {
+    "id": "B78",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Phép biện chứng duy vật có vai trò gì?",
+    "options": [
+      "A. Là công cụ tư duy sắc bén để nhận thức và cải tạo thế giới",
+      "B. Là niềm tin tôn giáo",
+      "C. Là công thức toán học",
+      "D. Là liều thuốc tinh thần"
+    ],
+    "answer": "A. Là công cụ tư duy sắc bén để nhận thức và cải tạo thế giới"
+  },
+  {
+    "id": "B79",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quy luật 'Lượng - Chất' giải thích sự phát triển theo cách nào?",
+    "options": [
+      "A. Phát triển là quá trình tích lũy dần dần (tiến hóa) dẫn đến nhảy vọt (cách mạng)",
+      "B. Phát triển là đường thẳng",
+      "C. Phát triển là sự lặp lại",
+      "D. Phát triển là ngẫu nhiên"
+    ],
+    "answer": "A. Phát triển là quá trình tích lũy dần dần (tiến hóa) dẫn đến nhảy vọt (cách mạng)"
+  },
+  {
+    "id": "B80",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Trong hoạt động nhận thức, 'Thực tiễn' là gì?",
+    "options": [
+      "A. Mục đích của nhận thức (nhận thức để phục vụ thực tiễn)",
+      "B. Khởi điểm của nhận thức",
+      "C. Tiêu chuẩn kiểm tra chân lý",
+      "D. Tất cả các phương án trên"
+    ],
+    "answer": "D. Tất cả các phương án trên"
+  },
+  {
+    "id": "B81",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Con đường biện chứng của sự nhận thức đi từ:",
+    "options": [
+      "A. Trực quan sinh động -> Tư duy trừu tượng -> Thực tiễn",
+      "B. Lý thuyết -> Thực hành",
+      "C. Sách vở -> Cuộc sống",
+      "D. Thầy cô -> Học trò"
+    ],
+    "answer": "A. Trực quan sinh động -> Tư duy trừu tượng -> Thực tiễn"
+  },
+  {
+    "id": "B82",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu 'Trăm nghe không bằng một thấy' đề cao vai trò của:",
+    "options": [
+      "A. Nhận thức cảm tính (Trực quan)",
+      "B. Nhận thức lý tính",
+      "C. Tư duy logic",
+      "D. Kinh nghiệm sách vở"
+    ],
+    "answer": "A. Nhận thức cảm tính (Trực quan)"
+  },
+  {
+    "id": "B83",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu 'Đi một ngày đàng học một sàng khôn' đề cao vai trò của:",
+    "options": [
+      "A. Thực tiễn (đi vào cuộc sống để học hỏi)",
+      "B. Lý luận",
+      "C. Tiền bạc",
+      "D. Bạn bè"
+    ],
+    "answer": "A. Thực tiễn (đi vào cuộc sống để học hỏi)"
+  },
+  {
+    "id": "B84",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Tri thức lý luận có đặc điểm gì nổi bật so với tri thức kinh nghiệm?",
+    "options": [
+      "A. Tính khái quát cao, tính hệ thống, tính khoa học",
+      "B. Tính cụ thể, vụn vặt",
+      "C. Tính trực tiếp",
+      "D. Tính bề ngoài"
+    ],
+    "answer": "A. Tính khái quát cao, tính hệ thống, tính khoa học"
+  },
+  {
+    "id": "B85",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Thực tiễn là hoạt động có tính chất gì?",
+    "options": [
+      "A. Tính vật chất, tính lịch sử - xã hội, tính mục đích",
+      "B. Tính tinh thần",
+      "C. Tính cá nhân",
+      "D. Tính bản năng"
+    ],
+    "answer": "A. Tính vật chất, tính lịch sử - xã hội, tính mục đích"
+  },
+  {
+    "id": "B86",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Bước nhảy (trong quy luật Lượng - Chất) là gì?",
+    "options": [
+      "A. Quá trình biến đổi về chất của sự vật do sự thay đổi về lượng gây ra",
+      "B. Sự thay đổi vị trí",
+      "C. Sự tăng lên về số lượng",
+      "D. Sự giảm đi về số lượng"
+    ],
+    "answer": "A. Quá trình biến đổi về chất của sự vật do sự thay đổi về lượng gây ra"
+  },
+  {
+    "id": "B87",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Mâu thuẫn bên trong giữ vai trò gì đối với sự phát triển?",
+    "options": [
+      "A. Vai trò quyết định trực tiếp",
+      "B. Vai trò phụ",
+      "C. Không có vai trò gì",
+      "D. Cản trở sự phát triển"
+    ],
+    "answer": "A. Vai trò quyết định trực tiếp"
+  },
+  {
+    "id": "B88",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Mâu thuẫn bên ngoài giữ vai trò gì?",
+    "options": [
+      "A. Ảnh hưởng đến sự phát triển (thúc đẩy hoặc kìm hãm) thông qua mâu thuẫn bên trong",
+      "B. Quyết định sự phát triển",
+      "C. Không quan trọng",
+      "D. Quyết định bản chất"
+    ],
+    "answer": "A. Ảnh hưởng đến sự phát triển (thúc đẩy hoặc kìm hãm) thông qua mâu thuẫn bên trong"
+  },
+  {
+    "id": "B89",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quan điểm toàn diện yêu cầu chúng ta phải làm gì khi xem xét sự vật?",
+    "options": [
+      "A. Xem xét tất cả các mặt, các mối liên hệ, nhưng phải biết phân biệt cái cơ bản, chủ yếu",
+      "B. Xem xét dàn trải bình quân",
+      "C. Chỉ xem xét mặt tốt",
+      "D. Chỉ xem xét mặt xấu"
+    ],
+    "answer": "A. Xem xét tất cả các mặt, các mối liên hệ, nhưng phải biết phân biệt cái cơ bản, chủ yếu"
+  },
+  {
+    "id": "B90",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Quan điểm lịch sử - cụ thể yêu cầu gì?",
+    "options": [
+      "A. Khi xem xét sự vật phải đặt nó trong bối cảnh không gian, thời gian và điều kiện cụ thể sinh ra nó",
+      "B. Tách rời sự vật khỏi hoàn cảnh",
+      "C. Chỉ nhìn vào lịch sử quá khứ",
+      "D. Áp đặt kinh nghiệm nơi khác vào"
+    ],
+    "answer": "A. Khi xem xét sự vật phải đặt nó trong bối cảnh không gian, thời gian và điều kiện cụ thể sinh ra nó"
+  },
+  {
+    "id": "B91",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Tại sao phải 'Thường xuyên tự phê bình và phê bình'?",
+    "options": [
+      "A. Để phát hiện và giải quyết mâu thuẫn trong tư tưởng, công tác (động lực phát triển)",
+      "B. Để hạ thấp uy tín người khác",
+      "C. Để gây mất đoàn kết",
+      "D. Để tuân thủ thủ tục"
+    ],
+    "answer": "A. Để phát hiện và giải quyết mâu thuẫn trong tư tưởng, công tác (động lực phát triển)"
+  },
+  {
+    "id": "B92",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu 'Tre già măng mọc' thể hiện tính chất gì?",
+    "options": [
+      "A. Tính kế thừa trong sự phát triển (Phủ định biện chứng)",
+      "B. Tính hủy diệt",
+      "C. Tính ngẫu nhiên",
+      "D. Tính lặp lại y nguyên"
+    ],
+    "answer": "A. Tính kế thừa trong sự phát triển (Phủ định biện chứng)"
+  },
+  {
+    "id": "B93",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Tư duy siêu hình thường mắc sai lầm gì?",
+    "options": [
+      "A. Chỉ nhìn thấy cây mà không thấy rừng, thấy sự vật tĩnh tại, cô lập",
+      "B. Nhìn thấy sự vận động",
+      "C. Nhìn thấy mối liên hệ",
+      "D. Nhìn thấy mâu thuẫn"
+    ],
+    "answer": "A. Chỉ nhìn thấy cây mà không thấy rừng, thấy sự vật tĩnh tại, cô lập"
+  },
+  {
+    "id": "B94",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Câu 'Có công mài sắt có ngày nên kim' khuyên chúng ta điều gì về mặt triết học?",
+    "options": [
+      "A. Phải kiên trì tích lũy về Lượng thì mới dẫn đến sự thay đổi về Chất",
+      "B. Phủ nhận cái cũ",
+      "C. Giải quyết mâu thuẫn",
+      "D. Nắm bắt ngẫu nhiên"
+    ],
+    "answer": "A. Phải kiên trì tích lũy về Lượng thì mới dẫn đến sự thay đổi về Chất"
+  },
+  {
+    "id": "B95",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Triết học Mác - Lênin cho rằng thế giới này:",
+    "options": [
+      "A. Vừa thống nhất (ở tính vật chất) vừa đa dạng (muôn hình muôn vẻ)",
+      "B. Chỉ có sự thống nhất",
+      "C. Chỉ có sự đa dạng",
+      "D. Hỗn loạn vô trật tự"
+    ],
+    "answer": "A. Vừa thống nhất (ở tính vật chất) vừa đa dạng (muôn hình muôn vẻ)"
+  },
+  {
+    "id": "B96",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Khi vận dụng nguyên tắc toàn diện, cần tránh căn bệnh nào?",
+    "options": [
+      "A. Phiến diện (chỉ thấy một chiều) và Chiết trung (lắp ghép vô nguyên tắc)",
+      "B. Giáo điều",
+      "C. Kinh nghiệm",
+      "D. Duy tâm"
+    ],
+    "answer": "A. Phiến diện (chỉ thấy một chiều) và Chiết trung (lắp ghép vô nguyên tắc)"
+  },
+  {
+    "id": "B97",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Chân lý là khách quan, vì vậy:",
+    "options": [
+      "A. Nội dung của chân lý không phụ thuộc vào ý muốn chủ quan của con người",
+      "B. Chân lý do con người tạo ra",
+      "C. Chân lý thuộc về kẻ mạnh",
+      "D. Chân lý không tồn tại"
+    ],
+    "answer": "A. Nội dung của chân lý không phụ thuộc vào ý muốn chủ quan của con người"
+  },
+  {
+    "id": "B98",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Yếu tố nào sau đây không thuộc về Ý thức?",
+    "options": [
+      "A. Bộ não người (Bộ não là vật chất, là cơ quan sinh ra ý thức)",
+      "B. Tri thức",
+      "C. Tình cảm",
+      "D. Niềm tin"
+    ],
+    "answer": "A. Bộ não người (Bộ não là vật chất, là cơ quan sinh ra ý thức)"
+  },
+  {
+    "id": "B99",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Sự vật phát triển theo đường xoáy ốc nghĩa là:",
+    "options": [
+      "A. Quá trình tiến lên nhưng có những bước lùi tạm thời, lặp lại cái cũ nhưng ở trình độ cao hơn",
+      "B. Đi thẳng tắp không gặp trở ngại",
+      "C. Quay về điểm xuất phát ban đầu",
+      "D. Không xác định được hướng"
+    ],
+    "answer": "A. Quá trình tiến lên nhưng có những bước lùi tạm thời, lặp lại cái cũ nhưng ở trình độ cao hơn"
+  },
+  {
+    "id": "B100",
+    "chapter": "Chương 2 - Bổ sung",
+    "question": "Muốn thực sự làm chủ được tự nhiên và xã hội, con người cần phải:",
+    "options": [
+      "A. Nhận thức đúng quy luật khách quan và hành động tuân theo quy luật (Tự do là tất yếu được nhận thức)",
+      "B. Cầu xin thần linh",
+      "C. Chinh phục tự nhiên bằng bạo lực",
+      "D. Sống thuận theo tự nhiên một cách thụ động"
+    ],
+    "answer": "A. Nhận thức đúng quy luật khách quan và hành động tuân theo quy luật (Tự do là tất yếu được nhận thức)"
+  },
+  {
     "id": 169,
     "chapter": "Chương 3",
     "question": "Hoạt động đặc trưng nhất của con người và xã hội loài người là gì?",
