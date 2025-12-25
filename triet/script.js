@@ -104,6 +104,28 @@ function buildQuiz() {
             }
         });
     });
+    
+    // Add event listeners for instant feedback on answer selection
+    document.querySelectorAll('input[type="radio"]').forEach(radio => {
+        radio.addEventListener('change', (e) => {
+            const questionNumber = parseInt(e.target.name.replace('question', ''));
+            const userAnswer = e.target.value;
+            const correctAnswer = currentQuestions[questionNumber].answer;
+            const answerContainer = e.target.closest('.answers');
+            const explanationDiv = document.getElementById(`explanation-${questionNumber}`);
+            
+            if (userAnswer === correctAnswer) {
+                answerContainer.style.color = 'green';
+                answerContainer.style.fontWeight = 'bold';
+            } else {
+                answerContainer.style.color = 'red';
+                answerContainer.style.fontWeight = 'bold';
+            }
+            
+            // Show explanation when answer is selected
+            explanationDiv.style.display = 'block';
+        });
+    });
 }
 
 function showResults() {
@@ -148,4 +170,23 @@ backButton.addEventListener('click', () => {
     quizAreaDiv.style.display = 'none';
     chapterSelectionDiv.style.display = 'block';
     chapterSelect.value = "";
+});
+
+// Music Player Functionality
+const musicToggle = document.getElementById('music-toggle');
+const backgroundMusic = document.getElementById('background-music');
+let isPlaying = false;
+
+musicToggle.addEventListener('click', () => {
+    if (isPlaying) {
+        backgroundMusic.pause();
+        musicToggle.innerHTML = '<i class="fas fa-music"></i>';
+        musicToggle.classList.remove('playing');
+        isPlaying = false;
+    } else {
+        backgroundMusic.play();
+        musicToggle.innerHTML = '<i class="fas fa-volume-up"></i>';
+        musicToggle.classList.add('playing');
+        isPlaying = true;
+    }
 });
